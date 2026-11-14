@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 04:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-15 05:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,14 +24,14 @@
 7. [白小纯居然是来报恩的](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%A5%E6%8A%A5%E6%81%A9%E7%9A%84) — 46.4万 · 热
 8. [中纪委罕见通报高官一把手职权腐败](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5%23) — 42.8万
 9. [男子欠10元10年不还将债主打骨折](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A010%E5%85%8310%E5%B9%B4%E4%B8%8D%E8%BF%98%E5%B0%86%E5%80%BA%E4%B8%BB%E6%89%93%E9%AA%A8%E6%8A%98%23) — 41万 · 新
-10. [清融尽力](https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E5%B0%BD%E5%8A%9B%23) — 37.7万 · 新
+10. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 39.1万 · 新
 
 ### 抖音
 
 1. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1211.9万
 2. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1199.3万
-3. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1135.8万
-4. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1121.9万
+3. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1139.1万
+4. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1135.8万
 5. [北京WB夺得KPL年总冠军](https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B) — 1121.1万
 6. [湘超永州队晋级四强](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E9%98%9F%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA) — 1038.1万
 7. [请选择你的秋假遛娃地](https://www.douyin.com/search/%E8%AF%B7%E9%80%89%E6%8B%A9%E4%BD%A0%E7%9A%84%E7%A7%8B%E5%81%87%E9%81%9B%E5%A8%83%E5%9C%B0) — 1025.3万
