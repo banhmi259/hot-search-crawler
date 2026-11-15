@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-15 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -33,11 +33,11 @@
 3. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1214.4万
 4. [Knight夺得FMVP](https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP) — 1207.1万
 5. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1199.3万
-6. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1159.4万
-7. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1149.1万
-8. [把光借给BLG](https://www.douyin.com/search/%E6%8A%8A%E5%85%89%E5%80%9F%E7%BB%99BLG) — 1145.8万
-9. [一组先行指标看中国经济活力](https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B) — 1124.7万
-10. [北京WB夺得KPL年总冠军](https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B) — 1121.1万
+6. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1165.7万
+7. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1159.4万
+8. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1149.1万
+9. [把光借给BLG](https://www.douyin.com/search/%E6%8A%8A%E5%85%89%E5%80%9F%E7%BB%99BLG) — 1145.8万
+10. [一组先行指标看中国经济活力](https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B) — 1124.7万
 
 ### 小红书
 
