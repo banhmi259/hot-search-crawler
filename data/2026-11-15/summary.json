@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-15",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-15T17:24:18.424518302+08:00",
+  "updated_at": "2026-11-15T18:24:19.316584483+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -64,8 +64,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "boss直聘暂停要求带咖啡公司账号权限",
@@ -125,6 +125,16 @@
           "first_seen": "2026-11-15T12:24:20.312048402+08:00",
           "last_seen": "2026-11-15T16:24:19.968266171+08:00",
           "appearances": 5
+        },
+        {
+          "title": "BLG夺冠赞助商赢麻了",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23",
+          "hot": 1250298,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-15T17:24:16.910689543+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "BLG夺冠Tim送iPhoneDuo",
@@ -189,12 +199,12 @@
         {
           "title": "中国三口之家已不是主流",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%89%E5%8F%A3%E4%B9%8B%E5%AE%B6%E5%B7%B2%E4%B8%8D%E6%98%AF%E4%B8%BB%E6%B5%81%23",
-          "hot": 1038920,
+          "hot": 1054839,
           "tag": "新",
           "best_rank": 2,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "雷鸟到底看了多远",
@@ -213,8 +223,8 @@
           "tag": "新",
           "best_rank": 2,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "梓墨FMVP",
@@ -234,6 +244,16 @@
           "first_seen": "2026-11-15T07:24:18.721788595+08:00",
           "last_seen": "2026-11-15T07:24:18.721788595+08:00",
           "appearances": 1
+        },
+        {
+          "title": "115家世界500强企业参加工商峰会",
+          "url": "https://s.weibo.com/weibo?q=%23115%E5%AE%B6%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E5%8F%82%E5%8A%A0%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A%23",
+          "hot": 918274,
+          "tag": "新",
+          "best_rank": 3,
+          "first_seen": "2026-11-15T15:24:15.191374893+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 4
         },
         {
           "title": "Tim说难听话抽奖",
@@ -256,16 +276,6 @@
           "appearances": 5
         },
         {
-          "title": "115家世界500强企业参加工商峰会",
-          "url": "https://s.weibo.com/weibo?q=%23115%E5%AE%B6%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E5%8F%82%E5%8A%A0%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A%23",
-          "hot": 737273,
-          "tag": "新",
-          "best_rank": 3,
-          "first_seen": "2026-11-15T15:24:15.191374893+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 3
-        },
-        {
           "title": "孩子觉得打包丢人被老师扣分引热议",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A7%89%E5%BE%97%E6%89%93%E5%8C%85%E4%B8%A2%E4%BA%BA%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%A3%E5%88%86%E5%BC%95%E7%83%AD%E8%AE%AE%23",
           "hot": 729502,
@@ -282,8 +292,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-15T15:24:15.191374893+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 4
         },
         {
           "title": "央行重大调整",
@@ -296,6 +306,16 @@
           "appearances": 2
         },
         {
+          "title": "同居4年没领证分手女方被判还9.2万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%854%E5%B9%B4%E6%B2%A1%E9%A2%86%E8%AF%81%E5%88%86%E6%89%8B%E5%A5%B3%E6%96%B9%E8%A2%AB%E5%88%A4%E8%BF%989.2%E4%B8%87%23",
+          "hot": 707859,
+          "tag": "新",
+          "best_rank": 5,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 1
+        },
+        {
           "title": "WB夺冠",
           "url": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
           "hot": 690331,
@@ -303,16 +323,6 @@
           "best_rank": 2,
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
           "last_seen": "2026-11-15T00:24:16.505075727+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "BLG夺冠赞助商赢麻了",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23",
-          "hot": 689195,
-          "tag": "新",
-          "best_rank": 4,
-          "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
           "appearances": 1
         },
         {
@@ -430,8 +440,8 @@
           "tag": "新",
           "best_rank": 6,
           "first_seen": "2026-11-15T16:24:19.968266171+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 3
         },
         {
           "title": "青稚的心结是白小纯太体面",
@@ -500,6 +510,16 @@
           "best_rank": 12,
           "first_seen": "2026-11-15T10:24:18.888474921+08:00",
           "last_seen": "2026-11-15T10:24:18.888474921+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "BLG夺冠语音",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%AF%AD%E9%9F%B3%23",
+          "hot": 468381,
+          "tag": "新",
+          "best_rank": 6,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
           "appearances": 1
         },
         {
@@ -760,17 +780,27 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
+        },
+        {
+          "title": "许飞厉娜 神一天鬼一天",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C+%E7%A5%9E%E4%B8%80%E5%A4%A9%E9%AC%BC%E4%B8%80%E5%A4%A9",
+          "hot": 384089,
+          "best_rank": 8,
+          "first_seen": "2026-11-15T15:24:15.191374893+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 3
         },
         {
           "title": "2026王者荣耀巅峰之夜",
           "url": "https://s.weibo.com/weibo?q=2026%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C",
           "hot": 378622,
+          "tag": "沸",
           "best_rank": 8,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "央视曝光校园举报乱象",
@@ -974,16 +1004,7 @@
           "tag": "新",
           "best_rank": 9,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "许飞厉娜 神一天鬼一天",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C+%E7%A5%9E%E4%B8%80%E5%A4%A9%E9%AC%BC%E4%B8%80%E5%A4%A9",
-          "hot": 336215,
-          "best_rank": 10,
-          "first_seen": "2026-11-15T15:24:15.191374893+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
           "appearances": 2
         },
         {
@@ -993,8 +1014,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "家长举报学校安排学生打扫厕所",
@@ -1013,8 +1034,8 @@
           "tag": "新",
           "best_rank": 14,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "TheShy历史地位遭重估",
@@ -1032,16 +1053,27 @@
           "tag": "新",
           "best_rank": 14,
           "first_seen": "2026-11-15T16:24:19.968266171+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 3
         },
         {
           "title": "老师休产假是法定权利",
           "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%E4%BC%91%E4%BA%A7%E5%81%87%E6%98%AF%E6%B3%95%E5%AE%9A%E6%9D%83%E5%88%A9",
           "hot": 333700,
-          "best_rank": 18,
+          "tag": "新",
+          "best_rank": 14,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "深圳APEC近700辆豪华车队来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E8%BF%91700%E8%BE%86%E8%B1%AA%E5%8D%8E%E8%BD%A6%E9%98%9F%E6%9D%A5%E4%BA%86%23",
+          "hot": 332784,
+          "tag": "新",
+          "best_rank": 9,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
           "appearances": 1
         },
         {
@@ -1083,6 +1115,15 @@
           "first_seen": "2026-11-15T01:24:19.178460731+08:00",
           "last_seen": "2026-11-15T04:24:14.303641245+08:00",
           "appearances": 4
+        },
+        {
+          "title": "朱天天 创造101",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9+%E5%88%9B%E9%80%A0101",
+          "hot": 287550,
+          "best_rank": 18,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 1
         },
         {
           "title": "GEN对战BLG首发名单",
@@ -1131,6 +1172,16 @@
           "first_seen": "2026-11-15T05:24:18.293876626+08:00",
           "last_seen": "2026-11-15T07:24:18.721788595+08:00",
           "appearances": 3
+        },
+        {
+          "title": "无畏帅我一脸",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E5%B8%85%E6%88%91%E4%B8%80%E8%84%B8",
+          "hot": 263411,
+          "tag": "新",
+          "best_rank": 19,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 1
         },
         {
           "title": "失实举报泛滥致老师不敢管教",
@@ -1345,8 +1396,8 @@
           "hot": 12289934,
           "best_rank": 1,
           "first_seen": "2026-11-15T08:24:17.869807665+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 10
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 11
         },
         {
           "title": "BLG 3:1 GEN",
@@ -1354,8 +1405,8 @@
           "hot": 12205971,
           "best_rank": 2,
           "first_seen": "2026-11-15T08:24:17.869807665+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 10
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 11
         },
         {
           "title": "BLG对阵GEN",
@@ -1372,8 +1423,8 @@
           "hot": 12070802,
           "best_rank": 2,
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 10
         },
         {
           "title": "国足2:0马来西亚",
@@ -1435,8 +1486,8 @@
           "hot": 10909365,
           "best_rank": 3,
           "first_seen": "2026-11-15T15:24:15.191374893+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 4
         },
         {
           "title": "请选择你的秋假遛娃地",
@@ -1471,8 +1522,8 @@
           "hot": 10308925,
           "best_rank": 6,
           "first_seen": "2026-11-15T11:07:22.413911585+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 7
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 8
         },
         {
           "title": "葡萄牙不敌丹麦终结四连胜",
@@ -1480,8 +1531,8 @@
           "hot": 10287067,
           "best_rank": 5,
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 10
         },
         {
           "title": "Ruler燃尽了",
@@ -1489,8 +1540,8 @@
           "hot": 10067425,
           "best_rank": 5,
           "first_seen": "2026-11-15T15:24:15.191374893+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 4
         },
         {
           "title": "Bin就是世一上",
@@ -1498,8 +1549,8 @@
           "hot": 10057492,
           "best_rank": 6,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "温柔白月光冬季穿搭",
@@ -1540,11 +1591,11 @@
         {
           "title": "灵山审美已经next level了",
           "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
-          "hot": 8454488,
+          "hot": 8542134,
           "best_rank": 8,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "不穿贵的只穿帅的",
@@ -1567,11 +1618,20 @@
         {
           "title": "BLG夺冠恰逢联盟重大更新",
           "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E6%81%B0%E9%80%A2%E8%81%94%E7%9B%9F%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0",
-          "hot": 8175163,
-          "best_rank": 10,
+          "hot": 8286582,
+          "best_rank": 9,
           "first_seen": "2026-11-15T10:24:18.888474921+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 8
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 9
+        },
+        {
+          "title": "我的BLG夺冠时刻",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB",
+          "hot": 8262778,
+          "best_rank": 10,
+          "first_seen": "2026-11-15T09:24:18.957519292+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 10
         },
         {
           "title": "最有安全感的覆面系出现了",
@@ -1579,8 +1639,8 @@
           "hot": 7864987,
           "best_rank": 8,
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 17
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 18
         },
         {
           "title": "用一次旅行来敬重自己",
@@ -1642,8 +1702,8 @@
           "hot": 7778042,
           "best_rank": 12,
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 18
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 19
         },
         {
           "title": "影院线下看BLG夺冠太顶了",
@@ -1655,13 +1715,13 @@
           "appearances": 3
         },
         {
-          "title": "我的BLG夺冠时刻",
-          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB",
-          "hot": 7764416,
-          "best_rank": 11,
-          "first_seen": "2026-11-15T09:24:18.957519292+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 9
+          "title": "35岁老粉说等这么多年终于夺冠",
+          "url": "https://www.douyin.com/search/35%E5%B2%81%E8%80%81%E7%B2%89%E8%AF%B4%E7%AD%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%A4%BA%E5%86%A0",
+          "hot": 7771414,
+          "best_rank": 12,
+          "first_seen": "2026-11-15T12:24:20.312048402+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 7
         },
         {
           "title": "369直播复盘S16决赛",
@@ -1673,22 +1733,22 @@
           "appearances": 1
         },
         {
-          "title": "35岁老粉说等这么多年终于夺冠",
-          "url": "https://www.douyin.com/search/35%E5%B2%81%E8%80%81%E7%B2%89%E8%AF%B4%E7%AD%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%A4%BA%E5%86%A0",
-          "hot": 7756913,
-          "best_rank": 14,
-          "first_seen": "2026-11-15T12:24:20.312048402+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 6
-        },
-        {
           "title": "慌啥子嘛配什么都好治愈",
           "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E9%85%8D%E4%BB%80%E4%B9%88%E9%83%BD%E5%A5%BD%E6%B2%BB%E6%84%88",
           "hot": 7755700,
           "best_rank": 11,
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 17
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 18
+        },
+        {
+          "title": "369晒Knight合照祝贺BLG夺冠",
+          "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
+          "hot": 7751926,
+          "best_rank": 14,
+          "first_seen": "2026-11-15T17:24:16.910689543+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 2
         },
         {
           "title": "KPL年度总决赛现场直击",
@@ -1745,6 +1805,15 @@
           "appearances": 8
         },
         {
+          "title": "司空震FMVP新皮肤",
+          "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
+          "hot": 7736547,
+          "best_rank": 14,
+          "first_seen": "2026-11-15T08:24:17.869807665+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 9
+        },
+        {
           "title": "央视新闻祝贺BLG夺冠",
           "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
           "hot": 7735706,
@@ -1754,31 +1823,13 @@
           "appearances": 1
         },
         {
-          "title": "369晒Knight合照祝贺BLG夺冠",
-          "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
-          "hot": 7730971,
-          "best_rank": 17,
-          "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "司空震FMVP新皮肤",
-          "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
-          "hot": 7730630,
-          "best_rank": 14,
-          "first_seen": "2026-11-15T08:24:17.869807665+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 8
-        },
-        {
           "title": "李炮骑三蹦子勇闯泥潭越野赛",
           "url": "https://www.douyin.com/search/%E6%9D%8E%E7%82%AE%E9%AA%91%E4%B8%89%E8%B9%A6%E5%AD%90%E5%8B%87%E9%97%AF%E6%B3%A5%E6%BD%AD%E8%B6%8A%E9%87%8E%E8%B5%9B",
-          "hot": 7729154,
+          "hot": 7732078,
           "best_rank": 14,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "许飞专辑开售销量破万",
@@ -1813,8 +1864,8 @@
           "hot": 7727226,
           "best_rank": 15,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 5
         },
         {
           "title": "马刺38分大胜勇士豪取11连胜",
@@ -1833,6 +1884,15 @@
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
           "last_seen": "2026-11-15T13:24:19.32620431+08:00",
           "appearances": 14
+        },
+        {
+          "title": "所有人进入暑假时代",
+          "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
+          "hot": 7722535,
+          "best_rank": 19,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "appearances": 1
         },
         {
           "title": "现场见证SpaceX星舰爆炸",
