@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -37,7 +37,7 @@
 7. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1049.1万
 8. [369晒Knight合照祝贺BLG夺冠](https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0) — 1047.7万
 9. [湘超永州球员发文庆祝挺进四强](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E7%90%83%E5%91%98%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA) — 1046.5万
-10. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 905.9万
+10. [17国谴责以色列破坏停火协议](https://www.douyin.com/search/17%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E7%A0%B4%E5%9D%8F%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE) — 1040.4万
 
 ### 小红书
 
