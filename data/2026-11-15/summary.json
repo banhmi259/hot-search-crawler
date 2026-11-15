@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-15",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-15T22:24:18.602577186+08:00",
+  "updated_at": "2026-11-15T23:24:16.69272913+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -133,8 +133,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-15T19:24:17.873015529+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 5
         },
         {
           "title": "BLG夺冠赞助商赢麻了",
@@ -143,8 +143,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 6
         },
         {
           "title": "方博复出首冠",
@@ -153,8 +153,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
         },
         {
           "title": "BLG夺冠Tim送iPhoneDuo",
@@ -185,6 +185,15 @@
           "first_seen": "2026-11-15T20:24:15.032101678+08:00",
           "last_seen": "2026-11-15T21:24:16.2596053+08:00",
           "appearances": 2
+        },
+        {
+          "title": "买衣服别被面料名字忽悠",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
+          "hot": 1165156,
+          "best_rank": 1,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
         },
         {
           "title": "Viper回应是否留在BLG",
@@ -292,8 +301,8 @@
           "tag": "新",
           "best_rank": 3,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "内娱这样的台词我等了二十年",
@@ -302,8 +311,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "易坦子融花vs钎九不清冰",
@@ -550,8 +559,8 @@
           "tag": "新",
           "best_rank": 6,
           "first_seen": "2026-11-15T20:24:15.032101678+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 4
         },
         {
           "title": "张家齐妈妈是北京拆迁户",
@@ -795,8 +804,8 @@
           "tag": "综艺",
           "best_rank": 7,
           "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
         },
         {
           "title": "高迪宣布取消明年1月演唱会",
@@ -844,8 +853,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "Lisa把钱塞腰上被质疑",
@@ -854,8 +863,8 @@
           "tag": "热",
           "best_rank": 12,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "曝许飞退群",
@@ -864,8 +873,8 @@
           "tag": "新",
           "best_rank": 12,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "小猴子遇见孙悟空不停上手触碰",
@@ -946,6 +955,16 @@
           "appearances": 1
         },
         {
+          "title": "BLG庆功宴",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
+          "hot": 411420,
+          "tag": "新",
+          "best_rank": 7,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
+        },
+        {
           "title": "男子欠10元10年不还将债主打骨折",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A010%E5%85%8310%E5%B9%B4%E4%B8%8D%E8%BF%98%E5%B0%86%E5%80%BA%E4%B8%BB%E6%89%93%E9%AA%A8%E6%8A%98%23",
           "hot": 410289,
@@ -972,6 +991,15 @@
           "best_rank": 15,
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
           "last_seen": "2026-11-15T09:24:18.957519292+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "猪肉价跌得有多狠",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E8%B7%8C%E5%BE%97%E6%9C%89%E5%A4%9A%E7%8B%A0%23",
+          "hot": 406749,
+          "best_rank": 8,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
           "appearances": 1
         },
         {
@@ -1060,6 +1088,16 @@
           "first_seen": "2026-11-15T01:24:19.178460731+08:00",
           "last_seen": "2026-11-15T08:24:17.869807665+08:00",
           "appearances": 7
+        },
+        {
+          "title": "砒霜口服药首席研究员发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E9%A6%96%E5%B8%AD%E7%A0%94%E7%A9%B6%E5%91%98%E5%8F%91%E5%A3%B0%23",
+          "hot": 391105,
+          "tag": "新",
+          "best_rank": 9,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
         },
         {
           "title": "许飞退群原因",
@@ -1380,7 +1418,17 @@
           "tag": "新",
           "best_rank": 19,
           "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "白鹿换新手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23",
+          "hot": 303804,
+          "tag": "新",
+          "best_rank": 12,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
           "appearances": 1
         },
         {
@@ -1404,6 +1452,26 @@
           "appearances": 2
         },
         {
+          "title": "侯明昊工作室谴责品牌违规售票",
+          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B0%B4%E8%B4%A3%E5%93%81%E7%89%8C%E8%BF%9D%E8%A7%84%E5%94%AE%E7%A5%A8",
+          "hot": 300572,
+          "tag": "新",
+          "best_rank": 13,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "红果AI漫剧热播榜排名TOP10",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23",
+          "hot": 293224,
+          "tag": "新",
+          "best_rank": 16,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
+        },
+        {
           "title": "厉娜我和雪梨飞雪合一下影",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E6%88%91%E5%92%8C%E9%9B%AA%E6%A2%A8%E9%A3%9E%E9%9B%AA%E5%90%88%E4%B8%80%E4%B8%8B%E5%BD%B1%23",
           "hot": 291650,
@@ -1414,13 +1482,23 @@
           "appearances": 4
         },
         {
+          "title": "韩网友爆料Jennie妈妈",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88%23",
+          "hot": 291313,
+          "tag": "新",
+          "best_rank": 17,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
+        },
+        {
           "title": "朱天天 创造101",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9+%E5%88%9B%E9%80%A0101",
           "hot": 287550,
           "best_rank": 18,
           "first_seen": "2026-11-15T18:24:16.446205467+08:00",
-          "last_seen": "2026-11-15T18:24:16.446205467+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
         },
         {
           "title": "十个勤天见面四周年",
@@ -1722,8 +1800,8 @@
           "hot": 12289934,
           "best_rank": 1,
           "first_seen": "2026-11-15T08:24:17.869807665+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 15
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 16
         },
         {
           "title": "BLG 3:1 GEN",
@@ -1744,22 +1822,22 @@
           "appearances": 8
         },
         {
+          "title": "灵山审美已经next level了",
+          "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
+          "hot": 12103254,
+          "best_rank": 1,
+          "first_seen": "2026-11-15T14:24:14.7548359+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 10
+        },
+        {
           "title": "Knight夺得FMVP",
           "url": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP",
           "hot": 12070802,
           "best_rank": 2,
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 14
-        },
-        {
-          "title": "灵山审美已经next level了",
-          "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
-          "hot": 12049851,
-          "best_rank": 1,
-          "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 15
         },
         {
           "title": "罗圈村千年银杏树进入最佳观赏期",
@@ -1767,8 +1845,8 @@
           "hot": 12028197,
           "best_rank": 1,
           "first_seen": "2026-11-15T11:07:22.413911585+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 12
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 13
         },
         {
           "title": "国足2:0马来西亚",
@@ -1794,8 +1872,8 @@
           "hot": 11533178,
           "best_rank": 3,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "我国新增3处世界地质遗产地",
@@ -1813,6 +1891,15 @@
           "best_rank": 2,
           "first_seen": "2026-11-15T06:24:16.371805378+08:00",
           "last_seen": "2026-11-15T07:24:18.721788595+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "吃商极高的人都爱路边饭",
+          "url": "https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD",
+          "hot": 11400735,
+          "best_rank": 4,
+          "first_seen": "2026-11-15T22:24:16.137371613+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
           "appearances": 2
         },
         {
@@ -1848,8 +1935,8 @@
           "hot": 11098061,
           "best_rank": 1,
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 14
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 15
         },
         {
           "title": "4分钟读懂APEC",
@@ -1861,6 +1948,15 @@
           "appearances": 6
         },
         {
+          "title": "深度复盘BLG决赛表现",
+          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
+          "hot": 10795328,
+          "best_rank": 5,
+          "first_seen": "2026-11-15T21:24:16.2596053+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
+        },
+        {
           "title": "请选择你的秋假遛娃地",
           "url": "https://www.douyin.com/search/%E8%AF%B7%E9%80%89%E6%8B%A9%E4%BD%A0%E7%9A%84%E7%A7%8B%E5%81%87%E9%81%9B%E5%A8%83%E5%9C%B0",
           "hot": 10753246,
@@ -1868,15 +1964,6 @@
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
           "last_seen": "2026-11-15T11:07:22.413911585+08:00",
           "appearances": 12
-        },
-        {
-          "title": "深度复盘BLG决赛表现",
-          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
-          "hot": 10716030,
-          "best_rank": 5,
-          "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
         },
         {
           "title": "BLG夺冠了你们知道吗",
@@ -1890,11 +1977,11 @@
         {
           "title": "第一视角记录APEC瞬间",
           "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4",
-          "hot": 10478979,
+          "hot": 10613920,
           "best_rank": 6,
           "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
         },
         {
           "title": "湘超永州队晋级四强",
@@ -1911,8 +1998,8 @@
           "hot": 10380955,
           "best_rank": 5,
           "first_seen": "2026-11-15T17:24:16.910689543+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 7
         },
         {
           "title": "李炮骑三蹦子勇闯泥潭越野赛",
@@ -1938,8 +2025,8 @@
           "hot": 10057492,
           "best_rank": 6,
           "first_seen": "2026-11-15T14:24:14.7548359+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 10
         },
         {
           "title": "温柔白月光冬季穿搭",
@@ -1960,13 +2047,31 @@
           "appearances": 3
         },
         {
+          "title": "方博13年后再夺男单冠军",
+          "url": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A13%E5%B9%B4%E5%90%8E%E5%86%8D%E5%A4%BA%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
+          "hot": 9305967,
+          "best_rank": 8,
+          "first_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "王多多S16结束语",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%A4%9A%E5%A4%9AS16%E7%BB%93%E6%9D%9F%E8%AF%AD",
+          "hot": 9294409,
+          "best_rank": 8,
+          "first_seen": "2026-11-15T19:24:17.873015529+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 5
+        },
+        {
           "title": "司空震FMVP新皮肤",
           "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
           "hot": 9160438,
           "best_rank": 7,
           "first_seen": "2026-11-15T08:24:17.869807665+08:00",
-          "last_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "appearances": 12
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 13
         },
         {
           "title": "孩子的想象力太治愈了",
@@ -1987,22 +2092,13 @@
           "appearances": 4
         },
         {
-          "title": "王多多S16结束语",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%A4%9A%E5%A4%9AS16%E7%BB%93%E6%9D%9F%E8%AF%AD",
-          "hot": 8983432,
-          "best_rank": 8,
-          "first_seen": "2026-11-15T19:24:17.873015529+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
+          "title": "美国迈阿密机场两飞机相撞",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E",
+          "hot": 8986608,
+          "best_rank": 10,
+          "first_seen": "2026-11-15T20:24:15.032101678+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
           "appearances": 4
-        },
-        {
-          "title": "吃商极高的人都爱路边饭",
-          "url": "https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD",
-          "hot": 8931701,
-          "best_rank": 8,
-          "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 1
         },
         {
           "title": "影院线下看BLG夺冠太顶了",
@@ -2032,22 +2128,13 @@
           "appearances": 9
         },
         {
-          "title": "美国迈阿密机场两飞机相撞",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E",
-          "hot": 8692972,
-          "best_rank": 10,
-          "first_seen": "2026-11-15T20:24:15.032101678+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 3
-        },
-        {
           "title": "樊振东出战德甲乒乓球第八轮",
           "url": "https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%87%BA%E6%88%98%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E7%AC%AC%E5%85%AB%E8%BD%AE",
           "hot": 8451898,
           "best_rank": 11,
           "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
         },
         {
           "title": "谢霆锋杭州演唱会",
@@ -2068,6 +2155,15 @@
           "appearances": 2
         },
         {
+          "title": "打生物制剂能根治过敏吗",
+          "url": "https://www.douyin.com/search/%E6%89%93%E7%94%9F%E7%89%A9%E5%88%B6%E5%89%82%E8%83%BD%E6%A0%B9%E6%B2%BB%E8%BF%87%E6%95%8F%E5%90%97",
+          "hot": 8327133,
+          "best_rank": 13,
+          "first_seen": "2026-11-15T21:24:16.2596053+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 3
+        },
+        {
           "title": "高铁为什么完全密封",
           "url": "https://www.douyin.com/search/%E9%AB%98%E9%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%8C%E5%85%A8%E5%AF%86%E5%B0%81",
           "hot": 8311961,
@@ -2075,15 +2171,6 @@
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
           "last_seen": "2026-11-15T20:24:15.032101678+08:00",
           "appearances": 21
-        },
-        {
-          "title": "打生物制剂能根治过敏吗",
-          "url": "https://www.douyin.com/search/%E6%89%93%E7%94%9F%E7%89%A9%E5%88%B6%E5%89%82%E8%83%BD%E6%A0%B9%E6%B2%BB%E8%BF%87%E6%95%8F%E5%90%97",
-          "hot": 8288526,
-          "best_rank": 13,
-          "first_seen": "2026-11-15T21:24:16.2596053+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 2
         },
         {
           "title": "BLG夺冠恰逢联盟重大更新",
@@ -2106,11 +2193,11 @@
         {
           "title": "爱乐之城群像齐舞挑战",
           "url": "https://www.douyin.com/search/%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%E7%BE%A4%E5%83%8F%E9%BD%90%E8%88%9E%E6%8C%91%E6%88%98",
-          "hot": 7953140,
+          "hot": 7979928,
           "best_rank": 15,
           "first_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 2
         },
         {
           "title": "最有安全感的覆面系出现了",
@@ -2118,8 +2205,8 @@
           "hot": 7864987,
           "best_rank": 8,
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
-          "last_seen": "2026-11-15T22:24:16.137371613+08:00",
-          "appearances": 21
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 22
         },
         {
           "title": "用一次旅行来敬重自己",
@@ -2174,6 +2261,15 @@
           "first_seen": "2026-11-15T09:24:18.957519292+08:00",
           "last_seen": "2026-11-15T14:24:14.7548359+08:00",
           "appearances": 5
+        },
+        {
+          "title": "所有人进入暑假时代",
+          "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
+          "hot": 7778288,
+          "best_rank": 18,
+          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
+          "last_seen": "2026-11-15T23:24:15.366316257+08:00",
+          "appearances": 4
         },
         {
           "title": "35岁老粉说等这么多年终于夺冠",
@@ -2264,15 +2360,6 @@
           "first_seen": "2026-11-15T00:24:16.505075727+08:00",
           "last_seen": "2026-11-15T08:24:17.869807665+08:00",
           "appearances": 8
-        },
-        {
-          "title": "所有人进入暑假时代",
-          "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
-          "hot": 7741321,
-          "best_rank": 19,
-          "first_seen": "2026-11-15T18:24:16.446205467+08:00",
-          "last_seen": "2026-11-15T20:24:15.032101678+08:00",
-          "appearances": 3
         },
         {
           "title": "BLG夺冠雷鸟看得到底有多远",
