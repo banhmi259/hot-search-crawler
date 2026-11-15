@@ -1,145 +1,145 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T23:24:15.366316257+08:00",
+  "generated_at": "2026-11-16T00:24:17.074656649+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-15T23:24:16.212116137+08:00",
-      "elapsed_ms": 845,
+      "fetched_at": "2026-11-16T00:24:17.920728971+08:00",
+      "elapsed_ms": 846,
       "items": [
         {
           "rank": 1,
-          "title": "买衣服别被面料名字忽悠",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
-          "hot": 1165156
+          "title": "国乒全军覆没34岁方博夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23",
+          "hot": 1891949,
+          "tag": "新"
         },
         {
           "rank": 2,
-          "title": "方博复出首冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0%23",
-          "hot": 896949
+          "title": "买衣服别被面料名字忽悠",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
+          "hot": 827700
         },
         {
           "rank": 3,
           "title": "中国古诗中的又一村成了他的家",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23",
-          "hot": 719490
+          "hot": 616273
         },
         {
           "rank": 4,
           "title": "内娱这样的台词我等了二十年",
           "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4",
-          "hot": 697371,
+          "hot": 430552,
           "tag": "剧集"
         },
         {
           "rank": 5,
-          "title": "砒霜口服药让白血病患存活率超97%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%AE%A9%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%AD%98%E6%B4%BB%E7%8E%87%E8%B6%8597%25%23",
-          "hot": 583289
+          "title": "BLG庆功宴",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
+          "hot": 391646,
+          "tag": "新"
         },
         {
           "rank": 6,
-          "title": "曝DK全员离队",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DDK%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F%23",
-          "hot": 442239
+          "title": "丹麦新工签将向中国公民开放",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%B9%E9%BA%A6%E6%96%B0%E5%B7%A5%E7%AD%BE%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BC%80%E6%94%BE",
+          "hot": 294365
         },
         {
           "rank": 7,
-          "title": "BLG庆功宴",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
-          "hot": 411420,
-          "tag": "新"
+          "title": "砒霜口服药让白血病患存活率超97%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%AE%A9%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%AD%98%E6%B4%BB%E7%8E%87%E8%B6%8597%25%23",
+          "hot": 286639
         },
         {
           "rank": 8,
-          "title": "猪肉价跌得有多狠",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E8%B7%8C%E5%BE%97%E6%9C%89%E5%A4%9A%E7%8B%A0%23",
-          "hot": 406749
+          "title": "曝DK全员离队",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DDK%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F%23",
+          "hot": 239752
         },
         {
           "rank": 9,
-          "title": "砒霜口服药首席研究员发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E9%A6%96%E5%B8%AD%E7%A0%94%E7%A9%B6%E5%91%98%E5%8F%91%E5%A3%B0%23",
-          "hot": 391105,
-          "tag": "新"
+          "title": "猪肉价跌得有多狠",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E8%B7%8C%E5%BE%97%E6%9C%89%E5%A4%9A%E7%8B%A0%23",
+          "hot": 216090
         },
         {
           "rank": 10,
           "title": "胡先煦我后面几期更笨",
           "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%88%91%E5%90%8E%E9%9D%A2%E5%87%A0%E6%9C%9F%E6%9B%B4%E7%AC%A8%23",
-          "hot": 308511,
+          "hot": 178198,
           "tag": "综艺"
         },
         {
           "rank": 11,
-          "title": "青稚聊天记录",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
-          "hot": 307248,
-          "tag": "热"
-        },
-        {
-          "rank": 12,
-          "title": "白鹿换新手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23",
-          "hot": 303804,
+          "title": "穆祉丞18岁最后一条动态",
+          "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E18%E5%B2%81%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%8A%A8%E6%80%81",
+          "hot": 177226,
           "tag": "新"
         },
         {
+          "rank": 12,
+          "title": "青稚聊天记录",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+          "hot": 176414,
+          "tag": "热"
+        },
+        {
           "rank": 13,
-          "title": "侯明昊工作室谴责品牌违规售票",
-          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B0%B4%E8%B4%A3%E5%93%81%E7%89%8C%E8%BF%9D%E8%A7%84%E5%94%AE%E7%A5%A8",
-          "hot": 300572,
+          "title": "红果AI漫剧热播榜排名TOP10",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23",
+          "hot": 175004,
           "tag": "新"
         },
         {
           "rank": 14,
           "title": "曝许飞退群",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%23",
-          "hot": 298984,
+          "hot": 173096,
           "tag": "热"
         },
         {
           "rank": 15,
           "title": "Lisa把钱塞腰上被质疑",
           "url": "https://s.weibo.com/weibo?q=Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E8%85%B0%E4%B8%8A%E8%A2%AB%E8%B4%A8%E7%96%91",
-          "hot": 296416,
-          "tag": "热"
+          "hot": 172923,
+          "tag": "演出"
         },
         {
           "rank": 16,
-          "title": "红果AI漫剧热播榜排名TOP10",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23",
-          "hot": 293224,
-          "tag": "新"
+          "title": "白鹿换新手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23",
+          "hot": 170378
         },
         {
           "rank": 17,
-          "title": "韩网友爆料Jennie妈妈",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88%23",
-          "hot": 291313,
-          "tag": "新"
+          "title": "侯明昊工作室谴责品牌违规售票",
+          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B0%B4%E8%B4%A3%E5%93%81%E7%89%8C%E8%BF%9D%E8%A7%84%E5%94%AE%E7%A5%A8",
+          "hot": 169837
         },
         {
           "rank": 18,
-          "title": "朱天天 创造101",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9+%E5%88%9B%E9%80%A0101",
-          "hot": 267663
+          "title": "方博复出首冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0%23",
+          "hot": 168893
         },
         {
           "rank": 19,
-          "title": "青稚前女友六点澄清",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%85%AD%E7%82%B9%E6%BE%84%E6%B8%85",
-          "hot": 266262
+          "title": "韩网友爆料Jennie妈妈",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88%23",
+          "hot": 166972,
+          "tag": "新"
         },
         {
           "rank": 20,
-          "title": "BLG夺冠赞助商赢麻了",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23",
-          "hot": 249951
+          "title": "方博回应复出夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%A4%BA%E5%86%A0%23",
+          "hot": 166402,
+          "tag": "新"
         }
       ]
     },
@@ -147,14 +147,27 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-15T23:24:16.692041841+08:00",
-      "elapsed_ms": 1325,
+      "fetched_at": "2026-11-16T00:24:19.244533389+08:00",
+      "elapsed_ms": 2169,
       "items": [
         {
           "rank": 1,
+          "title": "深度复盘BLG决赛表现",
+          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
+          "hot": 12106786,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794712685,
+            "label": 3,
+            "sentence_id": "2746979",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 2,
           "title": "灵山审美已经next level了",
           "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
-          "hot": 12103254,
+          "hot": 11491932,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794710440,
@@ -164,10 +177,23 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "APEC进口农产品丰富中国餐桌",
+          "url": "https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C",
+          "hot": 11402347,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794745695,
+            "label": 3,
+            "sentence_id": "2747777",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
           "title": "罗圈村千年银杏树进入最佳观赏期",
           "url": "https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F",
-          "hot": 11915265,
+          "hot": 11315615,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794707474,
@@ -177,22 +203,10 @@
           }
         },
         {
-          "rank": 3,
-          "title": "APEC进口农产品丰富中国餐桌",
-          "url": "https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C",
-          "hot": 11475416,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794745695,
-            "sentence_id": "2747777",
-            "video_count": 1
-          }
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "吃商极高的人都爱路边饭",
           "url": "https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD",
-          "hot": 11400735,
+          "hot": 10500460,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794712802,
@@ -202,22 +216,10 @@
           }
         },
         {
-          "rank": 5,
-          "title": "深度复盘BLG决赛表现",
-          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
-          "hot": 10795328,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794712685,
-            "sentence_id": "2746979",
-            "video_count": 6
-          }
-        },
-        {
           "rank": 6,
           "title": "第一视角记录APEC瞬间",
           "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4",
-          "hot": 10613920,
+          "hot": 10462188,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794734705,
@@ -230,7 +232,7 @@
           "rank": 7,
           "title": "369晒Knight合照祝贺BLG夺冠",
           "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
-          "hot": 9390037,
+          "hot": 9287203,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794704926,
@@ -240,47 +242,9 @@
         },
         {
           "rank": 8,
-          "title": "方博13年后再夺男单冠军",
-          "url": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A13%E5%B9%B4%E5%90%8E%E5%86%8D%E5%A4%BA%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
-          "hot": 9305967,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794752724,
-            "label": 1,
-            "sentence_id": "2747895",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 9,
-          "title": "王多多S16结束语",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%A4%9A%E5%A4%9AS16%E7%BB%93%E6%9D%9F%E8%AF%AD",
-          "hot": 9294409,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794715791,
-            "label": 3,
-            "sentence_id": "2747042",
-            "video_count": 1
-          }
-        },
-        {
-          "rank": 10,
-          "title": "美国迈阿密机场两飞机相撞",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E",
-          "hot": 8986608,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794722324,
-            "sentence_id": "2747209",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 11,
           "title": "司空震FMVP新皮肤",
           "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
-          "hot": 8663853,
+          "hot": 8950337,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794698450,
@@ -289,22 +253,59 @@
           }
         },
         {
-          "rank": 12,
-          "title": "BLG夺冠",
-          "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0",
-          "hot": 8637725,
+          "rank": 9,
+          "title": "在白帝城看到了齐天大圣",
+          "url": "https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3",
+          "hot": 8842833,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794701001,
-            "sentence_id": "2746751",
-            "video_count": 10
+            "event_time": 1794707311,
+            "sentence_id": "2746844",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 10,
+          "title": "美国迈阿密机场两飞机相撞",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E",
+          "hot": 8669742,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794722324,
+            "label": 3,
+            "sentence_id": "2747209",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 11,
+          "title": "不穿贵的只穿帅的",
+          "url": "https://www.douyin.com/search/%E4%B8%8D%E7%A9%BF%E8%B4%B5%E7%9A%84%E5%8F%AA%E7%A9%BF%E5%B8%85%E7%9A%84",
+          "hot": 8601625,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794657246,
+            "sentence_id": "2746409",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 12,
+          "title": "Bin就是世一上",
+          "url": "https://www.douyin.com/search/Bin%E5%B0%B1%E6%98%AF%E4%B8%96%E4%B8%80%E4%B8%8A",
+          "hot": 8480447,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794702597,
+            "sentence_id": "2746775",
+            "video_count": 4
           }
         },
         {
           "rank": 13,
           "title": "打生物制剂能根治过敏吗",
           "url": "https://www.douyin.com/search/%E6%89%93%E7%94%9F%E7%89%A9%E5%88%B6%E5%89%82%E8%83%BD%E6%A0%B9%E6%B2%BB%E8%BF%87%E6%95%8F%E5%90%97",
-          "hot": 8327133,
+          "hot": 8080052,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794746400,
@@ -315,21 +316,22 @@
         },
         {
           "rank": 14,
-          "title": "Bin就是世一上",
-          "url": "https://www.douyin.com/search/Bin%E5%B0%B1%E6%98%AF%E4%B8%96%E4%B8%80%E4%B8%8A",
-          "hot": 8060693,
+          "title": "方博13年后再夺男单冠军",
+          "url": "https://www.douyin.com/search/%E6%96%B9%E5%8D%9A13%E5%B9%B4%E5%90%8E%E5%86%8D%E5%A4%BA%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
+          "hot": 7888489,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794702597,
-            "sentence_id": "2746775",
-            "video_count": 4
+            "event_time": 1794752724,
+            "label": 1,
+            "sentence_id": "2747895",
+            "video_count": 7
           }
         },
         {
           "rank": 15,
           "title": "爱乐之城群像齐舞挑战",
           "url": "https://www.douyin.com/search/%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%E7%BE%A4%E5%83%8F%E9%BD%90%E8%88%9E%E6%8C%91%E6%88%98",
-          "hot": 7979928,
+          "hot": 7887065,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794726904,
@@ -340,22 +342,9 @@
         },
         {
           "rank": 16,
-          "title": "樊振东出战德甲乒乓球第八轮",
-          "url": "https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%87%BA%E6%88%98%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E7%AC%AC%E5%85%AB%E8%BD%AE",
-          "hot": 7803649,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794746130,
-            "label": 1,
-            "sentence_id": "2747786",
-            "video_count": 4
-          }
-        },
-        {
-          "rank": 17,
           "title": "Knight夺得FMVP",
           "url": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP",
-          "hot": 7796224,
+          "hot": 7843242,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794702341,
@@ -364,10 +353,22 @@
           }
         },
         {
+          "rank": 17,
+          "title": "BLG一穿四LCK战队",
+          "url": "https://www.douyin.com/search/BLG%E4%B8%80%E7%A9%BF%E5%9B%9BLCK%E6%88%98%E9%98%9F",
+          "hot": 7824337,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794701361,
+            "sentence_id": "2746760",
+            "video_count": 10
+          }
+        },
+        {
           "rank": 18,
           "title": "所有人进入暑假时代",
           "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
-          "hot": 7778288,
+          "hot": 7804164,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794722521,
@@ -378,27 +379,26 @@
         },
         {
           "rank": 19,
+          "title": "BLG夺冠",
+          "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0",
+          "hot": 7799311,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794701001,
+            "sentence_id": "2746751",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 20,
           "title": "葡萄牙不敌丹麦终结四连胜",
           "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E4%B8%8D%E6%95%8C%E4%B8%B9%E9%BA%A6%E7%BB%88%E7%BB%93%E5%9B%9B%E8%BF%9E%E8%83%9C",
-          "hot": 7777488,
+          "hot": 7790456,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794698034,
             "sentence_id": "2746720",
             "video_count": 5
-          }
-        },
-        {
-          "rank": 20,
-          "title": "最有安全感的覆面系出现了",
-          "url": "https://www.douyin.com/search/%E6%9C%80%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E8%A6%86%E9%9D%A2%E7%B3%BB%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "hot": 7766795,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794641689,
-            "label": 9,
-            "sentence_id": "2746096",
-            "video_count": 10
           }
         }
       ]
@@ -406,11 +406,223 @@
     {
       "platform": "xiaohongshu",
       "name": "小红书",
-      "ok": false,
-      "fetched_at": "2026-11-15T23:24:16.129054853+08:00",
-      "elapsed_ms": 762,
-      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
-      "items": []
+      "ok": true,
+      "fetched_at": "2026-11-16T00:24:17.412330958+08:00",
+      "elapsed_ms": 337,
+      "items": [
+        {
+          "rank": 1,
+          "title": "用万能旅行拍照姿势美美出片",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87",
+          "hot": 9475000,
+          "hot_text": "947.5w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2178732"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "耗时三年拍下古诗词里的中国",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
+          "hot": 9348000,
+          "hot_text": "934.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2161449"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "我拍到了海鸥雨",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8",
+          "hot": 9032000,
+          "hot_text": "903.2w",
+          "extra": {
+            "id": "dora_2176591"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "超日常美食教程速来get",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get",
+          "hot": 8860000,
+          "hot_text": "886w",
+          "extra": {
+            "id": "dora_2302795"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "定格这一刻的日照金山",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1",
+          "hot": 8711000,
+          "hot_text": "871.1w",
+          "extra": {
+            "id": "dora_2179007"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "你可以永远相信赛里木湖的美景",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF",
+          "hot": 7831000,
+          "hot_text": "783.1w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2178980"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "拼豆上也可以作画了",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86",
+          "hot": 7498000,
+          "hot_text": "749.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2171736"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "我的家庭旅行更像是打副本",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC",
+          "hot": 7371000,
+          "hot_text": "737.1w",
+          "extra": {
+            "id": "dora_2176059"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "原来古诗词里的河南真的存在",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8",
+          "hot": 7278000,
+          "hot_text": "727.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2171324"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "蒸出了奶香爆米花馒头",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4",
+          "hot": 7162000,
+          "hot_text": "716.2w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2171598"
+          }
+        },
+        {
+          "rank": 11,
+          "title": "这可能是江西最被低估的一座山",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B1%9F%E8%A5%BF%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%80%E5%BA%A7%E5%B1%B1",
+          "hot": 7030000,
+          "hot_text": "703w",
+          "extra": {
+            "id": "dora_2178382"
+          }
+        },
+        {
+          "rank": 12,
+          "title": "海边日落赴一场温柔约会",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E8%B5%B4%E4%B8%80%E5%9C%BA%E6%B8%A9%E6%9F%94%E7%BA%A6%E4%BC%9A",
+          "hot": 6894000,
+          "hot_text": "689.4w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2179016"
+          }
+        },
+        {
+          "rank": 13,
+          "title": "拼豆也能当火漆印章玩",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B9%9F%E8%83%BD%E5%BD%93%E7%81%AB%E6%BC%86%E5%8D%B0%E7%AB%A0%E7%8E%A9",
+          "hot": 2417000,
+          "hot_text": "241.7w",
+          "extra": {
+            "id": "dora_2166532"
+          }
+        },
+        {
+          "rank": 14,
+          "title": "我创造了新型遛狗法",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E5%88%9B%E9%80%A0%E4%BA%86%E6%96%B0%E5%9E%8B%E9%81%9B%E7%8B%97%E6%B3%95",
+          "hot": 2318000,
+          "hot_text": "231.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2172061"
+          }
+        },
+        {
+          "rank": 15,
+          "title": "用镜头捕捉四季如画",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%9B%9B%E5%AD%A3%E5%A6%82%E7%94%BB",
+          "hot": 2228000,
+          "hot_text": "222.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2178966"
+          }
+        },
+        {
+          "rank": 16,
+          "title": "笔墨重现课本诗意",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AC%94%E5%A2%A8%E9%87%8D%E7%8E%B0%E8%AF%BE%E6%9C%AC%E8%AF%97%E6%84%8F",
+          "hot": 2135000,
+          "hot_text": "213.5w",
+          "extra": {
+            "id": "dora_2171684"
+          }
+        },
+        {
+          "rank": 17,
+          "title": "拍到了洱海的丁达尔效应",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94",
+          "hot": 2033000,
+          "hot_text": "203.3w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2171508"
+          }
+        },
+        {
+          "rank": 18,
+          "title": "珠圆玉润妆完全是淡颜天菜",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8F%A0%E5%9C%86%E7%8E%89%E6%B6%A6%E5%A6%86%E5%AE%8C%E5%85%A8%E6%98%AF%E6%B7%A1%E9%A2%9C%E5%A4%A9%E8%8F%9C",
+          "hot": 1938000,
+          "hot_text": "193.8w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2178991"
+          }
+        },
+        {
+          "rank": 19,
+          "title": "碎钻美甲指尖藏着细碎星光",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A2%8E%E9%92%BB%E7%BE%8E%E7%94%B2%E6%8C%87%E5%B0%96%E8%97%8F%E7%9D%80%E7%BB%86%E7%A2%8E%E6%98%9F%E5%85%89",
+          "hot": 1845000,
+          "hot_text": "184.5w",
+          "extra": {
+            "id": "dora_2178964"
+          }
+        },
+        {
+          "rank": 20,
+          "title": "我来当旅行中的颜色猎手",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%9D%A5%E5%BD%93%E6%97%85%E8%A1%8C%E4%B8%AD%E7%9A%84%E9%A2%9C%E8%89%B2%E7%8C%8E%E6%89%8B",
+          "hot": 1757000,
+          "hot_text": "175.7w",
+          "tag": "热",
+          "extra": {
+            "id": "dora_2143343"
+          }
+        }
+      ]
     }
   ]
 }

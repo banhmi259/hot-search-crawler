@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 23:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 00:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [BLG夺冠](https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0) — 2674.4万 · 爆
-2. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23) — 961.8万 · 新
-3. [Bin成为LPL历史首位大满贯上路选手](https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23) — 515.2万 · 新
-4. [十五五时期中国储能新上加新](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%82%A8%E8%83%BD%E6%96%B0%E4%B8%8A%E5%8A%A0%E6%96%B0%23) — 372.1万
-5. [Bin 世一上](https://s.weibo.com/weibo?q=Bin+%E4%B8%96%E4%B8%80%E4%B8%8A) — 370.2万 · 新
-6. [Knight曝打1分钟就发现chovy不对劲](https://s.weibo.com/weibo?q=%23Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2%23) — 183.9万 · 新
-7. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 177.8万 · 热
-8. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
-9. [4分钟读懂APEC](https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23) — 149.4万 · 新
-10. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 148万
+1. [国乒全军覆没34岁方博夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23) — 189.2万 · 新
+2. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 82.8万
+3. [中国古诗中的又一村成了他的家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23) — 61.6万
+4. [内娱这样的台词我等了二十年](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4) — 43.1万 · 剧集
+5. [BLG庆功宴](https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23) — 39.2万 · 新
+6. [丹麦新工签将向中国公民开放](https://s.weibo.com/weibo?q=%E4%B8%B9%E9%BA%A6%E6%96%B0%E5%B7%A5%E7%AD%BE%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BC%80%E6%94%BE) — 29.4万
+7. [砒霜口服药让白血病患存活率超97%](https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%AE%A9%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%AD%98%E6%B4%BB%E7%8E%87%E8%B6%8597%25%23) — 28.7万
+8. [曝DK全员离队](https://s.weibo.com/weibo?q=%23%E6%9B%9DDK%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F%23) — 24万
+9. [猪肉价跌得有多狠](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E8%B7%8C%E5%BE%97%E6%9C%89%E5%A4%9A%E7%8B%A0%23) — 21.6万
+10. [胡先煦我后面几期更笨](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%88%91%E5%90%8E%E9%9D%A2%E5%87%A0%E6%9C%9F%E6%9B%B4%E7%AC%A8%23) — 17.8万 · 综艺
 
 ### 抖音
 
-1. [BLG夺冠](https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0) — 1229万
-2. [BLG 3:1 GEN](https://www.douyin.com/search/BLG%203:1%20GEN) — 1220.6万
-3. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1214.4万
-4. [灵山审美已经next level了](https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86) — 1210.3万
-5. [Knight夺得FMVP](https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP) — 1207.1万
-6. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1202.8万
-7. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1199.3万
-8. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1159.4万
-9. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1153.3万
-10. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1149.1万
+1. [深度复盘BLG决赛表现](https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0) — 1210.7万
+2. [灵山审美已经next level了](https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86) — 1149.2万
+3. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1140.2万
+4. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1131.6万
+5. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1050万
+6. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1046.2万
+7. [369晒Knight合照祝贺BLG夺冠](https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0) — 928.7万
+8. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 895万
+9. [在白帝城看到了齐天大圣](https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3) — 884.3万
+10. [美国迈阿密机场两飞机相撞](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E) — 867万
 
 ### 小红书
 
@@ -52,7 +52,7 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-15.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-16.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
