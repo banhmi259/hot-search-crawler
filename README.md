@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-15 11:07**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 177.8万 · 热
 7. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
 8. [4分钟读懂APEC](https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23) — 149.4万 · 新
-9. [BLG夺冠B站送大会员](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%23) — 141.2万 · 新
-10. [JackeyLove谈BLG夺冠](https://s.weibo.com/weibo?q=%23JackeyLove%E8%B0%88BLG%E5%A4%BA%E5%86%A0%23) — 112.4万 · 新
+9. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 148万
+10. [BLG夺冠B站送大会员](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%23) — 141.2万 · 新
 
 ### 抖音
 
