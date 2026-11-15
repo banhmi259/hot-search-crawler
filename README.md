@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-15 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [Bin成为LPL历史首位大满贯上路选手](https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23) — 515.2万 · 新
 4. [十五五时期中国储能新上加新](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%82%A8%E8%83%BD%E6%96%B0%E4%B8%8A%E5%8A%A0%E6%96%B0%23) — 372.1万
 5. [Bin 世一上](https://s.weibo.com/weibo?q=Bin+%E4%B8%96%E4%B8%80%E4%B8%8A) — 370.2万 · 新
-6. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 177.8万 · 热
-7. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
-8. [4分钟读懂APEC](https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23) — 149.4万 · 新
-9. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 148万
-10. [BLG夺冠B站送大会员](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%23) — 141.2万 · 新
+6. [Knight曝打1分钟就发现chovy不对劲](https://s.weibo.com/weibo?q=%23Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2%23) — 183.9万 · 新
+7. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 177.8万 · 热
+8. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
+9. [4分钟读懂APEC](https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23) — 149.4万 · 新
+10. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 148万
 
 ### 抖音
 
