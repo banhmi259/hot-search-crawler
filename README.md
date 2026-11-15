@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-15 08:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-15 09:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [BLG夺冠](https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0) — 2674.4万 · 爆
 2. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23) — 961.8万 · 新
-3. [十五五时期中国储能新上加新](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%82%A8%E8%83%BD%E6%96%B0%E4%B8%8A%E5%8A%A0%E6%96%B0%23) — 175.3万
-4. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
-5. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 96.2万 · 热
-6. [梓墨FMVP](https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP) — 92.7万
-7. [BLG二比一GEN拿到赛点](https://s.weibo.com/weibo?q=%23BLG%E4%BA%8C%E6%AF%94%E4%B8%80GEN%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9%23) — 92万 · 新
-8. [孩子觉得打包丢人被老师扣分引热议](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A7%89%E5%BE%97%E6%89%93%E5%8C%85%E4%B8%A2%E4%BA%BA%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%A3%E5%88%86%E5%BC%95%E7%83%AD%E8%AE%AE%23) — 73万 · 新
-9. [WB夺冠](https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0) — 69万 · 热
-10. [数读向新向优向好的中国经济](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%90%91%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23) — 67.6万
+3. [Bin成为LPL历史首位大满贯上路选手](https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23) — 405.1万 · 新
+4. [十五五时期中国储能新上加新](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%82%A8%E8%83%BD%E6%96%B0%E4%B8%8A%E5%8A%A0%E6%96%B0%23) — 372.1万
+5. [Bin 世一上](https://s.weibo.com/weibo?q=Bin+%E4%B8%96%E4%B8%80%E4%B8%8A) — 370.2万 · 新
+6. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98) — 149.5万 · 新
+7. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23) — 119.3万 · 热
+8. [JackeyLove谈BLG夺冠](https://s.weibo.com/weibo?q=%23JackeyLove%E8%B0%88BLG%E5%A4%BA%E5%86%A0%23) — 112.4万 · 新
+9. [雷鸟到底看了多远](https://s.weibo.com/weibo?q=%E9%9B%B7%E9%B8%9F%E5%88%B0%E5%BA%95%E7%9C%8B%E4%BA%86%E5%A4%9A%E8%BF%9C) — 102万 · 新
+10. [梓墨FMVP](https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP) — 92.7万
 
 ### 抖音
 
-1. [BLG夺冠](https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0) — 1221.6万
-2. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1214.4万
-3. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1199.3万
-4. [BLG 3:1 GEN](https://www.douyin.com/search/BLG%203:1%20GEN) — 1175.4万
+1. [BLG夺冠](https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0) — 1223万
+2. [BLG 3:1 GEN](https://www.douyin.com/search/BLG%203:1%20GEN) — 1220.6万
+3. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1214.4万
+4. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1199.3万
 5. [我的S16决赛观赛日记](https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0) — 1159.4万
-6. [把光借给BLG](https://www.douyin.com/search/%E6%8A%8A%E5%85%89%E5%80%9F%E7%BB%99BLG) — 1145.8万
-7. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1135.8万
+6. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1149.1万
+7. [把光借给BLG](https://www.douyin.com/search/%E6%8A%8A%E5%85%89%E5%80%9F%E7%BB%99BLG) — 1145.8万
 8. [北京WB夺得KPL年总冠军](https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B) — 1121.1万
 9. [请选择你的秋假遛娃地](https://www.douyin.com/search/%E8%AF%B7%E9%80%89%E6%8B%A9%E4%BD%A0%E7%9A%84%E7%A7%8B%E5%81%87%E9%81%9B%E5%A8%83%E5%9C%B0) — 1075.3万
-10. [湘超永州队晋级四强](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E9%98%9F%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA) — 1038.1万
+10. [Knight夺得FMVP](https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP) — 1071.5万
 
 ### 小红书
 
