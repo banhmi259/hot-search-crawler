@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 01:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 02:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,20 +23,20 @@
 6. [内娱这样的台词我等了二十年](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4) — 43.1万 · 剧集
 7. [BLG庆功宴](https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23) — 43万 · 新
 8. [韩网友爆料Jennie妈妈](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88%23) — 38.9万 · 新
-9. [曝许飞退群](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%23) — 34.1万 · 热
-10. [丹麦新工签将向中国公民开放](https://s.weibo.com/weibo?q=%E4%B8%B9%E9%BA%A6%E6%96%B0%E5%B7%A5%E7%AD%BE%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BC%80%E6%94%BE) — 29.4万
+9. [2分钟快闪视频看APEC热词](https://s.weibo.com/weibo?q=%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23) — 34.9万
+10. [曝许飞退群](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%23) — 34.1万 · 热
 
 ### 抖音
 
 1. [灵山审美已经next level了](https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86) — 1211.3万
 2. [深度复盘BLG决赛表现](https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0) — 1210.7万
-3. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1182.5万
+3. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1187.5万
 4. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1142.5万
 5. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
-6. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1049.1万
-7. [在白帝城看到了齐天大圣](https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3) — 1038万
-8. [369晒Knight合照祝贺BLG夺冠](https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0) — 928.7万
-9. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 900.3万
+6. [在白帝城看到了齐天大圣](https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3) — 1130.7万
+7. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1049.1万
+8. [369晒Knight合照祝贺BLG夺冠](https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0) — 1036.2万
+9. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 905.9万
 10. [美国迈阿密机场两飞机相撞](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E) — 867万
 
 ### 小红书
