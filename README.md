@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 03:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 04:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -30,13 +30,13 @@
 
 1. [灵山审美已经next level了](https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86) — 1211.3万
 2. [深度复盘BLG决赛表现](https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0) — 1210.7万
-3. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1187.5万
+3. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1188.2万
 4. [在白帝城看到了齐天大圣](https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3) — 1183.1万
 5. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1142.5万
 6. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
 7. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1049.1万
 8. [369晒Knight合照祝贺BLG夺冠](https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0) — 1047.7万
-9. [湘超永州球员发文庆祝挺进四强](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E7%90%83%E5%91%98%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA) — 1039.3万
+9. [湘超永州球员发文庆祝挺进四强](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E7%90%83%E5%91%98%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA) — 1046.5万
 10. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 905.9万
 
 ### 小红书
