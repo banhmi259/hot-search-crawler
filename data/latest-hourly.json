@@ -1,142 +1,141 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T04:24:17.244275409+08:00",
+  "generated_at": "2026-11-16T05:24:15.279050593+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-16T04:24:18.140454289+08:00",
-      "elapsed_ms": 896,
+      "fetched_at": "2026-11-16T05:24:16.231957363+08:00",
+      "elapsed_ms": 952,
       "items": [
         {
           "rank": 1,
-          "title": "国乒全军覆没34岁方博夺冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23",
-          "hot": 250812,
-          "tag": "热"
+          "title": "买衣服别被面料名字忽悠",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
+          "hot": 132217
         },
         {
           "rank": 2,
-          "title": "买衣服别被面料名字忽悠",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
-          "hot": 57593
+          "title": "西班牙vs英格兰",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E8%8B%B1%E6%A0%BC%E5%85%B0",
+          "hot": 98385
         },
         {
           "rank": 3,
           "title": "2分钟快闪视频看APEC热词",
           "url": "https://s.weibo.com/weibo?q=%232%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D%23",
-          "hot": 51529
+          "hot": 78560
         },
         {
           "rank": 4,
           "title": "Lisa把钱塞腰上被质疑",
           "url": "https://s.weibo.com/weibo?q=Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E8%85%B0%E4%B8%8A%E8%A2%AB%E8%B4%A8%E7%96%91",
-          "hot": 49944,
-          "tag": "演出"
+          "hot": 45908,
+          "tag": "热"
         },
         {
           "rank": 5,
           "title": "内娱这样的台词我等了二十年",
           "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4",
-          "hot": 40834,
+          "hot": 45452,
           "tag": "剧集"
         },
         {
           "rank": 6,
           "title": "韩网友爆料Jennie妈妈",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88%23",
-          "hot": 40770,
+          "hot": 45362,
           "tag": "热"
         },
         {
           "rank": 7,
           "title": "曝许飞退群",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%23",
-          "hot": 40711,
+          "hot": 44968,
           "tag": "热"
         },
         {
           "rank": 8,
           "title": "BLG一串四原来是烤串的串",
           "url": "https://s.weibo.com/weibo?q=%23BLG%E4%B8%80%E4%B8%B2%E5%9B%9B%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%83%A4%E4%B8%B2%E7%9A%84%E4%B8%B2%23",
-          "hot": 40626
+          "hot": 44427
         },
         {
           "rank": 9,
-          "title": "今何在 江南",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8+%E6%B1%9F%E5%8D%97",
-          "hot": 40491
+          "title": "方博复出首冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0%23",
+          "hot": 43823
         },
         {
           "rank": 10,
-          "title": "2026MMA完整获奖名单",
-          "url": "https://s.weibo.com/weibo?q=2026MMA%E5%AE%8C%E6%95%B4%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-          "hot": 40459,
-          "tag": "演出"
+          "title": "胖东来羽绒服区人山人海",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8C%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23",
+          "hot": 43482
         },
         {
           "rank": 11,
-          "title": "青稚聊天记录",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
-          "hot": 40359,
+          "title": "国乒全军覆没34岁方博夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23",
+          "hot": 42922,
           "tag": "热"
         },
         {
           "rank": 12,
           "title": "红果AI漫剧热播榜排名TOP10",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23",
-          "hot": 40298,
+          "hot": 42482,
           "tag": "热"
         },
         {
           "rank": 13,
-          "title": "BLG庆功宴",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
-          "hot": 40138
+          "title": "青稚聊天记录",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+          "hot": 41996,
+          "tag": "热"
         },
         {
           "rank": 14,
-          "title": "Knight夺冠后鼓励chovy",
-          "url": "https://s.weibo.com/weibo?q=%23Knight%E5%A4%BA%E5%86%A0%E5%90%8E%E9%BC%93%E5%8A%B1chovy%23",
-          "hot": 40059
+          "title": "BLG庆功宴",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
+          "hot": 41309
         },
         {
           "rank": 15,
-          "title": "白鹿进组前的伙食",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E5%89%8D%E7%9A%84%E4%BC%99%E9%A3%9F%23",
-          "hot": 40027
+          "title": "Knight夺冠后鼓励chovy",
+          "url": "https://s.weibo.com/weibo?q=%23Knight%E5%A4%BA%E5%86%A0%E5%90%8E%E9%BC%93%E5%8A%B1chovy%23",
+          "hot": 40907
         },
         {
           "rank": 16,
           "title": "凌晨3点杭州多家电影院爆满",
           "url": "https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A83%E7%82%B9%E6%9D%AD%E5%B7%9E%E5%A4%9A%E5%AE%B6%E7%94%B5%E5%BD%B1%E9%99%A2%E7%88%86%E6%BB%A1%23",
-          "hot": 39928
+          "hot": 40768
         },
         {
           "rank": 17,
           "title": "方博回应复出夺冠",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%E5%A4%BA%E5%86%A0%23",
-          "hot": 39833
+          "hot": 40610
         },
         {
           "rank": 18,
-          "title": "丹麦新工签将向中国公民开放",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%B9%E9%BA%A6%E6%96%B0%E5%B7%A5%E7%AD%BE%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BC%80%E6%94%BE",
-          "hot": 39702
+          "title": "青稚前女友六点澄清",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%85%AD%E7%82%B9%E6%BE%84%E6%B8%85",
+          "hot": 40601
         },
         {
           "rank": 19,
-          "title": "你的朋友圈设置为三天可见了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E4%BA%86%E5%90%97%23",
-          "hot": 39599
+          "title": "白鹿进组前的伙食",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E5%89%8D%E7%9A%84%E4%BC%99%E9%A3%9F%23",
+          "hot": 40528
         },
         {
           "rank": 20,
-          "title": "Viper把圣枪哥拉到奖杯前合影",
-          "url": "https://s.weibo.com/weibo?q=%23Viper%E6%8A%8A%E5%9C%A3%E6%9E%AA%E5%93%A5%E6%8B%89%E5%88%B0%E5%A5%96%E6%9D%AF%E5%89%8D%E5%90%88%E5%BD%B1%23",
-          "hot": 39518
+          "title": "你的朋友圈设置为三天可见了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E4%BA%86%E5%90%97%23",
+          "hot": 40520
         }
       ]
     },
@@ -144,14 +143,14 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-16T04:24:18.799383337+08:00",
-      "elapsed_ms": 1555,
+      "fetched_at": "2026-11-16T05:24:16.588576296+08:00",
+      "elapsed_ms": 1309,
       "items": [
         {
           "rank": 1,
           "title": "灵山审美已经next level了",
           "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
-          "hot": 12103228,
+          "hot": 11815793,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794710440,
@@ -164,7 +163,7 @@
           "rank": 2,
           "title": "吃商极高的人都爱路边饭",
           "url": "https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD",
-          "hot": 11881875,
+          "hot": 11668257,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794712802,
@@ -177,7 +176,7 @@
           "rank": 3,
           "title": "APEC进口农产品丰富中国餐桌",
           "url": "https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C",
-          "hot": 11399756,
+          "hot": 11525172,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794745695,
@@ -190,7 +189,7 @@
           "rank": 4,
           "title": "在白帝城看到了齐天大圣",
           "url": "https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3",
-          "hot": 11312446,
+          "hot": 11398067,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794707311,
@@ -203,7 +202,7 @@
           "rank": 5,
           "title": "湘超永州球员发文庆祝挺进四强",
           "url": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E7%90%83%E5%91%98%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA",
-          "hot": 10465141,
+          "hot": 10461819,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794697709,
@@ -216,7 +215,7 @@
           "rank": 6,
           "title": "第一视角记录APEC瞬间",
           "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4",
-          "hot": 10315067,
+          "hot": 10346179,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794734705,
@@ -227,9 +226,21 @@
         },
         {
           "rank": 7,
+          "title": "深度复盘BLG决赛表现",
+          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
+          "hot": 9168000,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794712685,
+            "sentence_id": "2746979",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 8,
           "title": "罗圈村千年银杏树进入最佳观赏期",
           "url": "https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F",
-          "hot": 9173917,
+          "hot": 9109345,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794707474,
@@ -238,10 +249,10 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "369晒Knight合照祝贺BLG夺冠",
           "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
-          "hot": 8901892,
+          "hot": 8928354,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794704926,
@@ -250,22 +261,10 @@
           }
         },
         {
-          "rank": 9,
-          "title": "司空震FMVP新皮肤",
-          "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
-          "hot": 8791008,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794698450,
-            "sentence_id": "2746724",
-            "video_count": 3
-          }
-        },
-        {
           "rank": 10,
           "title": "美国迈阿密机场两飞机相撞",
           "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E6%9C%BA%E5%9C%BA%E4%B8%A4%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E",
-          "hot": 8725172,
+          "hot": 8880183,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794722324,
@@ -276,21 +275,21 @@
         },
         {
           "rank": 11,
-          "title": "深度复盘BLG决赛表现",
-          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
-          "hot": 8661398,
+          "title": "司空震FMVP新皮肤",
+          "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4",
+          "hot": 8583503,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794712685,
-            "sentence_id": "2746979",
-            "video_count": 6
+            "event_time": 1794698450,
+            "sentence_id": "2746724",
+            "video_count": 3
           }
         },
         {
           "rank": 12,
           "title": "BLG夺冠",
           "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0",
-          "hot": 7914530,
+          "hot": 7924664,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794701001,
@@ -302,7 +301,7 @@
           "rank": 13,
           "title": "打生物制剂能根治过敏吗",
           "url": "https://www.douyin.com/search/%E6%89%93%E7%94%9F%E7%89%A9%E5%88%B6%E5%89%82%E8%83%BD%E6%A0%B9%E6%B2%BB%E8%BF%87%E6%95%8F%E5%90%97",
-          "hot": 7908883,
+          "hot": 7908319,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794746400,
@@ -315,7 +314,7 @@
           "rank": 14,
           "title": "爱乐之城群像齐舞挑战",
           "url": "https://www.douyin.com/search/%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%E7%BE%A4%E5%83%8F%E9%BD%90%E8%88%9E%E6%8C%91%E6%88%98",
-          "hot": 7785686,
+          "hot": 7781750,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794726904,
@@ -328,7 +327,7 @@
           "rank": 15,
           "title": "Bin就是世一上",
           "url": "https://www.douyin.com/search/Bin%E5%B0%B1%E6%98%AF%E4%B8%96%E4%B8%80%E4%B8%8A",
-          "hot": 7777920,
+          "hot": 7776552,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794702597,
@@ -340,7 +339,7 @@
           "rank": 16,
           "title": "Knight夺得FMVP",
           "url": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP",
-          "hot": 7777133,
+          "hot": 7775174,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794702341,
@@ -352,7 +351,7 @@
           "rank": 17,
           "title": "葡萄牙不敌丹麦终结四连胜",
           "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E4%B8%8D%E6%95%8C%E4%B8%B9%E9%BA%A6%E7%BB%88%E7%BB%93%E5%9B%9B%E8%BF%9E%E8%83%9C",
-          "hot": 7769311,
+          "hot": 7769145,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794698034,
@@ -362,22 +361,9 @@
         },
         {
           "rank": 18,
-          "title": "所有人进入暑假时代",
-          "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
-          "hot": 7757096,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794722521,
-            "label": 9,
-            "sentence_id": "2747215",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 19,
           "title": "最有安全感的覆面系出现了",
           "url": "https://www.douyin.com/search/%E6%9C%80%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E8%A6%86%E9%9D%A2%E7%B3%BB%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "hot": 7752073,
+          "hot": 7764510,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794641689,
@@ -387,10 +373,23 @@
           }
         },
         {
+          "rank": 19,
+          "title": "所有人进入暑假时代",
+          "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3",
+          "hot": 7761248,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794722521,
+            "label": 9,
+            "sentence_id": "2747215",
+            "video_count": 10
+          }
+        },
+        {
           "rank": 20,
           "title": "BLG夺冠雷鸟看得到底有多远",
           "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E9%9B%B7%E9%B8%9F%E7%9C%8B%E5%BE%97%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "hot": 7749718,
+          "hot": 7758706,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794702699,
@@ -404,8 +403,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": false,
-      "fetched_at": "2026-11-16T04:24:17.961887883+08:00",
-      "elapsed_ms": 717,
+      "fetched_at": "2026-11-16T05:24:16.156203512+08:00",
+      "elapsed_ms": 877,
       "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
       "items": []
     }
