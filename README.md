@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -37,7 +37,7 @@
 7. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1194.1万
 8. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1186.4万
 9. [4分钟读懂APEC](https://www.douyin.com/search/4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1149万
-10. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
+10. [10月国民经济运行总体平稳向新向优](https://www.douyin.com/search/10%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98) — 1145.7万
 
 ### 小红书
 
