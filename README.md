@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-17 00:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-17 01:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [墨西哥总统抵达深圳后做了一个动作](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23) — 23.5万 · 新
 7. [马天宇听到一家四口热搜的反应](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%90%AC%E5%88%B0%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%83%AD%E6%90%9C%E7%9A%84%E5%8F%8D%E5%BA%94%23) — 22.1万
 8. [亚马尔澄清函全文](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87%23) — 21.4万
-9. [华尔街日报必须道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89%23) — 20.4万
-10. [6年恋爱因一枚戒指分手](https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B) — 20.4万
+9. [高市早苗穿菲律宾服饰出席晚宴](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23) — 20.5万 · 新
+10. [华尔街日报必须道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89%23) — 20.4万
 
 ### 抖音
 
@@ -37,7 +37,7 @@
 7. [狮子座流星雨将迎来极大期](https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F) — 943.8万
 8. [国足vs巴林前瞻](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB) — 935万
 9. [2026年APEC工商领导人峰会将举行](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%B0%86%E4%B8%BE%E8%A1%8C) — 932.2万
-10. [斯托伊科维奇任山东泰山队主教练](https://www.douyin.com/search/%E6%96%AF%E6%89%98%E4%BC%8A%E7%A7%91%E7%BB%B4%E5%A5%87%E4%BB%BB%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83) — 926万
+10. [斯托伊科维奇任山东泰山队主教练](https://www.douyin.com/search/%E6%96%AF%E6%89%98%E4%BC%8A%E7%A7%91%E7%BB%B4%E5%A5%87%E4%BB%BB%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83) — 927.3万
 
 ### 小红书
 
