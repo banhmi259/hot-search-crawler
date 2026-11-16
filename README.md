@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [国乒全军覆没34岁方博夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23) — 189.2万 · 新
-2. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
-3. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
-4. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
-5. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 75万
-6. [中国古诗中的又一村成了他的家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23) — 61.6万
-7. [西班牙2比3英格兰](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0) — 50.4万 · 新
-8. [红果AI漫剧热播榜排名TOP10](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23) — 47万 · 新
-9. [高中累死累活读书后遗症](https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%B4%AF%E6%AD%BB%E7%B4%AF%E6%B4%BB%E8%AF%BB%E4%B9%A6%E5%90%8E%E9%81%97%E7%97%87) — 44万 · 热
-10. [内娱这样的台词我等了二十年](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4) — 43.1万 · 剧集
+2. [北大399元羽绒服全网刷屏](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23) — 152.1万 · 新
+3. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
+4. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 93.5万 · 新
+5. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
+6. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
+7. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 75万
+8. [随意更换工作城市沉没成本大](https://s.weibo.com/weibo?q=%E9%9A%8F%E6%84%8F%E6%9B%B4%E6%8D%A2%E5%B7%A5%E4%BD%9C%E5%9F%8E%E5%B8%82%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E5%A4%A7) — 73.6万
+9. [懂球帝 亚马尔](https://s.weibo.com/weibo?q=%E6%87%82%E7%90%83%E5%B8%9D+%E4%BA%9A%E9%A9%AC%E5%B0%94) — 72.5万 · 新
+10. [中国古诗中的又一村成了他的家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23) — 61.6万
 
 ### 抖音
 
