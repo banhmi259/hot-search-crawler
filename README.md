@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 15:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 16:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 107.2万 · 新
 4. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
 5. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 101.3万 · 新
-6. [DeepSeek因算力不足限额](https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23) — 100.7万 · 新
-7. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 100.6万 · 新
-8. [王子璇好能读懂文吉儿的言下之意](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23) — 100.5万 · 新
-9. [曝iPhone20苹果明年重头戏](https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E8%8B%B9%E6%9E%9C%E6%98%8E%E5%B9%B4%E9%87%8D%E5%A4%B4%E6%88%8F%23) — 100万 · 新
-10. [世界目光聚焦中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%23) — 98.2万
+6. [哈利波特魔法觉醒将停服](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D%23) — 101.1万 · 新
+7. [DeepSeek因算力不足限额](https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23) — 100.7万 · 新
+8. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 100.6万 · 新
+9. [王子璇好能读懂文吉儿的言下之意](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23) — 100.5万 · 新
+10. [曝iPhone20苹果明年重头戏](https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E8%8B%B9%E6%9E%9C%E6%98%8E%E5%B9%B4%E9%87%8D%E5%A4%B4%E6%88%8F%23) — 100万 · 新
 
 ### 抖音
 
@@ -35,9 +35,9 @@
 5. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1206.6万
 6. [17国谴责以色列破坏停火协议](https://www.douyin.com/search/17%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E7%A0%B4%E5%9D%8F%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE) — 1206.1万
 7. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1194.1万
-8. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1186.4万
-9. [4分钟读懂APEC](https://www.douyin.com/search/4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1149万
-10. [10月国民经济运行总体平稳向新向优](https://www.douyin.com/search/10%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98) — 1145.7万
+8. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1193.3万
+9. [10月国民经济运行总体平稳向新向优](https://www.douyin.com/search/10%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98) — 1163.1万
+10. [4分钟读懂APEC](https://www.douyin.com/search/4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1149万
 
 ### 小红书
 
