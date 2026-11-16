@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,12 +19,12 @@
 2. [北大399元羽绒服全网刷屏](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23) — 166.6万 · 新
 3. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 107.2万 · 新
 4. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
-5. [DeepSeek因算力不足限额](https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23) — 100.7万 · 新
-6. [世界目光聚焦中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%23) — 98.2万
-7. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 98万 · 新
-8. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 93.5万 · 新
-9. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
-10. [方博仍是中国国籍不参加三大赛](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E4%BB%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%89%E5%A4%A7%E8%B5%9B%23) — 90万 · 新
+5. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 101.3万 · 新
+6. [DeepSeek因算力不足限额](https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23) — 100.7万 · 新
+7. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 100.6万 · 新
+8. [王子璇好能读懂文吉儿的言下之意](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23) — 100.5万 · 新
+9. [曝iPhone20苹果明年重头戏](https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E8%8B%B9%E6%9E%9C%E6%98%8E%E5%B9%B4%E9%87%8D%E5%A4%B4%E6%88%8F%23) — 100万 · 新
+10. [世界目光聚焦中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%23) — 98.2万
 
 ### 抖音
 
