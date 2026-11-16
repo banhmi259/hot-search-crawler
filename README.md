@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 11:10**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 12:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [国乒全军覆没34岁方博夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23) — 189.2万 · 新
 2. [北大399元羽绒服全网刷屏](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23) — 166.6万 · 新
-3. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
-4. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 93.5万 · 新
-5. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
-6. [方博仍是中国国籍不参加三大赛](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E4%BB%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%89%E5%A4%A7%E8%B5%9B%23) — 90万 · 新
-7. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
-8. [世界目光聚焦中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%23) — 80.4万
-9. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 75万
-10. [随意更换工作城市沉没成本大](https://s.weibo.com/weibo?q=%E9%9A%8F%E6%84%8F%E6%9B%B4%E6%8D%A2%E5%B7%A5%E4%BD%9C%E5%9F%8E%E5%B8%82%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E5%A4%A7) — 74.6万
+3. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 107.2万 · 新
+4. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
+5. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 93.5万 · 新
+6. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
+7. [方博仍是中国国籍不参加三大赛](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E4%BB%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%89%E5%A4%A7%E8%B5%9B%23) — 90万 · 新
+8. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
+9. [世界目光聚焦中国](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%23) — 80.4万
+10. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 75万
 
 ### 抖音
 
@@ -37,7 +37,7 @@
 7. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1190.9万
 8. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1186.4万
 9. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
-10. [欧国联英格兰3:2西班牙](https://www.douyin.com/search/%E6%AC%A7%E5%9B%BD%E8%81%94%E8%8B%B1%E6%A0%BC%E5%85%B03:2%E8%A5%BF%E7%8F%AD%E7%89%99) — 1130.7万
+10. [4分钟读懂APEC](https://www.douyin.com/search/4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1137.6万
 
 ### 小红书
 
