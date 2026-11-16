@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 23:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-17 00:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [国乒全军覆没34岁方博夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23) — 189.2万 · 新
-2. [北大399元羽绒服全网刷屏](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23) — 166.6万 · 新
-3. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 124.2万 · 新
-4. [无畏中了笔巨款](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE) — 110.7万 · 新
-5. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
-6. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 101.3万 · 新
-7. [哈利波特魔法觉醒将停服](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D%23) — 101.1万 · 新
-8. [DeepSeek因算力不足限额](https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23) — 100.7万 · 新
-9. [APEC为什么这么重要](https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23) — 100.6万 · 新
-10. [王子璇好能读懂文吉儿的言下之意](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23) — 100.5万 · 新
+1. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 81.9万
+2. [终于有人说说干发帽了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23) — 71.5万 · 热
+3. [同舟共济开创亚太和世界更美好未来](https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5%23) — 48.9万
+4. [新007是帕丁森](https://s.weibo.com/weibo?q=%23%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE%23) — 37.6万 · 新
+5. [SK谈妻子观赛流产](https://s.weibo.com/weibo?q=SK%E8%B0%88%E5%A6%BB%E5%AD%90%E8%A7%82%E8%B5%9B%E6%B5%81%E4%BA%A7) — 25.9万
+6. [墨西哥总统抵达深圳后做了一个动作](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23) — 23.5万 · 新
+7. [马天宇听到一家四口热搜的反应](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%90%AC%E5%88%B0%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%83%AD%E6%90%9C%E7%9A%84%E5%8F%8D%E5%BA%94%23) — 22.1万
+8. [亚马尔澄清函全文](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87%23) — 21.4万
+9. [华尔街日报必须道歉](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89%23) — 20.4万
+10. [6年恋爱因一枚戒指分手](https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B) — 20.4万
 
 ### 抖音
 
-1. [灵山审美已经next level了](https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86) — 1211.3万
-2. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1211.1万
-3. [深度复盘BLG决赛表现](https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0) — 1210.7万
-4. [在白帝城看到了齐天大圣](https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3) — 1210.4万
-5. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1206.6万
-6. [17国谴责以色列破坏停火协议](https://www.douyin.com/search/17%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E7%A0%B4%E5%9D%8F%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE) — 1206.1万
-7. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1205.6万
-8. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1194.1万
-9. [10月国民经济运行总体平稳向新向优](https://www.douyin.com/search/10%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98) — 1182万
-10. [2分钟读懂APEC](https://www.douyin.com/search/2%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1180.7万
+1. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1210.8万
+2. [2分钟读懂APEC](https://www.douyin.com/search/2%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1172万
+3. [中国贸易伙伴网越织越密](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E7%BD%91%E8%B6%8A%E7%BB%87%E8%B6%8A%E5%AF%86) — 1152.1万
+4. [墨西哥总统辛鲍姆抵达深圳](https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E8%BE%9B%E9%B2%8D%E5%A7%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1122.6万
+5. [草靶子糖葫芦是冬日的第一份甜蜜](https://www.douyin.com/search/%E8%8D%89%E9%9D%B6%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E6%98%AF%E5%86%AC%E6%97%A5%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E7%94%9C%E8%9C%9C) — 1056.8万
+6. [加拿大总理卡尼抵达深圳](https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1055.6万
+7. [狮子座流星雨将迎来极大期](https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F) — 943.8万
+8. [国足vs巴林前瞻](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB) — 935万
+9. [2026年APEC工商领导人峰会将举行](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%B0%86%E4%B8%BE%E8%A1%8C) — 932.2万
+10. [斯托伊科维奇任山东泰山队主教练](https://www.douyin.com/search/%E6%96%AF%E6%89%98%E4%BC%8A%E7%A7%91%E7%BB%B4%E5%A5%87%E4%BB%BB%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83) — 926万
 
 ### 小红书
 
@@ -52,7 +52,7 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-16.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-17.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
