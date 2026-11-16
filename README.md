@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-17 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-17 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -31,13 +31,13 @@
 1. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1210.8万
 2. [2分钟读懂APEC](https://www.douyin.com/search/2%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1172万
 3. [中国贸易伙伴网越织越密](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E7%BD%91%E8%B6%8A%E7%BB%87%E8%B6%8A%E5%AF%86) — 1152.1万
-4. [墨西哥总统辛鲍姆抵达深圳](https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E8%BE%9B%E9%B2%8D%E5%A7%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1122.6万
-5. [加拿大总理卡尼抵达深圳](https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1113.5万
+4. [加拿大总理卡尼抵达深圳](https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1124.2万
+5. [墨西哥总统辛鲍姆抵达深圳](https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E8%BE%9B%E9%B2%8D%E5%A7%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1122.6万
 6. [狮子座流星雨将迎来极大期](https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F) — 1109.8万
 7. [草靶子糖葫芦是冬日的第一份甜蜜](https://www.douyin.com/search/%E8%8D%89%E9%9D%B6%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E6%98%AF%E5%86%AC%E6%97%A5%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E7%94%9C%E8%9C%9C) — 1056.8万
-8. [非遗暖居过冬仪式感](https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F) — 943.1万
-9. [国足vs巴林前瞻](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB) — 943万
-10. [2026年APEC工商领导人峰会将举行](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%B0%86%E4%B8%BE%E8%A1%8C) — 941.7万
+8. [东北地区将迎强降雪](https://www.douyin.com/search/%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%B0%86%E8%BF%8E%E5%BC%BA%E9%99%8D%E9%9B%AA) — 943.4万
+9. [克里米亚大桥遭袭交通暂时受限](https://www.douyin.com/search/%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E9%81%AD%E8%A2%AD%E4%BA%A4%E9%80%9A%E6%9A%82%E6%97%B6%E5%8F%97%E9%99%90) — 943.4万
+10. [非遗暖居过冬仪式感](https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F) — 943.4万
 
 ### 小红书
 
