@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-16 08:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-16 09:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [国乒全军覆没34岁方博夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A134%E5%B2%81%E6%96%B9%E5%8D%9A%E5%A4%BA%E5%86%A0%23) — 189.2万 · 新
-2. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
-3. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
-4. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 74.4万
-5. [中国古诗中的又一村成了他的家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23) — 61.6万
-6. [西班牙2比3英格兰](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0) — 50.4万 · 新
-7. [红果AI漫剧热播榜排名TOP10](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23) — 47万 · 新
-8. [高中累死累活读书后遗症](https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%B4%AF%E6%AD%BB%E7%B4%AF%E6%B4%BB%E8%AF%BB%E4%B9%A6%E5%90%8E%E9%81%97%E7%97%87) — 44万 · 热
-9. [内娱这样的台词我等了二十年](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4) — 43.1万 · 剧集
-10. [BLG庆功宴](https://s.weibo.com/weibo?q=%23BLG%E5%BA%86%E5%8A%9F%E5%AE%B4%23) — 43万 · 新
+2. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94) — 101.6万 · 新
+3. [买衣服别被面料名字忽悠](https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0) — 92.2万
+4. [青稚聊天记录](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95) — 89.9万 · 热
+5. [开放的深圳与亚太共赴新程](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E6%B7%B1%E5%9C%B3%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%96%B0%E7%A8%8B%23) — 75万
+6. [中国古诗中的又一村成了他的家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6%23) — 61.6万
+7. [西班牙2比3英格兰](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0) — 50.4万 · 新
+8. [红果AI漫剧热播榜排名TOP10](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23) — 47万 · 新
+9. [高中累死累活读书后遗症](https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%B4%AF%E6%AD%BB%E7%B4%AF%E6%B4%BB%E8%AF%BB%E4%B9%A6%E5%90%8E%E9%81%97%E7%97%87) — 44万 · 热
+10. [内娱这样的台词我等了二十年](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4) — 43.1万 · 剧集
 
 ### 抖音
 
@@ -34,10 +34,10 @@
 4. [吃商极高的人都爱路边饭](https://www.douyin.com/search/%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E7%88%B1%E8%B7%AF%E8%BE%B9%E9%A5%AD) — 1206.6万
 5. [17国谴责以色列破坏停火协议](https://www.douyin.com/search/17%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E7%A0%B4%E5%9D%8F%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE) — 1206.1万
 6. [APEC进口农产品丰富中国餐桌](https://www.douyin.com/search/APEC%E8%BF%9B%E5%8F%A3%E5%86%9C%E4%BA%A7%E5%93%81%E4%B8%B0%E5%AF%8C%E4%B8%AD%E5%9B%BD%E9%A4%90%E6%A1%8C) — 1194.1万
-7. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
-8. [李炮骑三蹦子勇闯泥潭越野赛](https://www.douyin.com/search/%E6%9D%8E%E7%82%AE%E9%AA%91%E4%B8%89%E8%B9%A6%E5%AD%90%E5%8B%87%E9%97%AF%E6%B3%A5%E6%BD%AD%E8%B6%8A%E9%87%8E%E8%B5%9B) — 1082.4万
-9. [司空震FMVP新皮肤](https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4) — 1053.5万
-10. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1049.1万
+7. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1190.9万
+8. [第一视角记录APEC瞬间](https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E8%AE%B0%E5%BD%95APEC%E7%9E%AC%E9%97%B4) — 1186.4万
+9. [罗圈村千年银杏树进入最佳观赏期](https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F) — 1140.2万
+10. [欧国联英格兰3:2西班牙](https://www.douyin.com/search/%E6%AC%A7%E5%9B%BD%E8%81%94%E8%8B%B1%E6%A0%BC%E5%85%B03:2%E8%A5%BF%E7%8F%AD%E7%89%99) — 1130.7万
 
 ### 小红书
 
