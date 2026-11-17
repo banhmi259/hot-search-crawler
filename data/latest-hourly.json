@@ -1,145 +1,144 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T11:24:16.898811232+08:00",
+  "generated_at": "2026-11-17T12:24:15.278958761+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-17T11:24:17.980605103+08:00",
-      "elapsed_ms": 1081,
+      "fetched_at": "2026-11-17T12:24:16.33170016+08:00",
+      "elapsed_ms": 1052,
       "items": [
         {
           "rank": 1,
-          "title": "俄美运输机亮相深圳宝安机场",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%23",
-          "hot": 1045487
+          "title": "深圳APEC主持人阵容拉满",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1%23",
+          "hot": 1116232
         },
         {
           "rank": 2,
-          "title": "深圳APEC主持人阵容拉满",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1%23",
-          "hot": 1033214
+          "title": "甄嬛传这三集播放量最高",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%99%E4%B8%89%E9%9B%86%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%23",
+          "hot": 1096464,
+          "tag": "新"
         },
         {
           "rank": 3,
           "title": "数说APEC中国年经贸成果",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%23",
-          "hot": 999739,
-          "tag": "新"
+          "hot": 669731
         },
         {
           "rank": 4,
-          "title": "经常朝左边睡觉对心脏的影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D%23",
-          "hot": 981753
-        },
-        {
-          "rank": 5,
-          "title": "APEC",
-          "url": "https://s.weibo.com/weibo?q=APEC",
-          "hot": 970538
-        },
-        {
-          "rank": 6,
-          "title": "周杰伦27年演唱会官宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A627%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23",
-          "hot": 929529,
-          "tag": "演出"
-        },
-        {
-          "rank": 7,
-          "title": "勇士开局2比23鹈鹕",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E5%BC%80%E5%B1%802%E6%AF%9423%E9%B9%88%E9%B9%95%23",
-          "hot": 900908,
+          "title": "信小呆中奖后抑郁了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%A1%E5%B0%8F%E5%91%86%E4%B8%AD%E5%A5%96%E5%90%8E%E6%8A%91%E9%83%81%E4%BA%86%23",
+          "hot": 621655,
           "tag": "新"
         },
         {
+          "rank": 5,
+          "title": "杨瀚森砍鲨战术",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%A0%8D%E9%B2%A8%E6%88%98%E6%9C%AF%23",
+          "hot": 519978,
+          "tag": "新"
+        },
+        {
+          "rank": 6,
+          "title": "虞书欣新综艺开机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E7%BB%BC%E8%89%BA%E5%BC%80%E6%9C%BA%23",
+          "hot": 495729,
+          "tag": "新"
+        },
+        {
+          "rank": 7,
+          "title": "经常朝左边睡觉对心脏的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D%23",
+          "hot": 450557
+        },
+        {
           "rank": 8,
-          "title": "恢复专注力需要反多巴胺",
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A2%E5%A4%8D%E4%B8%93%E6%B3%A8%E5%8A%9B%E9%9C%80%E8%A6%81%E5%8F%8D%E5%A4%9A%E5%B7%B4%E8%83%BA",
-          "hot": 890987
+          "title": "从100斤瘦到80斤堪比整容",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E100%E6%96%A4%E7%98%A6%E5%88%B080%E6%96%A4%E5%A0%AA%E6%AF%94%E6%95%B4%E5%AE%B9%23",
+          "hot": 324061
         },
         {
           "rank": 9,
           "title": "10月货物进出口同比增长31.2%",
           "url": "https://s.weibo.com/weibo?q=%2310%E6%9C%88%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF31.2%25%23",
-          "hot": 855663
+          "hot": 324051
         },
         {
           "rank": 10,
-          "title": "厉娜的心软程度",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E7%9A%84%E5%BF%83%E8%BD%AF%E7%A8%8B%E5%BA%A6%23",
-          "hot": 842259,
-          "tag": "新"
+          "title": "APEC",
+          "url": "https://s.weibo.com/weibo?q=APEC",
+          "hot": 324048
         },
         {
           "rank": 11,
           "title": "字节只差一个聊天软件了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%E4%BA%86%23",
-          "hot": 811587,
-          "tag": "新"
+          "hot": 324026,
+          "tag": "热"
         },
         {
           "rank": 12,
-          "title": "BLG成员现场观战篮网76人比赛",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%90%E5%91%98%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%AF%AE%E7%BD%9176%E4%BA%BA%E6%AF%94%E8%B5%9B%23",
-          "hot": 800930
+          "title": "原来王子璇去了不止一趟医院",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%AD%90%E7%92%87%E5%8E%BB%E4%BA%86%E4%B8%8D%E6%AD%A2%E4%B8%80%E8%B6%9F%E5%8C%BB%E9%99%A2%23",
+          "hot": 324009,
+          "tag": "新"
         },
         {
           "rank": 13,
           "title": "南风律师要求虞书欣工作室道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%81%93%E6%AD%89%23",
-          "hot": 793837,
-          "tag": "热"
+          "hot": 324003
         },
         {
           "rank": 14,
-          "title": "许飞穿了殷世航的增高鞋",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%A9%BF%E4%BA%86%E6%AE%B7%E4%B8%96%E8%88%AA%E7%9A%84%E5%A2%9E%E9%AB%98%E9%9E%8B%23",
-          "hot": 742009,
+          "title": "NBA回应BLG现场观战篮网76人比赛",
+          "url": "https://s.weibo.com/weibo?q=%23NBA%E5%9B%9E%E5%BA%94BLG%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%AF%AE%E7%BD%9176%E4%BA%BA%E6%AF%94%E8%B5%9B%23",
+          "hot": 323984,
           "tag": "新"
         },
         {
           "rank": 15,
           "title": "Doggo向Junjia道歉",
           "url": "https://s.weibo.com/weibo?q=%23Doggo%E5%90%91Junjia%E9%81%93%E6%AD%89%23",
-          "hot": 716301,
+          "hot": 323975,
           "tag": "新"
         },
         {
           "rank": 16,
-          "title": "NBA回应BLG现场观战篮网76人比赛",
-          "url": "https://s.weibo.com/weibo?q=%23NBA%E5%9B%9E%E5%BA%94BLG%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E7%AF%AE%E7%BD%9176%E4%BA%BA%E6%AF%94%E8%B5%9B%23",
-          "hot": 546598,
+          "title": "2026年APEC时间来了",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4APEC%E6%97%B6%E9%97%B4%E6%9D%A5%E4%BA%86%23",
+          "hot": 323955,
           "tag": "新"
         },
         {
           "rank": 17,
-          "title": "周杰伦遗憾落选格莱美",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%81%97%E6%86%BE%E8%90%BD%E9%80%89%E6%A0%BC%E8%8E%B1%E7%BE%8E%23",
-          "hot": 508697,
-          "tag": "新"
+          "title": "许飞穿了殷世航的增高鞋",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%A9%BF%E4%BA%86%E6%AE%B7%E4%B8%96%E8%88%AA%E7%9A%84%E5%A2%9E%E9%AB%98%E9%9E%8B%23",
+          "hot": 323940
         },
         {
           "rank": 18,
-          "title": "开拓者vs森林狼",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E6%8B%93%E8%80%85vs%E6%A3%AE%E6%9E%97%E7%8B%BC",
-          "hot": 456403
+          "title": "太阳雨陈砚周求婚郑雨",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E9%9B%A8%E9%99%88%E7%A0%9A%E5%91%A8%E6%B1%82%E5%A9%9A%E9%83%91%E9%9B%A8%23",
+          "hot": 323933,
+          "tag": "新"
         },
         {
           "rank": 19,
-          "title": "被虞书欣起诉网友发文",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87%23",
-          "hot": 445035,
-          "tag": "沸"
+          "title": "17家车企被点名查账",
+          "url": "https://s.weibo.com/weibo?q=%2317%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6%23",
+          "hot": 323923
         },
         {
           "rank": 20,
-          "title": "BLG重回夺冠地看NBA",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E9%87%8D%E5%9B%9E%E5%A4%BA%E5%86%A0%E5%9C%B0%E7%9C%8BNBA%23",
-          "hot": 377479
+          "title": "美国发布AI芯片远程访问新规",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83AI%E8%8A%AF%E7%89%87%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B0%E8%A7%84",
+          "hot": 323907
         }
       ]
     },
@@ -147,14 +146,14 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-17T11:24:18.280496701+08:00",
-      "elapsed_ms": 1381,
+      "fetched_at": "2026-11-17T12:24:16.786741358+08:00",
+      "elapsed_ms": 1507,
       "items": [
         {
           "rank": 1,
           "title": "习近平将同普京特朗普会晤",
           "url": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
-          "hot": 11945488,
+          "hot": 12026307,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794791636,
@@ -166,84 +165,32 @@
           "rank": 2,
           "title": "2026年APEC工商领导人峰会开幕",
           "url": "https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95",
-          "hot": 11378633,
+          "hot": 11692062,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794885148,
             "label": 1,
             "sentence_id": "2750072",
-            "video_count": 7
+            "video_count": 8
           }
         },
         {
           "rank": 3,
           "title": "APEC“中国年”经贸成果丰硕",
           "url": "https://www.douyin.com/search/APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%E4%B8%B0%E7%A1%95",
-          "hot": 11164703,
+          "hot": 11425674,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794881441,
-            "label": 1,
             "sentence_id": "2749899",
             "video_count": 1
           }
         },
         {
           "rank": 4,
-          "title": "墨西哥总统辛鲍姆抵达深圳",
-          "url": "https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E8%BE%9B%E9%B2%8D%E5%A7%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-          "hot": 11114883,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794802114,
-            "label": 3,
-            "sentence_id": "2748444",
-            "video_count": 6
-          }
-        },
-        {
-          "rank": 5,
-          "title": "国足vs巴林前瞻",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB",
-          "hot": 10548866,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794811221,
-            "label": 3,
-            "sentence_id": "2748769",
-            "video_count": 4
-          }
-        },
-        {
-          "rank": 6,
-          "title": "东北地区将迎强降雪",
-          "url": "https://www.douyin.com/search/%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%B0%86%E8%BF%8E%E5%BC%BA%E9%99%8D%E9%9B%AA",
-          "hot": 10546749,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794819312,
-            "label": 3,
-            "sentence_id": "2749074",
-            "video_count": 2
-          }
-        },
-        {
-          "rank": 7,
-          "title": "加拿大总理卡尼抵达深圳",
-          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-          "hot": 9410799,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794840031,
-            "sentence_id": "2749661",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 8,
           "title": "苏林抵达深圳",
           "url": "https://www.douyin.com/search/%E8%8B%8F%E6%9E%97%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-          "hot": 9367948,
+          "hot": 11315228,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794881787,
@@ -253,23 +200,97 @@
           }
         },
         {
+          "rank": 5,
+          "title": "76人135:123战胜篮网",
+          "url": "https://www.douyin.com/search/76%E4%BA%BA135:123%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91",
+          "hot": 10670168,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794886198,
+            "label": 1,
+            "sentence_id": "2750128",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 6,
+          "title": "加拿大总理卡尼抵达深圳",
+          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "hot": 10569831,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794840031,
+            "label": 3,
+            "sentence_id": "2749661",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 7,
+          "title": "国足vs巴林前瞻",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97%E5%89%8D%E7%9E%BB",
+          "hot": 9439107,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794811221,
+            "sentence_id": "2748769",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 8,
+          "title": "GEN官宣四人离队",
+          "url": "https://www.douyin.com/search/GEN%E5%AE%98%E5%AE%A3%E5%9B%9B%E4%BA%BA%E7%A6%BB%E9%98%9F",
+          "hot": 9436642,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794886653,
+            "label": 1,
+            "sentence_id": "2750153",
+            "video_count": 2
+          }
+        },
+        {
           "rank": 9,
           "title": "APEC需要中国",
           "url": "https://www.douyin.com/search/APEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD",
-          "hot": 9334487,
+          "hot": 9435555,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794881536,
-            "label": 1,
             "sentence_id": "2749905",
             "video_count": 1
           }
         },
         {
           "rank": 10,
+          "title": "东北地区将迎强降雪",
+          "url": "https://www.douyin.com/search/%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%B0%86%E8%BF%8E%E5%BC%BA%E9%99%8D%E9%9B%AA",
+          "hot": 9395110,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794819312,
+            "sentence_id": "2749074",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 11,
+          "title": "特朗普启程亚洲行",
+          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E4%BA%9A%E6%B4%B2%E8%A1%8C",
+          "hot": 9384111,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794879777,
+            "sentence_id": "2749826",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 12,
           "title": "非遗暖居过冬仪式感",
           "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F",
-          "hot": 9309995,
+          "hot": 9378615,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794797993,
@@ -279,36 +300,10 @@
           }
         },
         {
-          "rank": 11,
-          "title": "特朗普启程亚洲行",
-          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E4%BA%9A%E6%B4%B2%E8%A1%8C",
-          "hot": 9271951,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794879777,
-            "label": 1,
-            "sentence_id": "2749826",
-            "video_count": 2
-          }
-        },
-        {
-          "rank": 12,
-          "title": "首饰金价格跌破每克千元关口",
-          "url": "https://www.douyin.com/search/%E9%A6%96%E9%A5%B0%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E7%A0%B4%E6%AF%8F%E5%85%8B%E5%8D%83%E5%85%83%E5%85%B3%E5%8F%A3",
-          "hot": 9267114,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1794880633,
-            "label": 1,
-            "sentence_id": "2749842",
-            "video_count": 2
-          }
-        },
-        {
           "rank": 13,
           "title": "“沈阳中考英语听力口语改革”不实",
           "url": "https://www.douyin.com/search/%E2%80%9C%E6%B2%88%E9%98%B3%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8F%A3%E8%AF%AD%E6%94%B9%E9%9D%A9%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "hot": 9261121,
+          "hot": 9353766,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794825708,
@@ -319,47 +314,47 @@
         },
         {
           "rank": 14,
-          "title": "狮子座流星雨将迎来极大期",
-          "url": "https://www.douyin.com/search/%E7%8B%AE%E5%AD%90%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7%E6%9C%9F",
-          "hot": 9223106,
+          "title": "多喜一家人开播",
+          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%BC%80%E6%92%AD",
+          "hot": 9308158,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794808078,
-            "sentence_id": "2748625",
-            "video_count": 5
+            "event_time": 1794796613,
+            "label": 8,
+            "sentence_id": "2748229",
+            "video_count": 3
           }
         },
         {
           "rank": 15,
-          "title": "国际油价显著下跌",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%98%BE%E8%91%97%E4%B8%8B%E8%B7%8C",
-          "hot": 9176744,
+          "title": "智利总统卡斯特抵达深圳",
+          "url": "https://www.douyin.com/search/%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%8D%A1%E6%96%AF%E7%89%B9%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "hot": 9262283,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794872770,
+            "event_time": 1794885328,
             "label": 1,
-            "sentence_id": "2749745",
-            "video_count": 5
+            "sentence_id": "2750078",
+            "video_count": 2
           }
         },
         {
           "rank": 16,
-          "title": "我家门口新开了一朵茉莉",
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%96%B0%E5%BC%80%E4%BA%86%E4%B8%80%E6%9C%B5%E8%8C%89%E8%8E%89",
-          "hot": 9162193,
+          "title": "新一任007官宣为帕丁森",
+          "url": "https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E4%BB%BB007%E5%AE%98%E5%AE%A3%E4%B8%BA%E5%B8%95%E4%B8%81%E6%A3%AE",
+          "hot": 9054906,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794805348,
-            "label": 9,
-            "sentence_id": "2748536",
-            "video_count": 10
+            "event_time": 1794870046,
+            "sentence_id": "2749718",
+            "video_count": 7
           }
         },
         {
           "rank": 17,
           "title": "BLG夺冠背后的经济机遇",
           "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%9C%BA%E9%81%87",
-          "hot": 9100257,
+          "hot": 8950754,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794809923,
@@ -372,7 +367,7 @@
           "rank": 18,
           "title": "当网络妆容走进现实生活",
           "url": "https://www.douyin.com/search/%E5%BD%93%E7%BD%91%E7%BB%9C%E5%A6%86%E5%AE%B9%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB",
-          "hot": 9061177,
+          "hot": 8947360,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794826193,
@@ -383,28 +378,28 @@
         },
         {
           "rank": 19,
-          "title": "快乐的小青蛙跳进我的生活",
-          "url": "https://www.douyin.com/search/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E9%9D%92%E8%9B%99%E8%B7%B3%E8%BF%9B%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB",
-          "hot": 9026620,
+          "title": "拆正缘星座盲盒",
+          "url": "https://www.douyin.com/search/%E6%8B%86%E6%AD%A3%E7%BC%98%E6%98%9F%E5%BA%A7%E7%9B%B2%E7%9B%92",
+          "hot": 8861022,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794800755,
+            "event_time": 1794816938,
             "label": 9,
-            "sentence_id": "2748402",
+            "sentence_id": "2749011",
             "video_count": 10
           }
         },
         {
           "rank": 20,
-          "title": "我该如何和我的青春说再见呢",
-          "url": "https://www.douyin.com/search/%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81%E5%91%A2",
-          "hot": 8980071,
+          "title": "MC版薯骨鸡腿做法",
+          "url": "https://www.douyin.com/search/MC%E7%89%88%E8%96%AF%E9%AA%A8%E9%B8%A1%E8%85%BF%E5%81%9A%E6%B3%95",
+          "hot": 8850077,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1794832665,
-            "label": 3,
-            "sentence_id": "2749553",
-            "video_count": 1
+            "event_time": 1794821709,
+            "label": 17,
+            "sentence_id": "2749178",
+            "video_count": 2
           }
         }
       ]
@@ -413,8 +408,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": false,
-      "fetched_at": "2026-11-17T11:24:17.309895535+08:00",
-      "elapsed_ms": 411,
+      "fetched_at": "2026-11-17T12:24:15.773315227+08:00",
+      "elapsed_ms": 494,
       "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
       "items": []
     }
