@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-17",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-17T08:24:17.416686881+08:00",
+  "updated_at": "2026-11-17T09:24:19.273301945+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -14,18 +14,18 @@
           "hot": 1002645,
           "best_rank": 1,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "APEC",
           "url": "https://s.weibo.com/weibo?q=APEC",
-          "hot": 909700,
+          "hot": 934001,
           "tag": "新",
           "best_rank": 2,
           "first_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 2
         },
         {
           "title": "终于有人说说干发帽了",
@@ -40,11 +40,21 @@
         {
           "title": "APEC合作成果惠及千家万户",
           "url": "https://s.weibo.com/weibo?q=%23APEC%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%E6%83%A0%E5%8F%8A%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%23",
-          "hot": 572020,
+          "hot": 575773,
           "best_rank": 3,
           "first_seen": "2026-11-17T07:24:17.807672496+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 3
+        },
+        {
+          "title": "经常朝左边睡觉对心脏的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D%23",
+          "hot": 543756,
+          "tag": "新",
+          "best_rank": 4,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
         },
         {
           "title": "同舟共济开创亚太和世界更美好未来",
@@ -54,6 +64,15 @@
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
           "last_seen": "2026-11-17T06:24:20.182087072+08:00",
           "appearances": 7
+        },
+        {
+          "title": "恢复专注力需要反多巴胺",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%A2%E5%A4%8D%E4%B8%93%E6%B3%A8%E5%8A%9B%E9%9C%80%E8%A6%81%E5%8F%8D%E5%A4%9A%E5%B7%B4%E8%83%BA",
+          "hot": 433558,
+          "best_rank": 4,
+          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 2
         },
         {
           "title": "6年恋爱因一枚戒指分手",
@@ -66,6 +85,93 @@
           "appearances": 8
         },
         {
+          "title": "17家车企被点名查账",
+          "url": "https://s.weibo.com/weibo?q=%2317%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6%23",
+          "hot": 430125,
+          "best_rank": 6,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "裁判误判致国乒比赛中断11分钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%E8%AF%AF%E5%88%A4%E8%87%B4%E5%9B%BD%E4%B9%92%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%96%AD11%E5%88%86%E9%92%9F%23",
+          "hot": 428388,
+          "best_rank": 6,
+          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "墨西哥总统抵达深圳后做了一个动作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23",
+          "hot": 420655,
+          "tag": "新",
+          "best_rank": 6,
+          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "王子璇这段仇人看了都释怀了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E8%BF%99%E6%AE%B5%E4%BB%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%BD%E9%87%8A%E6%80%80%E4%BA%86%23",
+          "hot": 416954,
+          "tag": "综艺",
+          "best_rank": 9,
+          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 4
+        },
+        {
+          "title": "陈砚周没有柏拉图的义务",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%A0%9A%E5%91%A8%E6%B2%A1%E6%9C%89%E6%9F%8F%E6%8B%89%E5%9B%BE%E7%9A%84%E4%B9%89%E5%8A%A1%23",
+          "hot": 412873,
+          "tag": "剧集",
+          "best_rank": 10,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "南风律师要求虞书欣工作室道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%81%93%E6%AD%89%23",
+          "hot": 404468,
+          "tag": "新",
+          "best_rank": 11,
+          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "信小呆锦鲤奖品实为代金券",
+          "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E9%94%A6%E9%B2%A4%E5%A5%96%E5%93%81%E5%AE%9E%E4%B8%BA%E4%BB%A3%E9%87%91%E5%88%B8",
+          "hot": 399436,
+          "tag": "热",
+          "best_rank": 12,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "湖北律师黄琴不幸去世",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E5%BE%8B%E5%B8%88%E9%BB%84%E7%90%B4%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96",
+          "hot": 397342,
+          "tag": "热",
+          "best_rank": 13,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "美国发布AI芯片远程访问新规",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83AI%E8%8A%AF%E7%89%87%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B0%E8%A7%84",
+          "hot": 393667,
+          "best_rank": 14,
+          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 2
+        },
+        {
           "title": "新007是帕丁森",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE%23",
           "hot": 376218,
@@ -76,13 +182,13 @@
           "appearances": 8
         },
         {
-          "title": "恢复专注力需要反多巴胺",
-          "url": "https://s.weibo.com/weibo?q=%E6%81%A2%E5%A4%8D%E4%B8%93%E6%B3%A8%E5%8A%9B%E9%9C%80%E8%A6%81%E5%8F%8D%E5%A4%9A%E5%B7%B4%E8%83%BA",
-          "hot": 278210,
-          "best_rank": 4,
-          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 1
+          "title": "建议大家不要一直穿同一双鞋",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B",
+          "hot": 311894,
+          "best_rank": 11,
+          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "SK谈妻子观赛流产",
@@ -92,6 +198,26 @@
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
           "last_seen": "2026-11-17T01:24:14.467061588+08:00",
           "appearances": 2
+        },
+        {
+          "title": "金子涵称被家人骗到了精神病院",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23",
+          "hot": 252670,
+          "tag": "热",
+          "best_rank": 8,
+          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "母亲称C罗在葡萄牙队被欺骗没得到尊重",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%A7%B0C%E7%BD%97%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E8%A2%AB%E6%AC%BA%E9%AA%97%E6%B2%A1%E5%BE%97%E5%88%B0%E5%B0%8A%E9%87%8D%23",
+          "hot": 252205,
+          "tag": "新",
+          "best_rank": 17,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
         },
         {
           "title": "德国5比0荷兰",
@@ -104,22 +230,32 @@
           "appearances": 1
         },
         {
-          "title": "墨西哥总统抵达深圳后做了一个动作",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23",
-          "hot": 234864,
+          "title": "张远妈妈怕爸爸回来找不到家",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E5%A6%88%E5%A6%88%E6%80%95%E7%88%B8%E7%88%B8%E5%9B%9E%E6%9D%A5%E6%89%BE%E4%B8%8D%E5%88%B0%E5%AE%B6",
+          "hot": 231104,
+          "best_rank": 18,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "吃了点didi喂",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82",
+          "hot": 229044,
           "tag": "新",
           "best_rank": 6,
-          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "first_seen": "2026-11-17T01:24:14.467061588+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
           "appearances": 9
         },
         {
-          "title": "裁判误判致国乒比赛中断11分钟",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%E8%AF%AF%E5%88%A4%E8%87%B4%E5%9B%BD%E4%B9%92%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%96%AD11%E5%88%86%E9%92%9F%23",
-          "hot": 221930,
-          "best_rank": 6,
-          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
+          "title": "Roach回归T1",
+          "url": "https://s.weibo.com/weibo?q=Roach%E5%9B%9E%E5%BD%92T1",
+          "hot": 223269,
+          "tag": "新",
+          "best_rank": 20,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
           "appearances": 1
         },
         {
@@ -190,25 +326,6 @@
           "appearances": 7
         },
         {
-          "title": "金子涵称被家人骗到了精神病院",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23",
-          "hot": 203509,
-          "tag": "热",
-          "best_rank": 8,
-          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "建议大家不要一直穿同一双鞋",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B",
-          "hot": 203402,
-          "best_rank": 11,
-          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
-        },
-        {
           "title": "许飞自曝参加浪姐期间被分手了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86%23",
           "hot": 203323,
@@ -267,36 +384,6 @@
           "appearances": 1
         },
         {
-          "title": "王子璇这段仇人看了都释怀了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E8%BF%99%E6%AE%B5%E4%BB%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E9%83%BD%E9%87%8A%E6%80%80%E4%BA%86%23",
-          "hot": 202867,
-          "tag": "综艺",
-          "best_rank": 17,
-          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T05:24:16.338899311+08:00",
-          "appearances": 3
-        },
-        {
-          "title": "南风律师要求虞书欣工作室道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E5%BE%8B%E5%B8%88%E8%A6%81%E6%B1%82%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%81%93%E6%AD%89%23",
-          "hot": 201801,
-          "tag": "新",
-          "best_rank": 11,
-          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "吃了点didi喂",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82",
-          "hot": 198431,
-          "tag": "新",
-          "best_rank": 6,
-          "first_seen": "2026-11-17T01:24:14.467061588+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 8
-        },
-        {
           "title": "iPhoneDuo新增人脸识别解锁",
           "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%96%B0%E5%A2%9E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A7%A3%E9%94%81%23",
           "hot": 187328,
@@ -353,15 +440,6 @@
           "first_seen": "2026-11-17T05:24:16.338899311+08:00",
           "last_seen": "2026-11-17T08:24:16.072832757+08:00",
           "appearances": 4
-        },
-        {
-          "title": "美国发布AI芯片远程访问新规",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83AI%E8%8A%AF%E7%89%87%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B0%E8%A7%84",
-          "hot": 144561,
-          "best_rank": 20,
-          "first_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 1
         },
         {
           "title": "乔欣宣传蒋欣新剧多喜一家人",
@@ -449,8 +527,8 @@
           "hot": 12108262,
           "best_rank": 1,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "2分钟读懂APEC",
@@ -467,8 +545,17 @@
           "hot": 11520672,
           "best_rank": 3,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "加拿大总理卡尼抵达深圳",
+          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "hot": 11365253,
+          "best_rank": 2,
+          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "东北地区将迎强降雪",
@@ -476,17 +563,8 @@
           "hot": 11363097,
           "best_rank": 4,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "加拿大总理卡尼抵达深圳",
-          "url": "https://www.douyin.com/search/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-          "hot": 11318195,
-          "best_rank": 4,
-          "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "墨西哥总统辛鲍姆抵达深圳",
@@ -494,8 +572,8 @@
           "hot": 11225800,
           "best_rank": 4,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "狮子座流星雨将迎来极大期",
@@ -503,8 +581,8 @@
           "hot": 11097810,
           "best_rank": 4,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "克里米亚大桥遭袭交通暂时受限",
@@ -512,8 +590,8 @@
           "hot": 10644996,
           "best_rank": 6,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "草靶子糖葫芦是冬日的第一份甜蜜",
@@ -521,8 +599,8 @@
           "hot": 10568151,
           "best_rank": 5,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "国足vs巴林前瞻",
@@ -530,17 +608,17 @@
           "hot": 9505183,
           "best_rank": 8,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "非遗暖居过冬仪式感",
           "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E6%9A%96%E5%B1%85%E8%BF%87%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F",
           "hot": 9474491,
-          "best_rank": 8,
+          "best_rank": 7,
           "first_seen": "2026-11-17T05:24:16.338899311+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 5
         },
         {
           "title": "日本GDP再次负增长",
@@ -548,8 +626,17 @@
           "hot": 9435836,
           "best_rank": 11,
           "first_seen": "2026-11-17T04:24:16.791762093+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 6
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "hot": 9428483,
+          "best_rank": 10,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
         },
         {
           "title": "2026年APEC工商领导人峰会将举行",
@@ -557,8 +644,8 @@
           "hot": 9417420,
           "best_rank": 9,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "“沈阳中考英语听力口语改革”不实",
@@ -566,8 +653,8 @@
           "hot": 9374588,
           "best_rank": 13,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "斯托伊科维奇任山东泰山队主教练",
@@ -611,8 +698,8 @@
           "hot": 9213208,
           "best_rank": 17,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 10
         },
         {
           "title": "茉茉手势舞",
@@ -638,8 +725,8 @@
           "hot": 9164446,
           "best_rank": 18,
           "first_seen": "2026-11-17T06:24:20.182087072+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 3
         },
         {
           "title": "当网络妆容走进现实生活",
@@ -647,17 +734,17 @@
           "hot": 9161194,
           "best_rank": 18,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 8
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 9
         },
         {
           "title": "上抖音看APEC",
           "url": "https://www.douyin.com/search/%E4%B8%8A%E6%8A%96%E9%9F%B3%E7%9C%8BAPEC",
-          "hot": 9131250,
-          "best_rank": 16,
+          "hot": 9160472,
+          "best_rank": 15,
           "first_seen": "2026-11-17T03:24:19.30499557+08:00",
-          "last_seen": "2026-11-17T07:24:17.807672496+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 3
         },
         {
           "title": "詹皇迎里程碑 76人力克步行者",
@@ -669,13 +756,22 @@
           "appearances": 1
         },
         {
+          "title": "快乐的小青蛙跳进我的生活",
+          "url": "https://www.douyin.com/search/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E9%9D%92%E8%9B%99%E8%B7%B3%E8%BF%9B%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB",
+          "hot": 9068667,
+          "best_rank": 16,
+          "first_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 1
+        },
+        {
           "title": "拆正缘星座盲盒",
           "url": "https://www.douyin.com/search/%E6%8B%86%E6%AD%A3%E7%BC%98%E6%98%9F%E5%BA%A7%E7%9B%B2%E7%9B%92",
           "hot": 9068332,
           "best_rank": 17,
           "first_seen": "2026-11-17T00:24:17.891968647+08:00",
-          "last_seen": "2026-11-17T08:24:16.072832757+08:00",
-          "appearances": 7
+          "last_seen": "2026-11-17T09:24:17.570219558+08:00",
+          "appearances": 8
         },
         {
           "title": "MC版薯骨鸡腿做法",
