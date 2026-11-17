@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-17 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-17 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [于东来奖励员工310辆坦克700](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5310%E8%BE%86%E5%9D%A6%E5%85%8B700%23) — 117.5万 · 新
-2. [深圳APEC主持人阵容拉满](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1%23) — 112.5万
-3. [APEC](https://s.weibo.com/weibo?q=APEC) — 111.2万 · 新
-4. [甄嬛传这三集播放量最高](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%99%E4%B8%89%E9%9B%86%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%23) — 109.6万 · 新
-5. [俄美运输机亮相深圳宝安机场](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%23) — 104.5万
-6. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 100.3万
-7. [数说APEC中国年经贸成果](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%23) — 100万 · 新
-8. [经常朝左边睡觉对心脏的影响](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D%23) — 98.2万 · 新
-9. [周杰伦27年演唱会官宣](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A627%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23) — 93万 · 演出
-10. [勇士开局2比23鹈鹕](https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E5%BC%80%E5%B1%802%E6%AF%9423%E9%B9%88%E9%B9%95%23) — 90.1万 · 新
+1. [信小呆的1亿奖品清单](https://s.weibo.com/weibo?q=%23%E4%BF%A1%E5%B0%8F%E5%91%86%E7%9A%841%E4%BA%BF%E5%A5%96%E5%93%81%E6%B8%85%E5%8D%95%23) — 126.8万 · 新
+2. [于东来奖励员工310辆坦克700](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5310%E8%BE%86%E5%9D%A6%E5%85%8B700%23) — 117.5万 · 新
+3. [深圳APEC主持人阵容拉满](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1%23) — 112.5万
+4. [APEC](https://s.weibo.com/weibo?q=APEC) — 111.2万 · 新
+5. [甄嬛传这三集播放量最高](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%99%E4%B8%89%E9%9B%86%E6%92%AD%E6%94%BE%E9%87%8F%E6%9C%80%E9%AB%98%23) — 109.6万 · 新
+6. [俄美运输机亮相深圳宝安机场](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%23) — 104.5万
+7. [中俄美元首会晤将在深圳举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23) — 100.3万
+8. [数说APEC中国年经贸成果](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%23) — 100万 · 新
+9. [经常朝左边睡觉对心脏的影响](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D%23) — 98.2万 · 新
+10. [周杰伦27年演唱会官宣](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A627%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23) — 93万 · 演出
 
 ### 抖音
 
