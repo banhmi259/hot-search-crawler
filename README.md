@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -28,16 +28,16 @@
 
 ### 抖音
 
-1. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
-2. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1175.6万
+1. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1194.7万
+2. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
 3. [抄抄老吃家的过冬美食清单](https://www.douyin.com/search/%E6%8A%84%E6%8A%84%E8%80%81%E5%90%83%E5%AE%B6%E7%9A%84%E8%BF%87%E5%86%AC%E7%BE%8E%E9%A3%9F%E6%B8%85%E5%8D%95) — 1146万
 4. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1115.1万
 5. [在深圳读懂APEC中国故事](https://www.douyin.com/search/%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%AF%BB%E6%87%82APEC%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B) — 1111万
-6. [辣皮子牛肋排香迷糊了](https://www.douyin.com/search/%E8%BE%A3%E7%9A%AE%E5%AD%90%E7%89%9B%E8%82%8B%E6%8E%92%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86) — 1046万
-7. [APEC媒体中心餐食出圈](https://www.douyin.com/search/APEC%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E9%A4%90%E9%A3%9F%E5%87%BA%E5%9C%88) — 1012.8万
-8. [贵州辣卤会惩罚每一个嘴硬的人](https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E8%BE%A3%E5%8D%A4%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%98%B4%E7%A1%AC%E7%9A%84%E4%BA%BA) — 928.5万
-9. [日本就俄军机疑似入境提出抗议](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%BF%84%E5%86%9B%E6%9C%BA%E7%96%91%E4%BC%BC%E5%85%A5%E5%A2%83%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE) — 927.5万
-10. [赴鹏城之约 寻合作答案](https://www.douyin.com/search/%E8%B5%B4%E9%B9%8F%E5%9F%8E%E4%B9%8B%E7%BA%A6%20%E5%AF%BB%E5%90%88%E4%BD%9C%E7%AD%94%E6%A1%88) — 915.6万
+6. [辣皮子牛肋排香迷糊了](https://www.douyin.com/search/%E8%BE%A3%E7%9A%AE%E5%AD%90%E7%89%9B%E8%82%8B%E6%8E%92%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86) — 1053.3万
+7. [日本就俄军机疑似入境提出抗议](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%BF%84%E5%86%9B%E6%9C%BA%E7%96%91%E4%BC%BC%E5%85%A5%E5%A2%83%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE) — 1044.1万
+8. [APEC媒体中心餐食出圈](https://www.douyin.com/search/APEC%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E9%A4%90%E9%A3%9F%E5%87%BA%E5%9C%88) — 1012.8万
+9. [贵州辣卤会惩罚每一个嘴硬的人](https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E8%BE%A3%E5%8D%A4%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%98%B4%E7%A1%AC%E7%9A%84%E4%BA%BA) — 928.5万
+10. [赴鹏城之约 寻合作答案](https://www.douyin.com/search/%E8%B5%B4%E9%B9%8F%E5%9F%8E%E4%B9%8B%E7%BA%A6%20%E5%AF%BB%E5%90%88%E4%BD%9C%E7%AD%94%E6%A1%88) — 917.5万
 
 ### 小红书
 
