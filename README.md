@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-17 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-17 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -29,7 +29,7 @@
 ### 抖音
 
 1. [习近平将同普京特朗普会晤](https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4) — 1210.8万
-2. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1199.5万
+2. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1208.9万
 3. [2026年APEC工商领导人峰会开幕](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1180.3万
 4. [2026年APEC工商领导人峰会将举行](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%B0%86%E4%B8%BE%E8%A1%8C) — 1178.5万
 5. [2分钟读懂APEC](https://www.douyin.com/search/2%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC) — 1172万
