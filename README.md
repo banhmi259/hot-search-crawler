@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 02:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 03:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -36,8 +36,8 @@
 6. [辣皮子牛肋排香迷糊了](https://www.douyin.com/search/%E8%BE%A3%E7%9A%AE%E5%AD%90%E7%89%9B%E8%82%8B%E6%8E%92%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86) — 1035万
 7. [APEC媒体中心餐食出圈](https://www.douyin.com/search/APEC%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E9%A4%90%E9%A3%9F%E5%87%BA%E5%9C%88) — 1012.8万
 8. [贵州辣卤会惩罚每一个嘴硬的人](https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E8%BE%A3%E5%8D%A4%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%98%B4%E7%A1%AC%E7%9A%84%E4%BA%BA) — 904.6万
-9. [赴鹏城之约 寻合作答案](https://www.douyin.com/search/%E8%B5%B4%E9%B9%8F%E5%9F%8E%E4%B9%8B%E7%BA%A6%20%E5%AF%BB%E5%90%88%E4%BD%9C%E7%AD%94%E6%A1%88) — 848.8万
-10. [媒体：特朗普将于18日晚抵达深圳](https://www.douyin.com/search/%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 824万
+9. [日本就俄军机疑似入境提出抗议](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%BF%84%E5%86%9B%E6%9C%BA%E7%96%91%E4%BC%BC%E5%85%A5%E5%A2%83%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE) — 873.7万
+10. [赴鹏城之约 寻合作答案](https://www.douyin.com/search/%E8%B5%B4%E9%B9%8F%E5%9F%8E%E4%B9%8B%E7%BA%A6%20%E5%AF%BB%E5%90%88%E4%BD%9C%E7%AD%94%E6%A1%88) — 858.1万
 
 ### 小红书
 
