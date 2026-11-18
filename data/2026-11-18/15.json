@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-18T15:24:17.123373373+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-18T15:24:18.301576032+08:00",
+      "elapsed_ms": 1178,
+      "items": [
+        {
+          "rank": 1,
+          "title": "APEC",
+          "url": "https://s.weibo.com/weibo?q=APEC",
+          "hot": 1048016,
+          "tag": "沸"
+        },
+        {
+          "rank": 2,
+          "title": "文莱领导人握手中方安保1秒摘手套",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8F%A1%E6%89%8B%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D1%E7%A7%92%E6%91%98%E6%89%8B%E5%A5%97%23",
+          "hot": 777663
+        },
+        {
+          "rank": 3,
+          "title": "APEC中国年这些知识点不容错过",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%99%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%23",
+          "hot": 611918
+        },
+        {
+          "rank": 4,
+          "title": "深圳机场一眼望去全是专机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA%23",
+          "hot": 591603
+        },
+        {
+          "rank": 5,
+          "title": "湖人黄蜂加时",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E9%BB%84%E8%9C%82%E5%8A%A0%E6%97%B6",
+          "hot": 358976,
+          "tag": "新"
+        },
+        {
+          "rank": 6,
+          "title": "普京说感谢中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23",
+          "hot": 351275
+        },
+        {
+          "rank": 7,
+          "title": "BLG为Viper保留位置",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E4%B8%BAViper%E4%BF%9D%E7%95%99%E4%BD%8D%E7%BD%AE%23",
+          "hot": 347199
+        },
+        {
+          "rank": 8,
+          "title": "刘耀文许飞知音难寻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AE%B8%E9%A3%9E%E7%9F%A5%E9%9F%B3%E9%9A%BE%E5%AF%BB%23",
+          "hot": 344425,
+          "tag": "新"
+        },
+        {
+          "rank": 9,
+          "title": "峨眉山来了群女弟子",
+          "url": "https://s.weibo.com/weibo?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%9D%A5%E4%BA%86%E7%BE%A4%E5%A5%B3%E5%BC%9F%E5%AD%90",
+          "hot": 343948,
+          "tag": "综艺"
+        },
+        {
+          "rank": 10,
+          "title": "普京盛赞深圳",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%9B%9B%E8%B5%9E%E6%B7%B1%E5%9C%B3%23",
+          "hot": 343764,
+          "tag": "新"
+        },
+        {
+          "rank": 11,
+          "title": "冯薪朵钟正未婚先孕",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%AF%E8%96%AA%E6%9C%B5%E9%92%9F%E6%AD%A3%E6%9C%AA%E5%A9%9A%E5%85%88%E5%AD%95%23",
+          "hot": 342746,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "内娱第一个把孩子说成是子宫肌瘤的",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8A%8A%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%88%90%E6%98%AF%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%E7%9A%84%23",
+          "hot": 342334,
+          "tag": "新"
+        },
+        {
+          "rank": 13,
+          "title": "陆毅女儿贝儿正式出道",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%A5%B3%E5%84%BF%E8%B4%9D%E5%84%BF%E6%AD%A3%E5%BC%8F%E5%87%BA%E9%81%93%23",
+          "hot": 341784,
+          "tag": "热"
+        },
+        {
+          "rank": 14,
+          "title": "高市早苗向中方代表打招呼姿态引热议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%E6%89%93%E6%8B%9B%E5%91%BC%E5%A7%BF%E6%80%81%E5%BC%95%E7%83%AD%E8%AE%AE%23",
+          "hot": 341064,
+          "tag": "热"
+        },
+        {
+          "rank": 15,
+          "title": "内娱下星二代了",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E4%B8%8B%E6%98%9F%E4%BA%8C%E4%BB%A3%E4%BA%86",
+          "hot": 340351,
+          "tag": "热"
+        },
+        {
+          "rank": 16,
+          "title": "PEL",
+          "url": "https://s.weibo.com/weibo?q=PEL",
+          "hot": 339546,
+          "tag": "新"
+        },
+        {
+          "rank": 17,
+          "title": "李嘉格听到冯薪朵生了孩子的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E5%90%AC%E5%88%B0%E5%86%AF%E8%96%AA%E6%9C%B5%E7%94%9F%E4%BA%86%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8F%8D%E5%BA%94%23",
+          "hot": 339459,
+          "tag": "新"
+        },
+        {
+          "rank": 18,
+          "title": "游客曝1600的烤全羊剥不出1两肉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%9B%9D1600%E7%9A%84%E7%83%A4%E5%85%A8%E7%BE%8A%E5%89%A5%E4%B8%8D%E5%87%BA1%E4%B8%A4%E8%82%89%23",
+          "hot": 338647
+        },
+        {
+          "rank": 19,
+          "title": "BLG直播",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E7%9B%B4%E6%92%AD%23",
+          "hot": 338086
+        },
+        {
+          "rank": 20,
+          "title": "Tim称苹果整个纽约的服务炸了",
+          "url": "https://s.weibo.com/weibo?q=%23Tim%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%95%B4%E4%B8%AA%E7%BA%BD%E7%BA%A6%E7%9A%84%E6%9C%8D%E5%8A%A1%E7%82%B8%E4%BA%86%23",
+          "hot": 337284,
+          "tag": "新"
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-18T15:24:19.029577945+08:00",
+      "elapsed_ms": 1905,
+      "items": [
+        {
+          "rank": 1,
+          "title": "APEC工商领导人峰会开幕式举行",
+          "url": "https://www.douyin.com/search/APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C",
+          "hot": 11715984,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794885148,
+            "label": 3,
+            "sentence_id": "2750072",
+            "video_count": 15
+          }
+        },
+        {
+          "rank": 2,
+          "title": "普京抵达深圳",
+          "url": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "hot": 11204024,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794956628,
+            "label": 3,
+            "sentence_id": "2751526",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 3,
+          "title": "大鹏展翅亚太扬帆",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E9%B9%8F%E5%B1%95%E7%BF%85%E4%BA%9A%E5%A4%AA%E6%89%AC%E5%B8%86",
+          "hot": 11105281,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794970017,
+            "label": 3,
+            "sentence_id": "2751841",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
+          "title": "APEC峰会有哪些领导人参加",
+          "url": "https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0",
+          "hot": 11072540,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794899776,
+            "label": 3,
+            "sentence_id": "2750628",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 5,
+          "title": "韩国总统李在明抵达深圳",
+          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "hot": 10507610,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794957053,
+            "sentence_id": "2751532",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 6,
+          "title": "APEC媒体中心餐食出圈",
+          "url": "https://www.douyin.com/search/APEC%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83%E9%A4%90%E9%A3%9F%E5%87%BA%E5%9C%88",
+          "hot": 10492358,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794878689,
+            "label": 3,
+            "sentence_id": "2749805",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 7,
+          "title": "北京的银杏雨你淋到了吗",
+          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E7%9A%84%E9%93%B6%E6%9D%8F%E9%9B%A8%E4%BD%A0%E6%B7%8B%E5%88%B0%E4%BA%86%E5%90%97",
+          "hot": 9358269,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794969011,
+            "label": 1,
+            "sentence_id": "2751775",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 8,
+          "title": "现货黄金跌破3800美元关口",
+          "url": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B43800%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
+          "hot": 9349331,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794972522,
+            "sentence_id": "2751924",
+            "video_count": 12
+          }
+        },
+        {
+          "rank": 9,
+          "title": "中国贡献为亚太发展注入新动能",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B4%A1%E7%8C%AE%E4%B8%BA%E4%BA%9A%E5%A4%AA%E5%8F%91%E5%B1%95%E6%B3%A8%E5%85%A5%E6%96%B0%E5%8A%A8%E8%83%BD",
+          "hot": 9323498,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794970072,
+            "label": 3,
+            "sentence_id": "2751843",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 10,
+          "title": "特朗普启程前往深圳",
+          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E6%B7%B1%E5%9C%B3",
+          "hot": 9226131,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794985351,
+            "label": 1,
+            "sentence_id": "2752379",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 11,
+          "title": "抖音博主齐聚深圳为你讲好APEC",
+          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%8D%9A%E4%B8%BB%E9%BD%90%E8%81%9A%E6%B7%B1%E5%9C%B3%E4%B8%BA%E4%BD%A0%E8%AE%B2%E5%A5%BDAPEC",
+          "hot": 9136009,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794931178,
+            "label": 8,
+            "sentence_id": "2751497",
+            "video_count": 11
+          }
+        },
+        {
+          "rank": 12,
+          "title": "一条视频读懂APEC",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC",
+          "hot": 8993583,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794976975,
+            "sentence_id": "2752043",
+            "video_count": 11
+          }
+        },
+        {
+          "rank": 13,
+          "title": "BLG落地返回国内",
+          "url": "https://www.douyin.com/search/BLG%E8%90%BD%E5%9C%B0%E8%BF%94%E5%9B%9E%E5%9B%BD%E5%86%85",
+          "hot": 8810208,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794972622,
+            "label": 1,
+            "sentence_id": "2751927",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 14,
+          "title": "国足2:2战平巴林",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97",
+          "hot": 8620340,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794916615,
+            "sentence_id": "2751268",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 15,
+          "title": "偏爱奶蛙袜子的人不会输",
+          "url": "https://www.douyin.com/search/%E5%81%8F%E7%88%B1%E5%A5%B6%E8%9B%99%E8%A2%9C%E5%AD%90%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%BE%93",
+          "hot": 8505586,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794969029,
+            "label": 3,
+            "sentence_id": "2751780",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 16,
+          "title": "GTA6上线前的我",
+          "url": "https://www.douyin.com/search/GTA6%E4%B8%8A%E7%BA%BF%E5%89%8D%E7%9A%84%E6%88%91",
+          "hot": 8468254,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794970997,
+            "label": 1,
+            "sentence_id": "2751877",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 17,
+          "title": "拆正缘星座盲盒",
+          "url": "https://www.douyin.com/search/%E6%8B%86%E6%AD%A3%E7%BC%98%E6%98%9F%E5%BA%A7%E7%9B%B2%E7%9B%92",
+          "hot": 8110422,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794816938,
+            "label": 9,
+            "sentence_id": "2749011",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 18,
+          "title": "高低得去景德镇画一次盘子",
+          "url": "https://www.douyin.com/search/%E9%AB%98%E4%BD%8E%E5%BE%97%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%BB%E4%B8%80%E6%AC%A1%E7%9B%98%E5%AD%90",
+          "hot": 8028798,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794967563,
+            "sentence_id": "2751707",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 19,
+          "title": "我在APEC第一现场",
+          "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8APEC%E7%AC%AC%E4%B8%80%E7%8E%B0%E5%9C%BA",
+          "hot": 7843171,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794927585,
+            "label": 3,
+            "sentence_id": "2751486",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 20,
+          "title": "赵露思葛栗穿搭我悟了",
+          "url": "https://www.douyin.com/search/%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%91%9B%E6%A0%97%E7%A9%BF%E6%90%AD%E6%88%91%E6%82%9F%E4%BA%86",
+          "hot": 7754011,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794973567,
+            "label": 1,
+            "sentence_id": "2751975",
+            "video_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-18T15:24:17.497969411+08:00",
+      "elapsed_ms": 374,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}
