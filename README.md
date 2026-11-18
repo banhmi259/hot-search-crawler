@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
 5. [三百多品牌护太子回京](https://s.weibo.com/weibo?q=%E4%B8%89%E7%99%BE%E5%A4%9A%E5%93%81%E7%89%8C%E6%8A%A4%E5%A4%AA%E5%AD%90%E5%9B%9E%E4%BA%AC) — 83.6万 · 新
 6. [深圳机场成了APEC随行团打卡点](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%88%90%E4%BA%86APEC%E9%9A%8F%E8%A1%8C%E5%9B%A2%E6%89%93%E5%8D%A1%E7%82%B9%23) — 80.7万 · 新
-7. [普京凌晨抵达深圳现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%87%8C%E6%99%A8%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 71.5万 · 热
-8. [APEC中国年这些知识点不容错过](https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%99%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%23) — 69.5万
-9. [小米18真机曝光](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23) — 67.1万
-10. [与亚太共赴深圳之约](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%BA%A6%23) — 67万
+7. [普京说感谢中国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23) — 78.1万 · 新
+8. [普京凌晨抵达深圳现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%87%8C%E6%99%A8%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 71.5万 · 热
+9. [APEC中国年这些知识点不容错过](https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%99%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%23) — 69.5万
+10. [小米18真机曝光](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23) — 67.1万
 
 ### 抖音
 
