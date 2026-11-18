@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,7 +24,7 @@
 7. [特朗普车队车前插中美两国国旗](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E9%98%9F%E8%BD%A6%E5%89%8D%E6%8F%92%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%9B%BD%E6%97%97%23) — 113.3万 · 新
 8. [深圳人全妆出街迎APEC](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC%23) — 111.1万 · 新
 9. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
-10. [APEC多场密集对话释放大量前沿信息](https://s.weibo.com/weibo?q=%23APEC%E5%A4%9A%E5%9C%BA%E5%AF%86%E9%9B%86%E5%AF%B9%E8%AF%9D%E9%87%8A%E6%94%BE%E5%A4%A7%E9%87%8F%E5%89%8D%E6%B2%BF%E4%BF%A1%E6%81%AF%23) — 84.8万 · 新
+10. [特朗普说很高兴再次到访伟大的中国](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E5%86%8D%E6%AC%A1%E5%88%B0%E8%AE%BF%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%23) — 86.9万 · 新
 
 ### 抖音
 
