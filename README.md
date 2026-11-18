@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-19 00:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-19 01:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,7 +19,7 @@
 2. [特朗普感受到了深圳市民的热情](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E7%9A%84%E7%83%AD%E6%83%85%23) — 71.1万 · 热
 3. [深圳倡议发布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23) — 52.7万
 4. [普京和特朗普互动握手](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B%23) — 52.4万
-5. [普京说俄罗斯也想模仿这种成就](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%9F%E6%83%B3%E6%A8%A1%E4%BB%BF%E8%BF%99%E7%A7%8D%E6%88%90%E5%B0%B1%23) — 37.9万
+5. [普京说俄罗斯也想模仿这种成就](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%9F%E6%83%B3%E6%A8%A1%E4%BB%BF%E8%BF%99%E7%A7%8D%E6%88%90%E5%B0%B1%23) — 37.9万 · 热
 6. [APEC欢迎宴会高清大图](https://s.weibo.com/weibo?q=%23APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%23) — 34.6万
 7. [哪家AI能画对13个鸡蛋](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6AI%E8%83%BD%E7%94%BB%E5%AF%B913%E4%B8%AA%E9%B8%A1%E8%9B%8B%23) — 33.7万 · 新
 8. [李在明夫妇会见韩籍在华企业家](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E4%BC%9A%E8%A7%81%E9%9F%A9%E7%B1%8D%E5%9C%A8%E5%8D%8E%E4%BC%81%E4%B8%9A%E5%AE%B6%23) — 32.6万
@@ -30,14 +30,14 @@
 
 1. [APEC欢迎宴会](https://www.douyin.com/search/APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A) — 1213.4万
 2. [特朗普出席深圳APEC欢迎宴会](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%B7%B1%E5%9C%B3APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A) — 1206万
-3. [深圳科创吸引世界目光](https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E7%A7%91%E5%88%9B%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89) — 1160.1万
-4. [普京到访深圳高校发表演讲](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2) — 1143.7万
+3. [普京到访深圳高校发表演讲](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2) — 1194.2万
+4. [深圳科创吸引世界目光](https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E7%A7%91%E5%88%9B%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89) — 1160.1万
 5. [普京在APEC峰会点赞深圳](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E5%B3%B0%E4%BC%9A%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3) — 1055.2万
 6. [泰国总理阿努廷飙粤语称很开心](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E9%A3%99%E7%B2%A4%E8%AF%AD%E7%A7%B0%E5%BE%88%E5%BC%80%E5%BF%83) — 1052.9万
 7. [一条视频读懂APEC](https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC) — 935万
 8. [澳大利亚总理阿尔巴尼斯抵达深圳](https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E6%96%AF%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 908.3万
 9. [相约APEC一起看到更多可能](https://www.douyin.com/search/%E7%9B%B8%E7%BA%A6APEC%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%88%B0%E6%9B%B4%E5%A4%9A%E5%8F%AF%E8%83%BD) — 907.1万
-10. [超级棒棒糖给我神奇的力量](https://www.douyin.com/search/%E8%B6%85%E7%BA%A7%E6%A3%92%E6%A3%92%E7%B3%96%E7%BB%99%E6%88%91%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%9B%E9%87%8F) — 864万
+10. [泰国总理阿努廷抵达深圳](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 902.2万
 
 ### 小红书
 
