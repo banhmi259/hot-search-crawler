@@ -11,15 +11,15 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 11:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [普京抵达深圳](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23) — 116.1万 · 新
 2. [深圳人全妆出街迎APEC](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC%23) — 111.1万 · 新
-3. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
-4. [三百多品牌护太子回京](https://s.weibo.com/weibo?q=%E4%B8%89%E7%99%BE%E5%A4%9A%E5%93%81%E7%89%8C%E6%8A%A4%E5%A4%AA%E5%AD%90%E5%9B%9E%E4%BA%AC) — 83.6万 · 新
-5. [APEC](https://s.weibo.com/weibo?q=APEC) — 79.5万 · 新
+3. [APEC](https://s.weibo.com/weibo?q=APEC) — 109.3万 · 新
+4. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
+5. [三百多品牌护太子回京](https://s.weibo.com/weibo?q=%E4%B8%89%E7%99%BE%E5%A4%9A%E5%93%81%E7%89%8C%E6%8A%A4%E5%A4%AA%E5%AD%90%E5%9B%9E%E4%BA%AC) — 83.6万 · 新
 6. [普京凌晨抵达深圳现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%87%8C%E6%99%A8%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 71.5万 · 热
 7. [小米18真机曝光](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23) — 67.1万
 8. [与亚太共赴深圳之约](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%BA%A6%23) — 67万
@@ -34,10 +34,10 @@
 4. [媒体：特朗普将于18日晚抵达深圳](https://www.douyin.com/search/%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1197.9万
 5. [韩国总统李在明抵达深圳](https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1195.6万
 6. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
-7. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1174万
-8. [抄抄老吃家的过冬美食清单](https://www.douyin.com/search/%E6%8A%84%E6%8A%84%E8%80%81%E5%90%83%E5%AE%B6%E7%9A%84%E8%BF%87%E5%86%AC%E7%BE%8E%E9%A3%9F%E6%B8%85%E5%8D%95) — 1146万
-9. [在深圳读懂APEC中国故事](https://www.douyin.com/search/%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%AF%BB%E6%87%82APEC%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B) — 1140.4万
-10. [英伟达第三季度财报公布](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5%E5%85%AC%E5%B8%83) — 1069.1万
+7. [APEC工商领导人峰会开幕式举行](https://www.douyin.com/search/APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C) — 1183.7万
+8. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1174万
+9. [大鹏展翅亚太扬帆](https://www.douyin.com/search/%E5%A4%A7%E9%B9%8F%E5%B1%95%E7%BF%85%E4%BA%9A%E5%A4%AA%E6%89%AC%E5%B8%86) — 1149.7万
+10. [抄抄老吃家的过冬美食清单](https://www.douyin.com/search/%E6%8A%84%E6%8A%84%E8%80%81%E5%90%83%E5%AE%B6%E7%9A%84%E8%BF%87%E5%86%AC%E7%BE%8E%E9%A3%9F%E6%B8%85%E5%8D%95) — 1146万
 
 ### 小红书
 
