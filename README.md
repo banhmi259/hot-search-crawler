@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [美国总统特朗普抵达深圳](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23) — 293.2万 · 新
 2. [迎接特朗普仪式](https://s.weibo.com/weibo?q=%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%AA%E5%BC%8F) — 152.3万 · 新
-3. [APEC](https://s.weibo.com/weibo?q=APEC) — 136.6万 · 新
-4. [普京抵达深圳](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23) — 116.1万 · 新
-5. [深圳人全妆出街迎APEC](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC%23) — 111.1万 · 新
-6. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
-7. [APEC多场密集对话释放大量前沿信息](https://s.weibo.com/weibo?q=%23APEC%E5%A4%9A%E5%9C%BA%E5%AF%86%E9%9B%86%E5%AF%B9%E8%AF%9D%E9%87%8A%E6%94%BE%E5%A4%A7%E9%87%8F%E5%89%8D%E6%B2%BF%E4%BF%A1%E6%81%AF%23) — 84.8万 · 新
-8. [三百多品牌护太子回京](https://s.weibo.com/weibo?q=%E4%B8%89%E7%99%BE%E5%A4%9A%E5%93%81%E7%89%8C%E6%8A%A4%E5%A4%AA%E5%AD%90%E5%9B%9E%E4%BA%AC) — 83.6万 · 新
-9. [深圳机场一眼望去全是专机](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA%23) — 80.7万 · 新
-10. [深圳机场成了APEC随行团打卡点](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%88%90%E4%BA%86APEC%E9%9A%8F%E8%A1%8C%E5%9B%A2%E6%89%93%E5%8D%A1%E7%82%B9%23) — 80.7万 · 新
+3. [特朗普抵达深圳中方战机拉起彩烟](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F%23) — 138.2万 · 新
+4. [APEC](https://s.weibo.com/weibo?q=APEC) — 136.6万 · 新
+5. [普京抵达深圳](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23) — 116.1万 · 新
+6. [深圳人全妆出街迎APEC](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC%23) — 111.1万 · 新
+7. [雷军APEC现场挨个发名片](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23) — 90.7万
+8. [APEC多场密集对话释放大量前沿信息](https://s.weibo.com/weibo?q=%23APEC%E5%A4%9A%E5%9C%BA%E5%AF%86%E9%9B%86%E5%AF%B9%E8%AF%9D%E9%87%8A%E6%94%BE%E5%A4%A7%E9%87%8F%E5%89%8D%E6%B2%BF%E4%BF%A1%E6%81%AF%23) — 84.8万 · 新
+9. [三百多品牌护太子回京](https://s.weibo.com/weibo?q=%E4%B8%89%E7%99%BE%E5%A4%9A%E5%93%81%E7%89%8C%E6%8A%A4%E5%A4%AA%E5%AD%90%E5%9B%9E%E4%BA%AC) — 83.6万 · 新
+10. [深圳机场一眼望去全是专机](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA%23) — 80.7万 · 新
 
 ### 抖音
 
@@ -35,9 +35,9 @@
 5. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1204.5万
 6. [媒体：特朗普将于18日晚抵达深圳](https://www.douyin.com/search/%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1197.9万
 7. [韩国总统李在明抵达深圳](https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1195.6万
-8. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
-9. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1174万
-10. [特朗普抵达深圳](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1172.2万
+8. [特朗普抵达深圳](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1189.8万
+9. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
+10. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1174万
 
 ### 小红书
 
