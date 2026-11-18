@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-18 15:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-18 16:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,17 +23,17 @@
 6. [深圳机场成了APEC随行团打卡点](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E6%88%90%E4%BA%86APEC%E9%9A%8F%E8%A1%8C%E5%9B%A2%E6%89%93%E5%8D%A1%E7%82%B9%23) — 80.7万 · 新
 7. [普京说感谢中国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23) — 78.1万 · 新
 8. [文莱领导人握手中方安保1秒摘手套](https://s.weibo.com/weibo?q=%23%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8F%A1%E6%89%8B%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D1%E7%A7%92%E6%91%98%E6%89%8B%E5%A5%97%23) — 77.8万 · 新
-9. [普京凌晨抵达深圳现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%87%8C%E6%99%A8%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 71.5万 · 热
-10. [APEC中国年这些知识点不容错过](https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%99%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%23) — 69.5万
+9. [深圳机场一眼望去全是专机](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA%23) — 73.4万 · 新
+10. [普京凌晨抵达深圳现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%87%8C%E6%99%A8%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 71.5万 · 热
 
 ### 抖音
 
 1. [普京抵达深圳](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1223.3万
 2. [2026年APEC工商领导人峰会开幕](https://www.douyin.com/search/2026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1215.9万
-3. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1204.5万
-4. [媒体：特朗普将于18日晚抵达深圳](https://www.douyin.com/search/%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1197.9万
-5. [韩国总统李在明抵达深圳](https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1195.6万
-6. [APEC工商领导人峰会开幕式举行](https://www.douyin.com/search/APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C) — 1193.3万
+3. [APEC工商领导人峰会开幕式举行](https://www.douyin.com/search/APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C) — 1209.9万
+4. [APEC峰会有哪些领导人参加](https://www.douyin.com/search/APEC%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0) — 1204.5万
+5. [媒体：特朗普将于18日晚抵达深圳](https://www.douyin.com/search/%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1197.9万
+6. [韩国总统李在明抵达深圳](https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 1195.6万
 7. [国足2:2战平巴林](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:2%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97) — 1188万
 8. [APEC是什么](https://www.douyin.com/search/APEC%E6%98%AF%E4%BB%80%E4%B9%88) — 1174万
 9. [大鹏展翅亚太扬帆](https://www.douyin.com/search/%E5%A4%A7%E9%B9%8F%E5%B1%95%E7%BF%85%E4%BA%9A%E5%A4%AA%E6%89%AC%E5%B8%86) — 1149.7万
