@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-19 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-19 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -32,12 +32,12 @@
 2. [特朗普出席深圳APEC欢迎宴会](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%B7%B1%E5%9C%B3APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A) — 1206万
 3. [普京到访深圳高校发表演讲](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2) — 1204.3万
 4. [深圳科创吸引世界目光](https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E7%A7%91%E5%88%9B%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89) — 1162.7万
-5. [普京在APEC峰会点赞深圳](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E5%B3%B0%E4%BC%9A%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3) — 1055.2万
-6. [泰国总理阿努廷飙粤语称很开心](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E9%A3%99%E7%B2%A4%E8%AF%AD%E7%A7%B0%E5%BE%88%E5%BC%80%E5%BF%83) — 1052.9万
-7. [现货黄金跌破3800美元关口](https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B43800%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3) — 991.1万
-8. [一条视频读懂APEC](https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC) — 935万
-9. [澳大利亚总理阿尔巴尼斯抵达深圳](https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E6%96%AF%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 908.3万
-10. [相约APEC一起看到更多可能](https://www.douyin.com/search/%E7%9B%B8%E7%BA%A6APEC%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%88%B0%E6%9B%B4%E5%A4%9A%E5%8F%AF%E8%83%BD) — 907.1万
+5. [贵南像是一本摊开的地理书](https://www.douyin.com/search/%E8%B4%B5%E5%8D%97%E5%83%8F%E6%98%AF%E4%B8%80%E6%9C%AC%E6%91%8A%E5%BC%80%E7%9A%84%E5%9C%B0%E7%90%86%E4%B9%A6) — 1151.4万
+6. [普京在APEC峰会点赞深圳](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E5%B3%B0%E4%BC%9A%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3) — 1055.2万
+7. [泰国总理阿努廷飙粤语称很开心](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E9%A3%99%E7%B2%A4%E8%AF%AD%E7%A7%B0%E5%BE%88%E5%BC%80%E5%BF%83) — 1052.9万
+8. [现货黄金跌破3800美元关口](https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B43800%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3) — 991.1万
+9. [一条视频读懂APEC](https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC) — 935万
+10. [澳大利亚总理阿尔巴尼斯抵达深圳](https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E6%96%AF%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3) — 908.3万
 
 ### 小红书
 
