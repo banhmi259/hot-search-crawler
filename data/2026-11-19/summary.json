@@ -2,12 +2,22 @@
   "schema_version": 1,
   "date": "2026-11-19",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-19T15:24:21.231058394+08:00",
+  "updated_at": "2026-11-19T16:24:20.323600509+08:00",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "items": [
+        {
+          "title": "中俄美三国元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23",
+          "hot": 2286626,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
+        },
         {
           "title": "APEC第33次领导人非正式会议举行",
           "url": "https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23",
@@ -38,6 +48,16 @@
           "appearances": 11
         },
         {
+          "title": "APEC领导人休息室温馨画面",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23",
+          "hot": 1150906,
+          "tag": "新",
+          "best_rank": 2,
+          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
+        },
+        {
           "title": "中俄美元首同框",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23",
           "hot": 1150716,
@@ -53,8 +73,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-19T13:24:16.348053801+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 4
         },
         {
           "title": "APEC重要讲话",
@@ -146,23 +166,23 @@
           "appearances": 3
         },
         {
-          "title": "中俄美三国元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23",
-          "hot": 1010257,
+          "title": "APEC强劲发力激活亚太经贸新动能",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E5%BC%BA%E5%8A%B2%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E4%BA%9A%E5%A4%AA%E7%BB%8F%E8%B4%B8%E6%96%B0%E5%8A%A8%E8%83%BD%23",
+          "hot": 1026199,
           "tag": "新",
-          "best_rank": 1,
-          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
+          "best_rank": 3,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
           "appearances": 1
         },
         {
-          "title": "APEC领导人休息室温馨画面",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23",
-          "hot": 992354,
+          "title": "特朗普会见普京时打趣问这是谁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%A7%81%E6%99%AE%E4%BA%AC%E6%97%B6%E6%89%93%E8%B6%A3%E9%97%AE%E8%BF%99%E6%98%AF%E8%B0%81%23",
+          "hot": 1026138,
           "tag": "新",
-          "best_rank": 2,
-          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
+          "best_rank": 4,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
           "appearances": 1
         },
         {
@@ -310,8 +330,8 @@
           "tag": "热",
           "best_rank": 11,
           "first_seen": "2026-11-19T12:24:14.278571254+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 5
         },
         {
           "title": "赖伟明可以誓死追随宝珠导演了",
@@ -340,8 +360,8 @@
           "tag": "新",
           "best_rank": 13,
           "first_seen": "2026-11-19T14:24:16.690732421+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 3
         },
         {
           "title": "宝珠男女主笑死我了",
@@ -410,8 +430,8 @@
           "tag": "新",
           "best_rank": 7,
           "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
         },
         {
           "title": "妈妈呼喊女儿被骂不准外地人随便叫",
@@ -449,8 +469,8 @@
           "tag": "新",
           "best_rank": 15,
           "first_seen": "2026-11-19T13:24:16.348053801+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 4
         },
         {
           "title": "深圳夜景",
@@ -513,6 +533,16 @@
           "appearances": 10
         },
         {
+          "title": "竞燃之夜红毯",
+          "url": "https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF",
+          "hot": 467803,
+          "tag": "热",
+          "best_rank": 6,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
           "title": "HLE官宣Zeus离队",
           "url": "https://s.weibo.com/weibo?q=%23HLE%E5%AE%98%E5%AE%A3Zeus%E7%A6%BB%E9%98%9F%23",
           "hot": 467542,
@@ -542,6 +572,16 @@
           "appearances": 2
         },
         {
+          "title": "陈晓楠回应喊停文吉儿王子璇谈话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%A5%A0%E5%9B%9E%E5%BA%94%E5%96%8A%E5%81%9C%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%E8%B0%88%E8%AF%9D%23",
+          "hot": 448748,
+          "tag": "新",
+          "best_rank": 7,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
           "title": "希望我的祖国也能有一个深圳",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E4%B9%9F%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B7%B1%E5%9C%B3%23",
           "hot": 441507,
@@ -568,8 +608,8 @@
           "tag": "新",
           "best_rank": 14,
           "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
         },
         {
           "title": "伊能静 张萌马天宇不适合做朋友",
@@ -621,6 +661,16 @@
           "appearances": 1
         },
         {
+          "title": "特朗普总统说请中国继续保持强大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AF%B4%E8%AF%B7%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E5%BC%BA%E5%A4%A7%23",
+          "hot": 410062,
+          "tag": "新",
+          "best_rank": 8,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
           "title": "虞书欣和孙千也让人眼前一亮",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%92%8C%E5%AD%99%E5%8D%83%E4%B9%9F%E8%AE%A9%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%23",
           "hot": 401407,
@@ -651,6 +701,16 @@
           "appearances": 1
         },
         {
+          "title": "APEC中国年进入高光时刻",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%9B%E5%85%A5%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%23",
+          "hot": 393050,
+          "tag": "新",
+          "best_rank": 9,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
           "title": "特朗普普京等步入会场",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%AE%E4%BA%AC%E7%AD%89%E6%AD%A5%E5%85%A5%E4%BC%9A%E5%9C%BA%23",
           "hot": 392604,
@@ -678,6 +738,66 @@
           "best_rank": 17,
           "first_seen": "2026-11-19T12:24:14.278571254+08:00",
           "last_seen": "2026-11-19T12:24:14.278571254+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "马天宇哭到张萌后悔",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%93%AD%E5%88%B0%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%23",
+          "hot": 386194,
+          "tag": "新",
+          "best_rank": 10,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "陈晓楠评价文吉儿",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%E8%AF%84%E4%BB%B7%E6%96%87%E5%90%89%E5%84%BF",
+          "hot": 386187,
+          "tag": "新",
+          "best_rank": 12,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "被捂死女童生父一家拒养凶手女儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8D%82%E6%AD%BB%E5%A5%B3%E7%AB%A5%E7%94%9F%E7%88%B6%E4%B8%80%E5%AE%B6%E6%8B%92%E5%85%BB%E5%87%B6%E6%89%8B%E5%A5%B3%E5%84%BF%23",
+          "hot": 386169,
+          "tag": "新",
+          "best_rank": 15,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "白小纯 青稚",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
+          "hot": 386159,
+          "tag": "新",
+          "best_rank": 16,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "杨超越董思成亲了4小时的吻戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%B2%E4%BA%864%E5%B0%8F%E6%97%B6%E7%9A%84%E5%90%BB%E6%88%8F%23",
+          "hot": 386147,
+          "tag": "热",
+          "best_rank": 18,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "这次轮到王子璇有聊天记录",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AC%A1%E8%BD%AE%E5%88%B0%E7%8E%8B%E5%AD%90%E7%92%87%E6%9C%89%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23",
+          "hot": 386146,
+          "tag": "新",
+          "best_rank": 19,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
           "appearances": 1
         },
         {
@@ -1065,8 +1185,8 @@
           "hot": 11879858,
           "best_rank": 2,
           "first_seen": "2026-11-19T10:24:14.828966361+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 7
         },
         {
           "title": "深圳科创吸引世界目光",
@@ -1105,6 +1225,33 @@
           "appearances": 5
         },
         {
+          "title": "中俄美元首会晤即将举行",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C",
+          "hot": 11374541,
+          "best_rank": 1,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "为何都说APEC需要中国",
+          "url": "https://www.douyin.com/search/%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4APEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD",
+          "hot": 11349557,
+          "best_rank": 3,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "白宫发布特朗普访华视频",
+          "url": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E8%A7%86%E9%A2%91",
+          "hot": 11124201,
+          "best_rank": 4,
+          "first_seen": "2026-11-19T13:24:16.348053801+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 4
+        },
+        {
           "title": "累了就出去玩",
           "url": "https://www.douyin.com/search/%E7%B4%AF%E4%BA%86%E5%B0%B1%E5%87%BA%E5%8E%BB%E7%8E%A9",
           "hot": 11122114,
@@ -1119,8 +1266,8 @@
           "hot": 10959275,
           "best_rank": 4,
           "first_seen": "2026-11-19T10:24:14.828966361+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 7
         },
         {
           "title": "普京在APEC峰会点赞深圳",
@@ -1150,13 +1297,13 @@
           "appearances": 13
         },
         {
-          "title": "白宫发布特朗普访华视频",
-          "url": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E8%A7%86%E9%A2%91",
-          "hot": 10346373,
-          "best_rank": 5,
-          "first_seen": "2026-11-19T13:24:16.348053801+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 3
+          "title": "澳大利亚总理发布逛深圳超市照片",
+          "url": "https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87",
+          "hot": 10460792,
+          "best_rank": 6,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
         },
         {
           "title": "俄美专机在深圳机场同框",
@@ -1164,8 +1311,8 @@
           "hot": 10105571,
           "best_rank": 6,
           "first_seen": "2026-11-19T10:24:14.828966361+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 6
         },
         {
           "title": "现货黄金跌破3800美元关口",
@@ -1175,6 +1322,15 @@
           "first_seen": "2026-11-19T04:24:17.082052301+08:00",
           "last_seen": "2026-11-19T07:24:15.639676842+08:00",
           "appearances": 4
+        },
+        {
+          "title": "191式自动步枪首次全记录式开箱",
+          "url": "https://www.douyin.com/search/191%E5%BC%8F%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA%E9%A6%96%E6%AC%A1%E5%85%A8%E8%AE%B0%E5%BD%95%E5%BC%8F%E5%BC%80%E7%AE%B1",
+          "hot": 9309845,
+          "best_rank": 7,
+          "first_seen": "2026-11-19T13:24:16.348053801+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 3
         },
         {
           "title": "超级棒棒糖给我神奇的力量",
@@ -1204,6 +1360,15 @@
           "appearances": 1
         },
         {
+          "title": "美联储沃勒称12月或加息50基点",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E6%B2%83%E5%8B%92%E7%A7%B012%E6%9C%88%E6%88%96%E5%8A%A0%E6%81%AF50%E5%9F%BA%E7%82%B9",
+          "hot": 9160104,
+          "best_rank": 7,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 8
+        },
+        {
           "title": "特朗普深圳之行有哪些看点",
           "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B9%8B%E8%A1%8C%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
           "hot": 9110407,
@@ -1222,6 +1387,15 @@
           "appearances": 5
         },
         {
+          "title": "世界看深圳 深圳看未来",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E7%9C%8B%E6%B7%B1%E5%9C%B3%20%E6%B7%B1%E5%9C%B3%E7%9C%8B%E6%9C%AA%E6%9D%A5",
+          "hot": 9088745,
+          "best_rank": 9,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯抵达深圳",
           "url": "https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E6%96%AF%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
           "hot": 9082663,
@@ -1231,15 +1405,6 @@
           "appearances": 1
         },
         {
-          "title": "美联储沃勒称12月或加息50基点",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E6%B2%83%E5%8B%92%E7%A7%B012%E6%9C%88%E6%88%96%E5%8A%A0%E6%81%AF50%E5%9F%BA%E7%82%B9",
-          "hot": 9078154,
-          "best_rank": 7,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 7
-        },
-        {
           "title": "相约APEC一起看到更多可能",
           "url": "https://www.douyin.com/search/%E7%9B%B8%E7%BA%A6APEC%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%88%B0%E6%9B%B4%E5%A4%9A%E5%8F%AF%E8%83%BD",
           "hot": 9071487,
@@ -1247,6 +1412,15 @@
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
           "last_seen": "2026-11-19T10:24:14.828966361+08:00",
           "appearances": 11
+        },
+        {
+          "title": "中方回应高市早苗接机仪式",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8E%A5%E6%9C%BA%E4%BB%AA%E5%BC%8F",
+          "hot": 9056155,
+          "best_rank": 10,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
         },
         {
           "title": "泰国总理阿努廷抵达深圳",
@@ -1263,8 +1437,8 @@
           "hot": 9009951,
           "best_rank": 8,
           "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
         },
         {
           "title": "国台办评罗大佑批判民进党言论",
@@ -1272,8 +1446,17 @@
           "hot": 8999798,
           "best_rank": 10,
           "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 4
+        },
+        {
+          "title": "苹果糖有自己的高原小甜心",
+          "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E7%B3%96%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%8E%9F%E5%B0%8F%E7%94%9C%E5%BF%83",
+          "hot": 8931272,
+          "best_rank": 12,
+          "first_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 1
         },
         {
           "title": "特朗普车内未拉帘赏深圳夜景",
@@ -1299,8 +1482,8 @@
           "hot": 8644148,
           "best_rank": 11,
           "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
         },
         {
           "title": "坎宁安隔扣文班亚马",
@@ -1312,22 +1495,22 @@
           "appearances": 7
         },
         {
-          "title": "191式自动步枪首次全记录式开箱",
-          "url": "https://www.douyin.com/search/191%E5%BC%8F%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA%E9%A6%96%E6%AC%A1%E5%85%A8%E8%AE%B0%E5%BD%95%E5%BC%8F%E5%BC%80%E7%AE%B1",
-          "hot": 8424171,
-          "best_rank": 12,
-          "first_seen": "2026-11-19T13:24:16.348053801+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 2
-        },
-        {
           "title": "严苛的训练几乎要了我的命",
           "url": "https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E5%87%A0%E4%B9%8E%E8%A6%81%E4%BA%86%E6%88%91%E7%9A%84%E5%91%BD",
-          "hot": 8319356,
+          "hot": 8538795,
           "best_rank": 13,
           "first_seen": "2026-11-19T13:24:16.348053801+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 4
+        },
+        {
+          "title": "GTA6新手攻略",
+          "url": "https://www.douyin.com/search/GTA6%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5",
+          "hot": 8337936,
+          "best_rank": 14,
+          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
         },
         {
           "title": "开拓者不敌森林狼",
@@ -1357,22 +1540,22 @@
           "appearances": 6
         },
         {
-          "title": "GTA6新手攻略",
-          "url": "https://www.douyin.com/search/GTA6%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5",
-          "hot": 7855000,
-          "best_rank": 14,
-          "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
-        },
-        {
           "title": "我国成功发射实践二十四号卫星",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8D%AB%E6%98%9F",
           "hot": 7852269,
           "best_rank": 15,
           "first_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "慌啥子嘛要好好吃饭呀",
+          "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E5%91%80",
+          "hot": 7836694,
+          "best_rank": 17,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 17
         },
         {
           "title": "GTA6游戏测评",
@@ -1411,6 +1594,15 @@
           "appearances": 14
         },
         {
+          "title": "成毅新剧叛逆儿子",
+          "url": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%8F%9B%E9%80%86%E5%84%BF%E5%AD%90",
+          "hot": 7776789,
+          "best_rank": 19,
+          "first_seen": "2026-11-19T01:24:18.575698083+08:00",
+          "last_seen": "2026-11-19T16:24:19.017526552+08:00",
+          "appearances": 12
+        },
+        {
           "title": "会唱歌的大嘴鱼玩具我是真想要",
           "url": "https://www.douyin.com/search/%E4%BC%9A%E5%94%B1%E6%AD%8C%E7%9A%84%E5%A4%A7%E5%98%B4%E9%B1%BC%E7%8E%A9%E5%85%B7%E6%88%91%E6%98%AF%E7%9C%9F%E6%83%B3%E8%A6%81",
           "hot": 7775305,
@@ -1418,15 +1610,6 @@
           "first_seen": "2026-11-19T06:24:16.832234696+08:00",
           "last_seen": "2026-11-19T07:24:15.639676842+08:00",
           "appearances": 2
-        },
-        {
-          "title": "慌啥子嘛要好好吃饭呀",
-          "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E5%91%80",
-          "hot": 7771790,
-          "best_rank": 17,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 16
         },
         {
           "title": "普京抵达深圳",
@@ -1490,15 +1673,6 @@
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
           "last_seen": "2026-11-19T14:24:16.690732421+08:00",
           "appearances": 9
-        },
-        {
-          "title": "成毅新剧叛逆儿子",
-          "url": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%8F%9B%E9%80%86%E5%84%BF%E5%AD%90",
-          "hot": 7745888,
-          "best_rank": 19,
-          "first_seen": "2026-11-19T01:24:18.575698083+08:00",
-          "last_seen": "2026-11-19T15:24:20.370556278+08:00",
-          "appearances": 11
         },
         {
           "title": "两京十五日白龙挂画面封神",
