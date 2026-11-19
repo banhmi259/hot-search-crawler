@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-19 20:11**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-19 21:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [深圳倡议发布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23) — 116万
 7. [APEC领导人休息室温馨画面](https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23) — 115.1万 · 新
 8. [中俄美元首同框](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23) — 115.1万
-9. [APEC强劲发力激活亚太经贸新动能](https://s.weibo.com/weibo?q=%23APEC%E5%BC%BA%E5%8A%B2%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E4%BA%9A%E5%A4%AA%E7%BB%8F%E8%B4%B8%E6%96%B0%E5%8A%A8%E8%83%BD%23) — 113.6万 · 新
-10. [中美元首深圳会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23) — 110.3万 · 新
+9. [中俄美元首和平宣言](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23) — 114.9万 · 新
+10. [APEC强劲发力激活亚太经贸新动能](https://s.weibo.com/weibo?q=%23APEC%E5%BC%BA%E5%8A%B2%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E4%BA%9A%E5%A4%AA%E7%BB%8F%E8%B4%B8%E6%96%B0%E5%8A%A8%E8%83%BD%23) — 113.6万 · 新
 
 ### 抖音
 
