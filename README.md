@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-19 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-19 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,9 +19,9 @@
 2. [特朗普在车内未拉窗帘欣赏深圳夜景](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23) — 131.9万 · 新
 3. [深圳倡议发布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23) — 116万
 4. [中俄美元首同框](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23) — 115.1万
-5. [APEC重要讲话](https://s.weibo.com/weibo?q=%23APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23) — 108.7万 · 新
-6. [一图看中国与APEC经济体双向奔赴](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23) — 107.8万 · 新
-7. [中美元首深圳会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23) — 107.5万 · 新
+5. [中美元首深圳会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23) — 110.3万 · 新
+6. [APEC重要讲话](https://s.weibo.com/weibo?q=%23APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23) — 108.7万 · 新
+7. [一图看中国与APEC经济体双向奔赴](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23) — 107.8万 · 新
 8. [普京特朗普APEC会议现场画面](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AEAPEC%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23) — 106.9万 · 新
 9. [习近平和彭丽媛为来宾举行欢迎宴会](https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23) — 105.5万
 10. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 105.5万 · 新
@@ -34,10 +34,10 @@
 4. [特朗普出席深圳APEC欢迎宴会](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%B7%B1%E5%9C%B3APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A) — 1206万
 5. [普京特朗普欢迎晚宴互动握手](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B) — 1188万
 6. [深圳科创吸引世界目光](https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E7%A7%91%E5%88%9B%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89) — 1162.7万
-7. [贵南像是一本摊开的地理书](https://www.douyin.com/search/%E8%B4%B5%E5%8D%97%E5%83%8F%E6%98%AF%E4%B8%80%E6%9C%AC%E6%91%8A%E5%BC%80%E7%9A%84%E5%9C%B0%E7%90%86%E4%B9%A6) — 1151.4万
-8. [APEC吸引全球目光](https://www.douyin.com/search/APEC%E5%90%B8%E5%BC%95%E5%85%A8%E7%90%83%E7%9B%AE%E5%85%89) — 1139万
-9. [累了就出去玩](https://www.douyin.com/search/%E7%B4%AF%E4%BA%86%E5%B0%B1%E5%87%BA%E5%8E%BB%E7%8E%A9) — 1112.2万
-10. [普京在APEC峰会点赞深圳](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E5%B3%B0%E4%BC%9A%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3) — 1055.7万
+7. [中美元首在深圳会晤](https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4) — 1156.8万
+8. [贵南像是一本摊开的地理书](https://www.douyin.com/search/%E8%B4%B5%E5%8D%97%E5%83%8F%E6%98%AF%E4%B8%80%E6%9C%AC%E6%91%8A%E5%BC%80%E7%9A%84%E5%9C%B0%E7%90%86%E4%B9%A6) — 1151.4万
+9. [APEC吸引全球目光](https://www.douyin.com/search/APEC%E5%90%B8%E5%BC%95%E5%85%A8%E7%90%83%E7%9B%AE%E5%85%89) — 1139.4万
+10. [累了就出去玩](https://www.douyin.com/search/%E7%B4%AF%E4%BA%86%E5%B0%B1%E5%87%BA%E5%8E%BB%E7%8E%A9) — 1112.2万
 
 ### 小红书
 
