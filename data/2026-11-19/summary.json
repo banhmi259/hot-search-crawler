@@ -2,12 +2,50 @@
   "schema_version": 1,
   "date": "2026-11-19",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-19T08:24:23.917749562+08:00",
+  "updated_at": "2026-11-19T09:24:21.627822239+08:00",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "items": [
+        {
+          "title": "APEC第33次领导人非正式会议举行",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23",
+          "hot": 1367908,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "特朗普在车内未拉窗帘欣赏深圳夜景",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23",
+          "hot": 1319102,
+          "tag": "新",
+          "best_rank": 2,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "深圳倡议发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23",
+          "hot": 1160249,
+          "best_rank": 3,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "中俄美元首同框",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23",
+          "hot": 1150716,
+          "best_rank": 4,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
         {
           "title": "习近平和彭丽媛为来宾举行欢迎宴会",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23",
@@ -24,17 +62,8 @@
           "tag": "热",
           "best_rank": 2,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "深圳倡议发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23",
-          "hot": 1041465,
-          "best_rank": 3,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "养老保险缴够15年就能坐等退休系谣言",
@@ -43,8 +72,8 @@
           "tag": "热",
           "best_rank": 4,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "APEC会议来宾欢迎宴会大合影",
@@ -62,8 +91,8 @@
           "tag": "热",
           "best_rank": 5,
           "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
         },
         {
           "title": "普京和特朗普互动握手",
@@ -77,11 +106,129 @@
         {
           "title": "普京说俄罗斯也想模仿这种成就",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%9F%E6%83%B3%E6%A8%A1%E4%BB%BF%E8%BF%99%E7%A7%8D%E6%88%90%E5%B0%B1%23",
-          "hot": 440634,
+          "hot": 475866,
           "tag": "热",
           "best_rank": 4,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "HLE官宣Zeus离队",
+          "url": "https://s.weibo.com/weibo?q=%23HLE%E5%AE%98%E5%AE%A3Zeus%E7%A6%BB%E9%98%9F%23",
+          "hot": 467542,
+          "tag": "新",
+          "best_rank": 8,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "杨乐乐谈许飞厉娜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E8%B0%88%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%23",
+          "hot": 466042,
+          "tag": "综艺",
+          "best_rank": 9,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "2026豆瓣8分以上的剧",
+          "url": "https://s.weibo.com/weibo?q=%232026%E8%B1%86%E7%93%A38%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%89%A7%23",
+          "hot": 450825,
+          "best_rank": 9,
+          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "北大时期张泉灵美成女儿国国王了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%97%B6%E6%9C%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E7%BE%8E%E6%88%90%E5%A5%B3%E5%84%BF%E5%9B%BD%E5%9B%BD%E7%8E%8B%E4%BA%86%23",
+          "hot": 447987,
+          "tag": "新",
+          "best_rank": 6,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "妈妈呼喊女儿被骂不准外地人随便叫",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%23",
+          "hot": 436225,
+          "tag": "热",
+          "best_rank": 12,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "APEC欢迎晚宴菜单曝光",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E8%8F%9C%E5%8D%95%E6%9B%9D%E5%85%89%23",
+          "hot": 429526,
+          "tag": "新",
+          "best_rank": 13,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "宁德向理想一天发3封要钱邮件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E5%90%91%E7%90%86%E6%83%B3%E4%B8%80%E5%A4%A9%E5%8F%913%E5%B0%81%E8%A6%81%E9%92%B1%E9%82%AE%E4%BB%B6%23",
+          "hot": 417059,
+          "tag": "新",
+          "best_rank": 14,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "虞书欣和孙千也让人眼前一亮",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%92%8C%E5%AD%99%E5%8D%83%E4%B9%9F%E8%AE%A9%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%23",
+          "hot": 401407,
+          "tag": "新",
+          "best_rank": 12,
+          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 3
+        },
+        {
+          "title": "芦玉菲退役后发现原单位未缴社保",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%A6%E7%8E%89%E8%8F%B2%E9%80%80%E5%BD%B9%E5%90%8E%E5%8F%91%E7%8E%B0%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%9C%AA%E7%BC%B4%E7%A4%BE%E4%BF%9D%23",
+          "hot": 398643,
+          "tag": "新",
+          "best_rank": 17,
+          "first_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "童家堡 纯稚",
+          "url": "https://s.weibo.com/weibo?q=%E7%AB%A5%E5%AE%B6%E5%A0%A1+%E7%BA%AF%E7%A8%9A",
+          "hot": 379229,
+          "tag": "新",
+          "best_rank": 13,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "朱瞻基和老子吵架太逗了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA%E5%92%8C%E8%80%81%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%AA%E9%80%97%E4%BA%86",
+          "hot": 368981,
+          "tag": "剧集",
+          "best_rank": 9,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "豆包画13个鸡蛋反复出错",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%94%BB13%E4%B8%AA%E9%B8%A1%E8%9B%8B%E5%8F%8D%E5%A4%8D%E5%87%BA%E9%94%99",
+          "hot": 368794,
+          "best_rank": 12,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
           "appearances": 9
         },
         {
@@ -153,25 +300,6 @@
           "appearances": 8
         },
         {
-          "title": "北大时期张泉灵美成女儿国国王了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%97%B6%E6%9C%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E7%BE%8E%E6%88%90%E5%A5%B3%E5%84%BF%E5%9B%BD%E5%9B%BD%E7%8E%8B%E4%BA%86%23",
-          "hot": 274764,
-          "tag": "新",
-          "best_rank": 6,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "豆包画13个鸡蛋反复出错",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%94%BB13%E4%B8%AA%E9%B8%A1%E8%9B%8B%E5%8F%8D%E5%A4%8D%E5%87%BA%E9%94%99",
-          "hot": 265524,
-          "best_rank": 12,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T07:24:15.639676842+08:00",
-          "appearances": 8
-        },
-        {
           "title": "杨超越这段音频即将迎来赛博永生",
           "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%BF%99%E6%AE%B5%E9%9F%B3%E9%A2%91%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E8%B5%9B%E5%8D%9A%E6%B0%B8%E7%94%9F",
           "hot": 253581,
@@ -199,16 +327,6 @@
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
           "last_seen": "2026-11-19T08:24:22.70752177+08:00",
           "appearances": 9
-        },
-        {
-          "title": "朱瞻基和老子吵架太逗了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA%E5%92%8C%E8%80%81%E5%AD%90%E5%90%B5%E6%9E%B6%E5%A4%AA%E9%80%97%E4%BA%86",
-          "hot": 245912,
-          "tag": "剧集",
-          "best_rank": 9,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
         },
         {
           "title": "郑合惠子任宥纶双人机场",
@@ -259,16 +377,6 @@
           "appearances": 1
         },
         {
-          "title": "童家堡 纯稚",
-          "url": "https://s.weibo.com/weibo?q=%E7%AB%A5%E5%AE%B6%E5%A0%A1+%E7%BA%AF%E7%A8%9A",
-          "hot": 188006,
-          "tag": "新",
-          "best_rank": 13,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
-        },
-        {
           "title": "杨超越 太阳雨转型成绩",
           "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A+%E5%A4%AA%E9%98%B3%E9%9B%A8%E8%BD%AC%E5%9E%8B%E6%88%90%E7%BB%A9",
           "hot": 187818,
@@ -277,16 +385,6 @@
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
           "last_seen": "2026-11-19T00:24:20.327585134+08:00",
           "appearances": 1
-        },
-        {
-          "title": "虞书欣和孙千也让人眼前一亮",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%92%8C%E5%AD%99%E5%8D%83%E4%B9%9F%E8%AE%A9%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%23",
-          "hot": 187575,
-          "tag": "新",
-          "best_rank": 12,
-          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 2
         },
         {
           "title": "纸质短剧",
@@ -298,15 +396,6 @@
           "appearances": 4
         },
         {
-          "title": "妈妈呼喊女儿被骂不准外地人随便叫",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%23",
-          "hot": 186438,
-          "best_rank": 16,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
-        },
-        {
           "title": "朱志鑫新logo",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%96%B0logo%23",
           "hot": 185350,
@@ -314,15 +403,6 @@
           "best_rank": 19,
           "first_seen": "2026-11-19T08:24:22.70752177+08:00",
           "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "2026豆瓣8分以上的剧",
-          "url": "https://s.weibo.com/weibo?q=%232026%E8%B1%86%E7%93%A38%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%89%A7%23",
-          "hot": 178906,
-          "best_rank": 9,
-          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
-          "last_seen": "2026-11-19T07:24:15.639676842+08:00",
           "appearances": 1
         },
         {
@@ -403,8 +483,8 @@
           "hot": 12134249,
           "best_rank": 1,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "普京到访深圳高校发表演讲",
@@ -412,8 +492,8 @@
           "hot": 12089682,
           "best_rank": 2,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "特朗普出席深圳APEC欢迎宴会",
@@ -421,8 +501,8 @@
           "hot": 12059697,
           "best_rank": 2,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "深圳科创吸引世界目光",
@@ -430,8 +510,8 @@
           "hot": 11627390,
           "best_rank": 3,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "贵南像是一本摊开的地理书",
@@ -448,8 +528,8 @@
           "hot": 10557445,
           "best_rank": 5,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "泰国总理阿努廷飙粤语称很开心",
@@ -457,17 +537,17 @@
           "hot": 10529406,
           "best_rank": 6,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "一条视频读懂APEC",
           "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC",
-          "hot": 10316400,
+          "hot": 10511205,
           "best_rank": 6,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "现货黄金跌破3800美元关口",
@@ -493,8 +573,8 @@
           "hot": 9110407,
           "best_rank": 7,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯抵达深圳",
@@ -511,8 +591,8 @@
           "hot": 9078154,
           "best_rank": 8,
           "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
         },
         {
           "title": "相约APEC一起看到更多可能",
@@ -520,8 +600,17 @@
           "hot": 9071487,
           "best_rank": 9,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "高盛预测金价或重返5600美元",
+          "url": "https://www.douyin.com/search/%E9%AB%98%E7%9B%9B%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E9%87%8D%E8%BF%945600%E7%BE%8E%E5%85%83",
+          "hot": 9059268,
+          "best_rank": 8,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
         },
         {
           "title": "泰国总理阿努廷抵达深圳",
@@ -529,17 +618,8 @@
           "hot": 9021849,
           "best_rank": 7,
           "first_seen": "2026-11-19T01:24:18.575698083+08:00",
-          "last_seen": "2026-11-19T01:24:18.575698083+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "高盛预测金价或重返5600美元",
-          "url": "https://www.douyin.com/search/%E9%AB%98%E7%9B%9B%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E9%87%8D%E8%BF%945600%E7%BE%8E%E5%85%83",
-          "hot": 8691330,
-          "best_rank": 10,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
         },
         {
           "title": "坎宁安隔扣文班亚马",
@@ -547,8 +627,8 @@
           "hot": 8598926,
           "best_rank": 8,
           "first_seen": "2026-11-19T02:24:20.971223629+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 7
         },
         {
           "title": "开拓者不敌森林狼",
@@ -569,6 +649,24 @@
           "appearances": 6
         },
         {
+          "title": "慌啥子嘛为什么动人",
+          "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E4%BA%BA",
+          "hot": 7822391,
+          "best_rank": 13,
+          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 3
+        },
+        {
+          "title": "国台办评罗大佑批判民进党言论",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E8%AF%84%E7%BD%97%E5%A4%A7%E4%BD%91%E6%89%B9%E5%88%A4%E6%B0%91%E8%BF%9B%E5%85%9A%E8%A8%80%E8%AE%BA",
+          "hot": 7798914,
+          "best_rank": 14,
+          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 2
+        },
+        {
           "title": "阿根廷7:0哥斯达黎加",
           "url": "https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B77:0%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0",
           "hot": 7795980,
@@ -578,15 +676,6 @@
           "appearances": 1
         },
         {
-          "title": "慌啥子嘛为什么动人",
-          "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E4%BA%BA",
-          "hot": 7790573,
-          "best_rank": 13,
-          "first_seen": "2026-11-19T07:24:15.639676842+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 2
-        },
-        {
           "title": "会唱歌的大嘴鱼玩具我是真想要",
           "url": "https://www.douyin.com/search/%E4%BC%9A%E5%94%B1%E6%AD%8C%E7%9A%84%E5%A4%A7%E5%98%B4%E9%B1%BC%E7%8E%A9%E5%85%B7%E6%88%91%E6%98%AF%E7%9C%9F%E6%83%B3%E8%A6%81",
           "hot": 7775305,
@@ -594,15 +683,6 @@
           "first_seen": "2026-11-19T06:24:16.832234696+08:00",
           "last_seen": "2026-11-19T07:24:15.639676842+08:00",
           "appearances": 2
-        },
-        {
-          "title": "国台办评罗大佑批判民进党言论",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E8%AF%84%E7%BD%97%E5%A4%A7%E4%BD%91%E6%89%B9%E5%88%A4%E6%B0%91%E8%BF%9B%E5%85%9A%E8%A8%80%E8%AE%BA",
-          "hot": 7772537,
-          "best_rank": 14,
-          "first_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 1
         },
         {
           "title": "普京抵达深圳",
@@ -616,10 +696,19 @@
         {
           "title": "GTA6游戏测评",
           "url": "https://www.douyin.com/search/GTA6%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84",
-          "hot": 7762296,
+          "hot": 7762882,
           "best_rank": 16,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "EDG官宣郑永康ZmjjKK离队",
+          "url": "https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3%E9%83%91%E6%B0%B8%E5%BA%B7ZmjjKK%E7%A6%BB%E9%98%9F",
+          "hot": 7758760,
+          "best_rank": 17,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
           "appearances": 9
         },
         {
@@ -637,26 +726,26 @@
           "hot": 7754899,
           "best_rank": 14,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "EDG官宣郑永康ZmjjKK离队",
-          "url": "https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3%E9%83%91%E6%B0%B8%E5%BA%B7ZmjjKK%E7%A6%BB%E9%98%9F",
-          "hot": 7750252,
-          "best_rank": 17,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 8
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "慌啥子嘛要好好吃饭呀",
           "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E5%91%80",
-          "hot": 7747899,
+          "hot": 7753852,
           "best_rank": 18,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "摆摊规矩立住了才能不烧心",
+          "url": "https://www.douyin.com/search/%E6%91%86%E6%91%8A%E8%A7%84%E7%9F%A9%E7%AB%8B%E4%BD%8F%E4%BA%86%E6%89%8D%E8%83%BD%E4%B8%8D%E7%83%A7%E5%BF%83",
+          "hot": 7749336,
+          "best_rank": 19,
+          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 5
         },
         {
           "title": "成毅新剧叛逆儿子",
@@ -666,15 +755,6 @@
           "first_seen": "2026-11-19T01:24:18.575698083+08:00",
           "last_seen": "2026-11-19T08:24:22.70752177+08:00",
           "appearances": 8
-        },
-        {
-          "title": "摆摊规矩立住了才能不烧心",
-          "url": "https://www.douyin.com/search/%E6%91%86%E6%91%8A%E8%A7%84%E7%9F%A9%E7%AB%8B%E4%BD%8F%E4%BA%86%E6%89%8D%E8%83%BD%E4%B8%8D%E7%83%A7%E5%BF%83",
-          "hot": 7718351,
-          "best_rank": 19,
-          "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T05:24:17.435062316+08:00",
-          "appearances": 4
         },
         {
           "title": "专访BLG冠军成员Xun父亲",
@@ -699,8 +779,8 @@
           "tag": "热",
           "best_rank": 1,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "耗时三年拍下古诗词里的中国",
@@ -710,8 +790,8 @@
           "tag": "热",
           "best_rank": 2,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "我拍到了海鸥雨",
@@ -720,8 +800,8 @@
           "hot_text": "903.2w",
           "best_rank": 3,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "超日常美食教程速来get",
@@ -730,8 +810,8 @@
           "hot_text": "886w",
           "best_rank": 4,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "定格这一刻的日照金山",
@@ -740,8 +820,8 @@
           "hot_text": "871.1w",
           "best_rank": 5,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "你可以永远相信赛里木湖的美景",
@@ -751,8 +831,8 @@
           "tag": "热",
           "best_rank": 6,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "拼豆上也可以作画了",
@@ -762,8 +842,8 @@
           "tag": "热",
           "best_rank": 7,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "我的家庭旅行更像是打副本",
@@ -772,8 +852,8 @@
           "hot_text": "737.1w",
           "best_rank": 8,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "原来古诗词里的河南真的存在",
@@ -783,8 +863,8 @@
           "tag": "热",
           "best_rank": 9,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "蒸出了奶香爆米花馒头",
@@ -794,8 +874,8 @@
           "tag": "热",
           "best_rank": 10,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "这可能是江西最被低估的一座山",
@@ -804,8 +884,8 @@
           "hot_text": "703w",
           "best_rank": 11,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "海边日落赴一场温柔约会",
@@ -815,8 +895,8 @@
           "tag": "热",
           "best_rank": 12,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "拼豆也能当火漆印章玩",
@@ -825,8 +905,8 @@
           "hot_text": "241.7w",
           "best_rank": 13,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "我创造了新型遛狗法",
@@ -836,8 +916,8 @@
           "tag": "热",
           "best_rank": 14,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "用镜头捕捉四季如画",
@@ -847,8 +927,8 @@
           "tag": "热",
           "best_rank": 15,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "笔墨重现课本诗意",
@@ -857,8 +937,8 @@
           "hot_text": "213.5w",
           "best_rank": 16,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "拍到了洱海的丁达尔效应",
@@ -868,8 +948,8 @@
           "tag": "热",
           "best_rank": 17,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "珠圆玉润妆完全是淡颜天菜",
@@ -879,8 +959,8 @@
           "tag": "热",
           "best_rank": 18,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "碎钻美甲指尖藏着细碎星光",
@@ -889,8 +969,8 @@
           "hot_text": "184.5w",
           "best_rank": 19,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         },
         {
           "title": "我来当旅行中的颜色猎手",
@@ -900,8 +980,8 @@
           "tag": "热",
           "best_rank": 20,
           "first_seen": "2026-11-19T00:24:20.327585134+08:00",
-          "last_seen": "2026-11-19T08:24:22.70752177+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-19T09:24:20.251612949+08:00",
+          "appearances": 10
         }
       ]
     }
