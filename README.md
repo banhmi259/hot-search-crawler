@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-19 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-19 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [中俄美三国元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23) — 228.7万 · 新
 2. [APEC晚宴用荔枝冰酒销量暴增900倍](https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23) — 208.7万 · 新
-3. [中俄美元首一张圆桌三个座位](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23) — 175.7万 · 新
-4. [APEC第33次领导人非正式会议举行](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23) — 136.8万 · 新
-5. [特朗普在车内未拉窗帘欣赏深圳夜景](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23) — 131.9万 · 新
-6. [深圳倡议发布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23) — 116万
-7. [APEC领导人休息室温馨画面](https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23) — 115.1万 · 新
-8. [中俄美元首同框](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23) — 115.1万
-9. [中俄美元首和平宣言](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23) — 114.9万 · 新
-10. [APEC强劲发力激活亚太经贸新动能](https://s.weibo.com/weibo?q=%23APEC%E5%BC%BA%E5%8A%B2%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E4%BA%9A%E5%A4%AA%E7%BB%8F%E8%B4%B8%E6%96%B0%E5%8A%A8%E8%83%BD%23) — 113.6万 · 新
+3. [特朗普登上空军一号挥手告别](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%23) — 197.5万 · 新
+4. [中俄美元首一张圆桌三个座位](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23) — 175.7万 · 新
+5. [APEC第33次领导人非正式会议举行](https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23) — 136.8万 · 新
+6. [特朗普在车内未拉窗帘欣赏深圳夜景](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23) — 131.9万 · 新
+7. [深圳倡议发布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23) — 116万
+8. [APEC领导人休息室温馨画面](https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23) — 115.1万 · 新
+9. [中俄美元首同框](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%23) — 115.1万
+10. [中俄美元首和平宣言](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23) — 114.9万 · 新
 
 ### 抖音
 

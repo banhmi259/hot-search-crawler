@@ -1,149 +1,144 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T21:24:18.748896688+08:00",
+  "generated_at": "2026-11-19T22:24:22.232312352+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-19T21:24:19.807544681+08:00",
-      "elapsed_ms": 1058,
+      "fetched_at": "2026-11-19T22:24:23.109185855+08:00",
+      "elapsed_ms": 876,
       "items": [
         {
           "rank": 1,
-          "title": "中俄美元首和平宣言",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23",
-          "hot": 1149212
+          "title": "特朗普登上空军一号挥手告别",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%23",
+          "hot": 1975093,
+          "tag": "热"
         },
         {
           "rank": 2,
-          "title": "特朗普登上空军一号挥手告别",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%23",
-          "hot": 1090007,
-          "tag": "新"
+          "title": "APEC晚宴用荔枝冰酒销量暴增900倍",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23",
+          "hot": 952815
         },
         {
           "rank": 3,
           "title": "建设亚太共同体续写亚太奇迹新篇章",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%BE%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E7%BB%AD%E5%86%99%E4%BA%9A%E5%A4%AA%E5%A5%87%E8%BF%B9%E6%96%B0%E7%AF%87%E7%AB%A0%23",
-          "hot": 644605,
-          "tag": "新"
+          "hot": 725397
         },
         {
           "rank": 4,
-          "title": "APEC晚宴用荔枝冰酒销量暴增900倍",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23",
-          "hot": 624199
+          "title": "APEC晚宴荔枝冰酒折后178元1瓶",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%8A%98%E5%90%8E178%E5%85%831%E7%93%B6%23",
+          "hot": 608950
         },
         {
           "rank": 5,
-          "title": "普京说这些把中俄美联系在一起",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%99%E4%BA%9B%E6%8A%8A%E4%B8%AD%E4%BF%84%E7%BE%8E%E8%81%94%E7%B3%BB%E5%9C%A8%E4%B8%80%E8%B5%B7%23",
-          "hot": 430740,
-          "tag": "新"
+          "title": "中俄美元首和平宣言",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23",
+          "hot": 572887
         },
         {
           "rank": 6,
           "title": "中方回应高市早苗礼宾安排",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A4%BC%E5%AE%BE%E5%AE%89%E6%8E%92%23",
-          "hot": 377868
+          "hot": 569648
         },
         {
           "rank": 7,
-          "title": "竞燃之夜内场",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23",
-          "hot": 337500,
-          "tag": "沸"
+          "title": "普京说这些把中俄美联系在一起",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%99%E4%BA%9B%E6%8A%8A%E4%B8%AD%E4%BF%84%E7%BE%8E%E8%81%94%E7%B3%BB%E5%9C%A8%E4%B8%80%E8%B5%B7%23",
+          "hot": 565133
         },
         {
           "rank": 8,
-          "title": "APEC记者们已经累瘫了",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E8%AE%B0%E8%80%85%E4%BB%AC%E5%B7%B2%E7%BB%8F%E7%B4%AF%E7%98%AB%E4%BA%86%23",
-          "hot": 321002
+          "title": "中国男篮世预赛14人名单",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B14%E4%BA%BA%E5%90%8D%E5%8D%95",
+          "hot": 562931,
+          "tag": "新"
         },
         {
           "rank": 9,
           "title": "亚太创新从来不是抽象概念",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%88%9B%E6%96%B0%E4%BB%8E%E6%9D%A5%E4%B8%8D%E6%98%AF%E6%8A%BD%E8%B1%A1%E6%A6%82%E5%BF%B5%23",
-          "hot": 318689,
-          "tag": "新"
+          "hot": 560056
         },
         {
           "rank": 10,
           "title": "中俄美元首一张圆桌三个座位",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23",
-          "hot": 316575
+          "hot": 556804
         },
         {
           "rank": 11,
           "title": "白小纯 青稚",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
-          "hot": 314072,
+          "hot": 552580,
           "tag": "沸"
         },
         {
           "rank": 12,
           "title": "王子璇把马天宇张萌梭哈了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%8A%8A%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%E6%A2%AD%E5%93%88%E4%BA%86%23",
-          "hot": 312883,
+          "hot": 545827,
           "tag": "热"
         },
         {
           "rank": 13,
-          "title": "蒋欣要拍后会无期了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E8%A6%81%E6%8B%8D%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BA%86%23",
-          "hot": 309289,
+          "title": "20多天婴儿被喂白开水中毒肾损伤",
+          "url": "https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E5%A4%A9%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%96%82%E7%99%BD%E5%BC%80%E6%B0%B4%E4%B8%AD%E6%AF%92%E8%82%BE%E6%8D%9F%E4%BC%A4%23",
+          "hot": 544595,
           "tag": "热"
         },
         {
           "rank": 14,
-          "title": "赵丽颖王仁君曹翠芬一起走红毯",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BB%81%E5%90%9B%E6%9B%B9%E7%BF%A0%E8%8A%AC%E4%B8%80%E8%B5%B7%E8%B5%B0%E7%BA%A2%E6%AF%AF%23",
-          "hot": 307563,
-          "tag": "新"
+          "title": "蒋欣要拍后会无期了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E8%A6%81%E6%8B%8D%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BA%86%23",
+          "hot": 541288,
+          "tag": "热"
         },
         {
           "rank": 15,
           "title": "胖东来撤走后降到四百万依然没有人接盘",
           "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%92%A4%E8%B5%B0%E5%90%8E%E9%99%8D%E5%88%B0%E5%9B%9B%E7%99%BE%E4%B8%87%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%8E%A5%E7%9B%98%23",
-          "hot": 305512,
+          "hot": 537564,
           "tag": "热"
         },
         {
           "rank": 16,
-          "title": "Dior点灯活动合照C位",
-          "url": "https://s.weibo.com/weibo?q=%23Dior%E7%82%B9%E7%81%AF%E6%B4%BB%E5%8A%A8%E5%90%88%E7%85%A7C%E4%BD%8D%23",
-          "hot": 303737,
+          "title": "白小纯听见喊3纯的表情",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%90%AC%E8%A7%81%E5%96%8A3%E7%BA%AF%E7%9A%84%E8%A1%A8%E6%83%85",
+          "hot": 537470,
           "tag": "新"
         },
         {
           "rank": 17,
-          "title": "阿里巴巴二季度业绩",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%BA%8C%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%23",
-          "hot": 300527,
-          "tag": "新"
+          "title": "Dior点灯活动合照C位",
+          "url": "https://s.weibo.com/weibo?q=%23Dior%E7%82%B9%E7%81%AF%E6%B4%BB%E5%8A%A8%E5%90%88%E7%85%A7C%E4%BD%8D%23",
+          "hot": 535935
         },
         {
           "rank": 18,
-          "title": "老芒果诡计多端",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E8%8A%92%E6%9E%9C%E8%AF%A1%E8%AE%A1%E5%A4%9A%E7%AB%AF",
-          "hot": 297433,
-          "tag": "综艺"
+          "title": "青稚回应王栎鑫",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A0%8E%E9%91%AB%23",
+          "hot": 496314,
+          "tag": "新"
         },
         {
           "rank": 19,
-          "title": "文吉儿 态度",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF+%E6%80%81%E5%BA%A6",
-          "hot": 295826,
-          "tag": "新"
+          "title": "阿里巴巴二季度业绩",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%BA%8C%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%23",
+          "hot": 392382
         },
         {
           "rank": 20,
-          "title": "迪奥之家北京开业一周年",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E4%B9%8B%E5%AE%B6%E5%8C%97%E4%BA%AC%E5%BC%80%E4%B8%9A%E4%B8%80%E5%91%A8%E5%B9%B4%23",
-          "hot": 293631,
-          "tag": "新"
+          "title": "老芒果诡计多端",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E8%8A%92%E6%9E%9C%E8%AF%A1%E8%AE%A1%E5%A4%9A%E7%AB%AF",
+          "hot": 389859,
+          "tag": "综艺"
         }
       ]
     },
@@ -151,14 +146,14 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-19T21:24:20.687703015+08:00",
-      "elapsed_ms": 1938,
+      "fetched_at": "2026-11-19T22:24:23.489900954+08:00",
+      "elapsed_ms": 1257,
       "items": [
         {
           "rank": 1,
           "title": "中俄美元首会晤",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "hot": 12005933,
+          "hot": 11862880,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1794791636,
@@ -170,36 +165,36 @@
           "rank": 2,
           "title": "中俄美元首和平宣言",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80",
-          "hot": 11653473,
+          "hot": 11412340,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795085383,
+            "label": 3,
             "sentence_id": "2754857",
-            "video_count": 4
+            "video_count": 5
           }
         },
         {
           "rank": 3,
           "title": "亚太同心 共话合作新愿景",
           "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%8C%E5%BF%83%20%E5%85%B1%E8%AF%9D%E5%90%88%E4%BD%9C%E6%96%B0%E6%84%BF%E6%99%AF",
-          "hot": 11086774,
+          "hot": 11249752,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795092383,
             "label": 1,
             "sentence_id": "2755046",
-            "video_count": 2
+            "video_count": 1
           }
         },
         {
           "rank": 4,
           "title": "特朗普启程返美",
           "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%BF%94%E7%BE%8E",
-          "hot": 11018094,
+          "hot": 11124236,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795086934,
-            "label": 1,
             "sentence_id": "2754905",
             "video_count": 1
           }
@@ -208,7 +203,7 @@
           "rank": 5,
           "title": "李在明发文感谢中国热情接待",
           "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%83%AD%E6%83%85%E6%8E%A5%E5%BE%85",
-          "hot": 10457272,
+          "hot": 10541124,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795084893,
@@ -219,9 +214,35 @@
         },
         {
           "rank": 6,
+          "title": "澳大利亚总理发布逛深圳超市照片",
+          "url": "https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87",
+          "hot": 10454860,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795072726,
+            "label": 3,
+            "sentence_id": "2754317",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 7,
+          "title": "APEC会议围巾的中国式浪漫",
+          "url": "https://www.douyin.com/search/APEC%E4%BC%9A%E8%AE%AE%E5%9B%B4%E5%B7%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB",
+          "hot": 9247235,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795076743,
+            "label": 3,
+            "sentence_id": "2754500",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 8,
           "title": "普京特朗普欢迎晚宴互动握手",
           "url": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B",
-          "hot": 10439181,
+          "hot": 9189320,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795049854,
@@ -230,61 +251,36 @@
           }
         },
         {
-          "rank": 7,
-          "title": "APEC会议围巾的中国式浪漫",
-          "url": "https://www.douyin.com/search/APEC%E4%BC%9A%E8%AE%AE%E5%9B%B4%E5%B7%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB",
-          "hot": 9334809,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795076743,
-            "label": 3,
-            "sentence_id": "2754500",
-            "video_count": 6
-          }
-        },
-        {
-          "rank": 8,
-          "title": "澳大利亚总理发布逛深圳超市照片",
-          "url": "https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87",
-          "hot": 9265892,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795072726,
-            "sentence_id": "2754317",
-            "video_count": 1
-          }
-        },
-        {
           "rank": 9,
           "title": "亚太前沿领域机遇看中国",
           "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD",
-          "hot": 9262598,
+          "hot": 9171687,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795092492,
             "label": 1,
             "sentence_id": "2755049",
-            "video_count": 2
+            "video_count": 1
           }
         },
         {
           "rank": 10,
           "title": "中方回应高市早苗接机仪式",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8E%A5%E6%9C%BA%E4%BB%AA%E5%BC%8F",
-          "hot": 9184636,
+          "hot": 9105828,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795072703,
             "label": 3,
             "sentence_id": "2754315",
-            "video_count": 2
+            "video_count": 3
           }
         },
         {
           "rank": 11,
           "title": "马斯克盛赞深圳非常酷",
           "url": "https://www.douyin.com/search/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%9B%E8%B5%9E%E6%B7%B1%E5%9C%B3%E9%9D%9E%E5%B8%B8%E9%85%B7",
-          "hot": 9180626,
+          "hot": 8966130,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795073757,
@@ -294,59 +290,22 @@
         },
         {
           "rank": 12,
-          "title": "橘子海剪影宿命感拉满",
-          "url": "https://www.douyin.com/search/%E6%A9%98%E5%AD%90%E6%B5%B7%E5%89%AA%E5%BD%B1%E5%AE%BF%E5%91%BD%E6%84%9F%E6%8B%89%E6%BB%A1",
-          "hot": 9113077,
+          "title": "APEC晚宴荔枝冰酒厂家回应",
+          "url": "https://www.douyin.com/search/APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94",
+          "hot": 8790334,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795073025,
-            "label": 9,
-            "sentence_id": "2754329",
-            "video_count": 10
+            "event_time": 1795090252,
+            "label": 1,
+            "sentence_id": "2754998",
+            "video_count": 6
           }
         },
         {
           "rank": 13,
-          "title": "严苛的训练几乎要了我的命",
-          "url": "https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E5%87%A0%E4%B9%8E%E8%A6%81%E4%BA%86%E6%88%91%E7%9A%84%E5%91%BD",
-          "hot": 8892620,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795057780,
-            "label": 9,
-            "sentence_id": "2753757",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 14,
-          "title": "旅行者1号正式抵达1光日",
-          "url": "https://www.douyin.com/search/%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7%E6%AD%A3%E5%BC%8F%E6%8A%B5%E8%BE%BE1%E5%85%89%E6%97%A5",
-          "hot": 8870153,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795059465,
-            "sentence_id": "2753811",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 15,
-          "title": "美联储沃勒称12月或加息50基点",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E6%B2%83%E5%8B%92%E7%A7%B012%E6%9C%88%E6%88%96%E5%8A%A0%E6%81%AF50%E5%9F%BA%E7%82%B9",
-          "hot": 8816137,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795011671,
-            "sentence_id": "2753321",
-            "video_count": 7
-          }
-        },
-        {
-          "rank": 16,
           "title": "队长哪里都是你迎来最痛的一集",
           "url": "https://www.douyin.com/search/%E9%98%9F%E9%95%BF%E5%93%AA%E9%87%8C%E9%83%BD%E6%98%AF%E4%BD%A0%E8%BF%8E%E6%9D%A5%E6%9C%80%E7%97%9B%E7%9A%84%E4%B8%80%E9%9B%86",
-          "hot": 8412117,
+          "hot": 8034526,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795087231,
@@ -356,23 +315,60 @@
           }
         },
         {
-          "rank": 17,
+          "rank": 14,
+          "title": "严苛的训练几乎要了我的命",
+          "url": "https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E5%87%A0%E4%B9%8E%E8%A6%81%E4%BA%86%E6%88%91%E7%9A%84%E5%91%BD",
+          "hot": 7797589,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795057780,
+            "label": 9,
+            "sentence_id": "2753757",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 15,
+          "title": "旅行者1号正式抵达1光日",
+          "url": "https://www.douyin.com/search/%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7%E6%AD%A3%E5%BC%8F%E6%8A%B5%E8%BE%BE1%E5%85%89%E6%97%A5",
+          "hot": 7789613,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795059465,
+            "sentence_id": "2753811",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 16,
           "title": "APEC带给年轻人哪些新机遇",
           "url": "https://www.douyin.com/search/APEC%E5%B8%A6%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%93%AA%E4%BA%9B%E6%96%B0%E6%9C%BA%E9%81%87",
-          "hot": 8375758,
+          "hot": 7784819,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795011462,
-            "label": 3,
             "sentence_id": "2753313",
             "video_count": 1
+          }
+        },
+        {
+          "rank": 17,
+          "title": "橘子海剪影宿命感拉满",
+          "url": "https://www.douyin.com/search/%E6%A9%98%E5%AD%90%E6%B5%B7%E5%89%AA%E5%BD%B1%E5%AE%BF%E5%91%BD%E6%84%9F%E6%8B%89%E6%BB%A1",
+          "hot": 7778226,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795073025,
+            "label": 9,
+            "sentence_id": "2754329",
+            "video_count": 10
           }
         },
         {
           "rank": 18,
           "title": "慌啥子嘛要好好吃饭呀",
           "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E5%91%80",
-          "hot": 8213213,
+          "hot": 7776087,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795005266,
@@ -383,28 +379,27 @@
         },
         {
           "rank": 19,
+          "title": "APEC围巾是从哪儿来的",
+          "url": "https://www.douyin.com/search/APEC%E5%9B%B4%E5%B7%BE%E6%98%AF%E4%BB%8E%E5%93%AA%E5%84%BF%E6%9D%A5%E7%9A%84",
+          "hot": 7769262,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795077613,
+            "sentence_id": "2754563",
+            "video_count": 11
+          }
+        },
+        {
+          "rank": 20,
           "title": "我国成功发射实践二十四号卫星",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8D%AB%E6%98%9F",
-          "hot": 7823647,
+          "hot": 7763116,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795044316,
             "label": 3,
             "sentence_id": "2753415",
             "video_count": 5
-          }
-        },
-        {
-          "rank": 20,
-          "title": "李依晓演绎戏曲眼神媚眼如丝",
-          "url": "https://www.douyin.com/search/%E6%9D%8E%E4%BE%9D%E6%99%93%E6%BC%94%E7%BB%8E%E6%88%8F%E6%9B%B2%E7%9C%BC%E7%A5%9E%E5%AA%9A%E7%9C%BC%E5%A6%82%E4%B8%9D",
-          "hot": 7810506,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795072460,
-            "label": 3,
-            "sentence_id": "2754305",
-            "video_count": 2
           }
         }
       ]
@@ -413,8 +408,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": false,
-      "fetched_at": "2026-11-19T21:24:19.408129715+08:00",
-      "elapsed_ms": 659,
+      "fetched_at": "2026-11-19T22:24:22.963828296+08:00",
+      "elapsed_ms": 731,
       "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
       "items": []
     }
