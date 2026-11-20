@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-21 02:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-21 03:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -36,8 +36,8 @@
 6. [普京抵达塔吉克斯坦进行访问](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E8%BF%9B%E8%A1%8C%E8%AE%BF%E9%97%AE) — 1052.9万
 7. [APEC晚宴荔枝冰酒厂家回应](https://www.douyin.com/search/APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94) — 1048.1万
 8. [灯火里的深圳 照见开放与活力](https://www.douyin.com/search/%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E6%B7%B1%E5%9C%B3%20%E7%85%A7%E8%A7%81%E5%BC%80%E6%94%BE%E4%B8%8E%E6%B4%BB%E5%8A%9B) — 935.1万
-9. [谢谢你深圳](https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%B7%B1%E5%9C%B3) — 934.6万
-10. [高市早苗搭话特朗普遭无视](https://www.douyin.com/search/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%90%AD%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%97%A0%E8%A7%86) — 929万
+9. [文班亚马再现“超模”出手](https://www.douyin.com/search/%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%86%8D%E7%8E%B0%E2%80%9C%E8%B6%85%E6%A8%A1%E2%80%9D%E5%87%BA%E6%89%8B) — 935万
+10. [谢谢你深圳](https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%B7%B1%E5%9C%B3) — 934.6万
 
 ### 小红书
 
