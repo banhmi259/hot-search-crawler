@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-20 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-20 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,24 +20,24 @@
 3. [马斯克从深圳飞到了上海](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BB%8E%E6%B7%B1%E5%9C%B3%E9%A3%9E%E5%88%B0%E4%BA%86%E4%B8%8A%E6%B5%B7%23) — 90.1万 · 新
 4. [特朗普登上空军一号挥手告别](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%23) — 72.4万
 5. [一图读懂深圳倡议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%23) — 60.6万
-6. [多所高校不向2027级研究生提供宿舍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E4%B8%8D%E5%90%912027%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23) — 51.6万
-7. [特朗普离开深圳前与王毅面谈](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%B7%B1%E5%9C%B3%E5%89%8D%E4%B8%8E%E7%8E%8B%E6%AF%85%E9%9D%A2%E8%B0%88%23) — 49.7万 · 新
-8. [美股再度大跌](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C) — 40.9万 · 新
-9. [APEC晚宴用荔枝酒已限购](https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23) — 39.5万
-10. [特朗普登机前又做标志性动作](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E6%9C%BA%E5%89%8D%E5%8F%88%E5%81%9A%E6%A0%87%E5%BF%97%E6%80%A7%E5%8A%A8%E4%BD%9C%23) — 34.8万 · 新
+6. [2026APEC东道主成果清单](https://s.weibo.com/weibo?q=%232026APEC%E4%B8%9C%E9%81%93%E4%B8%BB%E6%88%90%E6%9E%9C%E6%B8%85%E5%8D%95%23) — 58.7万
+7. [多所高校不向2027级研究生提供宿舍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E4%B8%8D%E5%90%912027%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23) — 51.6万
+8. [特朗普离开深圳前与王毅面谈](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%B7%B1%E5%9C%B3%E5%89%8D%E4%B8%8E%E7%8E%8B%E6%AF%85%E9%9D%A2%E8%B0%88%23) — 49.7万 · 新
+9. [美股再度大跌](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C) — 40.9万 · 新
+10. [APEC晚宴用荔枝酒已限购](https://s.weibo.com/weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E9%85%92%E5%B7%B2%E9%99%90%E8%B4%AD%23) — 39.5万
 
 ### 抖音
 
-1. [中俄美元首会晤](https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4) — 1191.4万
+1. [中俄美元首会晤](https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4) — 1198.6万
 2. [APEC晚宴荔枝冰酒厂家回应](https://www.douyin.com/search/APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94) — 1167.1万
 3. [中俄美元首和平宣言](https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80) — 1154.5万
 4. [亚太同心 共话合作新愿景](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%8C%E5%BF%83%20%E5%85%B1%E8%AF%9D%E5%90%88%E4%BD%9C%E6%96%B0%E6%84%BF%E6%99%AF) — 1139.2万
 5. [特朗普启程返美](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%BF%94%E7%BE%8E) — 1123.1万
-6. [U17男足首战对阵西班牙](https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B3%E9%A6%96%E6%88%98%E5%AF%B9%E9%98%B5%E8%A5%BF%E7%8F%AD%E7%89%99) — 1052.1万
-7. [澳大利亚总理发布逛深圳超市照片](https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87) — 1050.7万
-8. [APEC外宾游深圳邂逅地道美食](https://www.douyin.com/search/APEC%E5%A4%96%E5%AE%BE%E6%B8%B8%E6%B7%B1%E5%9C%B3%E9%82%82%E9%80%85%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F) — 1043.6万
-9. [李在明发文感谢中国热情接待](https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%83%AD%E6%83%85%E6%8E%A5%E5%BE%85) — 1043.1万
-10. [马斯克盛赞深圳非常酷](https://www.douyin.com/search/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9B%9B%E8%B5%9E%E6%B7%B1%E5%9C%B3%E9%9D%9E%E5%B8%B8%E9%85%B7) — 1039.9万
+6. [APEC外宾游深圳邂逅地道美食](https://www.douyin.com/search/APEC%E5%A4%96%E5%AE%BE%E6%B8%B8%E6%B7%B1%E5%9C%B3%E9%82%82%E9%80%85%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F) — 1107.6万
+7. [世界目光聚焦APEC](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89%E8%81%9A%E7%84%A6APEC) — 1105万
+8. [U17男足首战对阵西班牙](https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B3%E9%A6%96%E6%88%98%E5%AF%B9%E9%98%B5%E8%A5%BF%E7%8F%AD%E7%89%99) — 1052.1万
+9. [澳大利亚总理发布逛深圳超市照片](https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87) — 1050.7万
+10. [李在明发文感谢中国热情接待](https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%83%AD%E6%83%85%E6%8E%A5%E5%BE%85) — 1043.1万
 
 ### 小红书
 
