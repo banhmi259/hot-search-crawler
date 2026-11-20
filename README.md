@@ -11,16 +11,16 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-21 06:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-21 07:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [深圳人又开始原装出街了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%A3%85%E5%87%BA%E8%A1%97%E4%BA%86%23) — 94.1万 · 热
-2. [青稚MVP](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9AMVP%23) — 68.9万
-3. [DeepSeek付费体验直线上升](https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87) — 66万 · 新
-4. [APEC盛会效应拉满](https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23) — 55.7万
-5. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 51.1万
-6. [后会友期黄焖鸡事件原声视频](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91) — 40.8万 · 新
+2. [DeepSeek付费体验直线上升](https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87) — 77.5万 · 新
+3. [青稚MVP](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9AMVP%23) — 68.9万
+4. [后会友期黄焖鸡事件原声视频](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91) — 57.4万 · 新
+5. [APEC盛会效应拉满](https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23) — 55.7万
+6. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 51.1万
 7. [曝青稚妈妈讨厌后会友期的原因](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E5%A6%88%E5%A6%88%E8%AE%A8%E5%8E%8C%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 38.6万 · 热
 8. [文吉儿袜子塞沙发底下](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E8%A2%9C%E5%AD%90%E5%A1%9E%E6%B2%99%E5%8F%91%E5%BA%95%E4%B8%8B%23) — 38万 · 热
 9. [王子璇问马天宇你不会爱上我](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E9%97%AE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%A0%E4%B8%8D%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%88%91%23) — 37.8万 · 新
