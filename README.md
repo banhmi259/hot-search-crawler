@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-21 04:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-21 05:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -29,7 +29,7 @@
 ### 抖音
 
 1. [U17男足0:5西班牙](https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B30:5%E8%A5%BF%E7%8F%AD%E7%89%99) — 1214.3万
-2. [泰国总理带夫人在深圳吃夜宵](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%B8%A6%E5%A4%AB%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E5%A4%9C%E5%AE%B5) — 1204.9万
+2. [泰国总理带夫人在深圳吃夜宵](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%B8%A6%E5%A4%AB%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E5%A4%9C%E5%AE%B5) — 1209.7万
 3. [亚太前沿领域机遇看中国](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD) — 1176.7万
 4. [外交部回应高市早苗涉台问题表态](https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E8%A1%A8%E6%80%81) — 1141.2万
 5. [粤菜亮相APEC欢迎晚宴](https://www.douyin.com/search/%E7%B2%A4%E8%8F%9C%E4%BA%AE%E7%9B%B8APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4) — 1075.9万
