@@ -11,16 +11,16 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-20 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-20 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [日方称中方接待高市早苗符合惯例](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E4%B8%AD%E6%96%B9%E6%8E%A5%E5%BE%85%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%AC%A6%E5%90%88%E6%83%AF%E4%BE%8B%23) — 114.4万 · 新
-2. [BLG或更换ADC](https://s.weibo.com/weibo?q=%23BLG%E6%88%96%E6%9B%B4%E6%8D%A2ADC%23) — 113.9万 · 新
-3. [泽连斯基回应特朗普称普京为朋友](https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%99%AE%E4%BA%AC%E4%B8%BA%E6%9C%8B%E5%8F%8B%23) — 113.7万 · 新
-4. [小米18](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318) — 113.3万
-5. [特朗普深圳下榻酒店房间内部曝光](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89%23) — 112.7万 · 新
-6. [特朗普刚返美就发重大预告](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A%23) — 111万 · 热
+2. [特朗普刚返美就发重大预告](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A%23) — 114万 · 热
+3. [BLG或更换ADC](https://s.weibo.com/weibo?q=%23BLG%E6%88%96%E6%9B%B4%E6%8D%A2ADC%23) — 113.9万 · 新
+4. [泽连斯基回应特朗普称普京为朋友](https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%99%AE%E4%BA%AC%E4%B8%BA%E6%9C%8B%E5%8F%8B%23) — 113.7万 · 新
+5. [小米18](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318) — 113.3万
+6. [特朗普深圳下榻酒店房间内部曝光](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89%23) — 112.7万 · 新
 7. [特朗普给中俄美元首会晤打12分](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86%23) — 108.5万 · 新
 8. [国家领导人双边会晤](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%8C%E8%BE%B9%E4%BC%9A%E6%99%A4%23) — 105.7万 · 新
 9. [中俄美元首会晤富有成果](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%8C%E6%9C%89%E6%88%90%E6%9E%9C%23) — 105.5万
