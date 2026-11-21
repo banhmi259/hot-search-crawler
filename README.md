@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 01:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 02:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -32,10 +32,10 @@
 2. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1103.5万
 3. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1100.5万
 4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1095.8万
-5. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1040.7万
-6. [湘超半决赛永州队1:1长沙队](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%B0%B8%E5%B7%9E%E9%98%9F1:1%E9%95%BF%E6%B2%99%E9%98%9F) — 1040万
-7. [乌解释打击克里米亚大桥行动缘由](https://www.douyin.com/search/%E4%B9%8C%E8%A7%A3%E9%87%8A%E6%89%93%E5%87%BB%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E8%A1%8C%E5%8A%A8%E7%BC%98%E7%94%B1) — 1038.3万
-8. [哈登51分助骑士击败步行者](https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85) — 926.5万
+5. [乌解释打击克里米亚大桥行动缘由](https://www.douyin.com/search/%E4%B9%8C%E8%A7%A3%E9%87%8A%E6%89%93%E5%87%BB%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E8%A1%8C%E5%8A%A8%E7%BC%98%E7%94%B1) — 1093.3万
+6. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1040.7万
+7. [湘超半决赛永州队1:1长沙队](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%B0%B8%E5%B7%9E%E9%98%9F1:1%E9%95%BF%E6%B2%99%E9%98%9F) — 1040万
+8. [哈登51分助骑士击败步行者](https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85) — 1036.4万
 9. [特朗普公开点赞深圳干净整洁](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3%E5%B9%B2%E5%87%80%E6%95%B4%E6%B4%81) — 926.4万
 10. [川超揭幕战德阳4:1凉山](https://www.douyin.com/search/%E5%B7%9D%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%E5%BE%B7%E9%98%B34:1%E5%87%89%E5%B1%B1) — 921.4万
 
