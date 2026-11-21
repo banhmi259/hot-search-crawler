@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-21 08:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-21 09:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [DeepSeek付费体验直线上升](https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87) — 110.4万 · 新
-2. [深圳人又开始原装出街了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%A3%85%E5%87%BA%E8%A1%97%E4%BA%86%23) — 94.1万 · 热
-3. [特朗普涉中俄美最新表态](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E7%BE%8E%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23) — 79.4万 · 新
-4. [青稚MVP](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9AMVP%23) — 68.9万
-5. [APEC盛会效应拉满](https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23) — 63.6万
-6. [后会友期黄焖鸡事件原声视频](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91) — 57.4万 · 新
-7. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 51.1万
-8. [曝青稚妈妈讨厌后会友期的原因](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E5%A6%88%E5%A6%88%E8%AE%A8%E5%8E%8C%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 38.6万 · 热
-9. [黎曼猜想](https://s.weibo.com/weibo?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 38.2万 · 新
-10. [文吉儿袜子塞沙发底下](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E8%A2%9C%E5%AD%90%E5%A1%9E%E6%B2%99%E5%8F%91%E5%BA%95%E4%B8%8B%23) — 38万 · 热
+1. [胖东来搬离后原址所开新商场几乎倒闭](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%90%AC%E7%A6%BB%E5%90%8E%E5%8E%9F%E5%9D%80%E6%89%80%E5%BC%80%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD%23) — 112.5万 · 热
+2. [DeepSeek付费体验直线上升](https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87) — 110.4万 · 新
+3. [深圳人又开始原装出街了](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8E%9F%E8%A3%85%E5%87%BA%E8%A1%97%E4%BA%86%23) — 94.1万 · 热
+4. [特朗普涉中俄美最新表态](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E7%BE%8E%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23) — 79.4万 · 新
+5. [黎曼猜想](https://s.weibo.com/weibo?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 79.4万 · 新
+6. [青稚MVP](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9AMVP%23) — 68.9万
+7. [APEC盛会效应拉满](https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23) — 63.6万
+8. [后会友期黄焖鸡事件原声视频](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91) — 57.4万 · 新
+9. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 51.1万
+10. [美AI科技股崩盘原因](https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E5%B4%A9%E7%9B%98%E5%8E%9F%E5%9B%A0%23) — 43.9万 · 新
 
 ### 抖音
 
 1. [U17男足0:5西班牙](https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B30:5%E8%A5%BF%E7%8F%AD%E7%89%99) — 1214.3万
-2. [泰国总理带夫人在深圳吃夜宵](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%B8%A6%E5%A4%AB%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E5%A4%9C%E5%AE%B5) — 1210.1万
-3. [亚太前沿领域机遇看中国](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD) — 1205万
-4. [外交部回应高市早苗涉台问题表态](https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E8%A1%A8%E6%80%81) — 1141.2万
-5. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1131.5万
-6. [粤菜亮相APEC欢迎晚宴](https://www.douyin.com/search/%E7%B2%A4%E8%8F%9C%E4%BA%AE%E7%9B%B8APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4) — 1075.9万
-7. [特朗普结束亚洲行返回白宫](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BA%9A%E6%B4%B2%E8%A1%8C%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB) — 1054.4万
-8. [普京抵达塔吉克斯坦进行访问](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E8%BF%9B%E8%A1%8C%E8%AE%BF%E9%97%AE) — 1052.9万
-9. [APEC晚宴荔枝冰酒厂家回应](https://www.douyin.com/search/APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94) — 1048.1万
-10. [墨西哥总统发视频感谢中方女保镖](https://www.douyin.com/search/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A7%86%E9%A2%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96) — 936.5万
+2. [美国三大股指全线大跌](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%8C) — 1210.1万
+3. [泰国总理带夫人在深圳吃夜宵](https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%B8%A6%E5%A4%AB%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E5%A4%9C%E5%AE%B5) — 1210.1万
+4. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1205.8万
+5. [亚太前沿领域机遇看中国](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%89%8D%E6%B2%BF%E9%A2%86%E5%9F%9F%E6%9C%BA%E9%81%87%E7%9C%8B%E4%B8%AD%E5%9B%BD) — 1205万
+6. [外交部回应高市早苗涉台问题表态](https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E8%A1%A8%E6%80%81) — 1141.2万
+7. [粤菜亮相APEC欢迎晚宴](https://www.douyin.com/search/%E7%B2%A4%E8%8F%9C%E4%BA%AE%E7%9B%B8APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4) — 1075.9万
+8. [特朗普结束亚洲行返回白宫](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BA%9A%E6%B4%B2%E8%A1%8C%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB) — 1054.4万
+9. [普京抵达塔吉克斯坦进行访问](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E8%BF%9B%E8%A1%8C%E8%AE%BF%E9%97%AE) — 1052.9万
+10. [APEC晚宴荔枝冰酒厂家回应](https://www.douyin.com/search/APEC%E6%99%9A%E5%AE%B4%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94) — 1048.1万
 
 ### 小红书
 
