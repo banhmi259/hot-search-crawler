@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 00:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 01:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,24 +20,24 @@
 3. [外媒高度关注中俄美元首会晤](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23) — 59.3万
 4. [厉娜出场帅晕了](https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%87%BA%E5%9C%BA%E5%B8%85%E6%99%95%E4%BA%86%23) — 55.3万 · 热
 5. [Fly奖杯被撞掉](https://s.weibo.com/weibo?q=%23Fly%E5%A5%96%E6%9D%AF%E8%A2%AB%E6%92%9E%E6%8E%89%23) — 35.4万 · 新
-6. [刘宪华抽到亲妹妹](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E6%8A%BD%E5%88%B0%E4%BA%B2%E5%A6%B9%E5%A6%B9%23) — 32.1万 · 热
-7. [原来转账是可以拦截的](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BD%AC%E8%B4%A6%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%A6%E6%88%AA%E7%9A%84) — 26.7万 · 热
-8. [Viper直播](https://s.weibo.com/weibo?q=Viper%E7%9B%B4%E6%92%AD) — 20.6万
-9. [失散20年双胞胎回应不找亲生父母](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E6%95%A320%E5%B9%B4%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%89%BE%E4%BA%B2%E7%94%9F%E7%88%B6%E6%AF%8D%23) — 20.6万
-10. [Bin嘴没停过](https://s.weibo.com/weibo?q=%23Bin%E5%98%B4%E6%B2%A1%E5%81%9C%E8%BF%87%23) — 20.6万
+6. [韩国涉嫌作弊满分考生遗书公开](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B6%89%E5%AB%8C%E4%BD%9C%E5%BC%8A%E6%BB%A1%E5%88%86%E8%80%83%E7%94%9F%E9%81%97%E4%B9%A6%E5%85%AC%E5%BC%80%23) — 33.5万
+7. [APEC现场的确定性藏在这些细节里](https://s.weibo.com/weibo?q=%23APEC%E7%8E%B0%E5%9C%BA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7%E8%97%8F%E5%9C%A8%E8%BF%99%E4%BA%9B%E7%BB%86%E8%8A%82%E9%87%8C%23) — 33.5万
+8. [这居然是王子璇](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87%23) — 32.7万 · 新
+9. [刘宪华抽到亲妹妹](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E6%8A%BD%E5%88%B0%E4%BA%B2%E5%A6%B9%E5%A6%B9%23) — 32.1万 · 热
+10. [周杰高情商回答穷人该不该生孩子](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E7%AD%94%E7%A9%B7%E4%BA%BA%E8%AF%A5%E4%B8%8D%E8%AF%A5%E7%94%9F%E5%AD%A9%E5%AD%90) — 31.1万 · 热
 
 ### 抖音
 
-1. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1135.1万
-2. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1102.1万
+1. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1199.1万
+2. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1103.5万
 3. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1100.5万
-4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1095.6万
+4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1095.8万
 5. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1040.7万
 6. [湘超半决赛永州队1:1长沙队](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%B0%B8%E5%B7%9E%E9%98%9F1:1%E9%95%BF%E6%B2%99%E9%98%9F) — 1040万
-7. [哈登51分助骑士击败步行者](https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85) — 926.5万
-8. [特朗普公开点赞深圳干净整洁](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3%E5%B9%B2%E5%87%80%E6%95%B4%E6%B4%81) — 926.4万
-9. [川超揭幕战德阳4:1凉山](https://www.douyin.com/search/%E5%B7%9D%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%E5%BE%B7%E9%98%B34:1%E5%87%89%E5%B1%B1) — 921.4万
-10. [专家分析克里米亚大桥连遭三炸](https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E8%BF%9E%E9%81%AD%E4%B8%89%E7%82%B8) — 920.8万
+7. [乌解释打击克里米亚大桥行动缘由](https://www.douyin.com/search/%E4%B9%8C%E8%A7%A3%E9%87%8A%E6%89%93%E5%87%BB%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E8%A1%8C%E5%8A%A8%E7%BC%98%E7%94%B1) — 1038.3万
+8. [哈登51分助骑士击败步行者](https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85) — 926.5万
+9. [特朗普公开点赞深圳干净整洁](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3%E5%B9%B2%E5%87%80%E6%95%B4%E6%B4%81) — 926.4万
+10. [川超揭幕战德阳4:1凉山](https://www.douyin.com/search/%E5%B7%9D%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%E5%BE%B7%E9%98%B34:1%E5%87%89%E5%B1%B1) — 921.4万
 
 ### 小红书
 
