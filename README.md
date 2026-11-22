@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -28,16 +28,16 @@
 
 ### 抖音
 
-1. [国际金价为何持续下跌](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C) — 1210万
-2. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1209.2万
-3. [今日小雪](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA) — 1203.5万
-4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1152.8万
-5. [AI是否已证明黎曼猜想](https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 1151.3万
+1. [AI是否已证明黎曼猜想](https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 1210.2万
+2. [国际金价为何持续下跌](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C) — 1210万
+3. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1209.2万
+4. [今日小雪](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA) — 1203.5万
+5. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1152.8万
 6. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1139.6万
 7. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1128.7万
 8. [76人送雄鹿13连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E9%9B%84%E9%B9%BF13%E8%BF%9E%E8%B4%A5) — 1128.3万
-9. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
-10. [来阳江嘴巴就没停过](https://www.douyin.com/search/%E6%9D%A5%E9%98%B3%E6%B1%9F%E5%98%B4%E5%B7%B4%E5%B0%B1%E6%B2%A1%E5%81%9C%E8%BF%87) — 1120.3万
+9. [湘超半决赛娄底1:0湘潭](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%A8%84%E5%BA%951:0%E6%B9%98%E6%BD%AD) — 1128万
+10. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
 
 ### 小红书
 
