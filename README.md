@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 00:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 01:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [特朗普发APEC合照配文GOAT](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91APEC%E5%90%88%E7%85%A7%E9%85%8D%E6%96%87GOAT%23) — 50.7万
 5. [天霸巅峰挑战赛总决赛冠军](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%9C%B8%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%23) — 36.9万
 6. [韩国网友感谢中国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23) — 36.5万
-7. [私闯果园糟蹋水果主播下架所有视频](https://s.weibo.com/weibo?q=%23%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23) — 35.2万 · 新
-8. [樊振东vs约内斯库](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93%23) — 30万 · 新
-9. [血压这个区间不再视作接近正常](https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8E%8B%E8%BF%99%E4%B8%AA%E5%8C%BA%E9%97%B4%E4%B8%8D%E5%86%8D%E8%A7%86%E4%BD%9C%E6%8E%A5%E8%BF%91%E6%AD%A3%E5%B8%B8%23) — 29.3万
-10. [王安宇被马顶跑了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%A2%AB%E9%A9%AC%E9%A1%B6%E8%B7%91%E4%BA%86%23) — 27.9万
+7. [诗词里的千年文脉](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89%23) — 36.3万
+8. [私闯果园糟蹋水果主播下架所有视频](https://s.weibo.com/weibo?q=%23%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23) — 35.2万 · 新
+9. [青稚](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A) — 32.2万 · 新
+10. [樊振东vs约内斯库](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93%23) — 30万 · 新
 
 ### 抖音
 
@@ -33,11 +33,11 @@
 3. [APEC“红利”看得见摸得着](https://www.douyin.com/search/APEC%E2%80%9C%E7%BA%A2%E5%88%A9%E2%80%9D%E7%9C%8B%E5%BE%97%E8%A7%81%E6%91%B8%E5%BE%97%E7%9D%80) — 1159.4万
 4. [国内成品油价将迎调整](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4) — 1131.3万
 5. [伊美博弈加剧](https://www.douyin.com/search/%E4%BC%8A%E7%BE%8E%E5%8D%9A%E5%BC%88%E5%8A%A0%E5%89%A7) — 1054.9万
-6. [来阳江嘴巴就没停过](https://www.douyin.com/search/%E6%9D%A5%E9%98%B3%E6%B1%9F%E5%98%B4%E5%B7%B4%E5%B0%B1%E6%B2%A1%E5%81%9C%E8%BF%87) — 1043.1万
+6. [来阳江嘴巴就没停过](https://www.douyin.com/search/%E6%9D%A5%E9%98%B3%E6%B1%9F%E5%98%B4%E5%B7%B4%E5%B0%B1%E6%B2%A1%E5%81%9C%E8%BF%87) — 1044.1万
 7. [黄山迎客松为何成为中国名片](https://www.douyin.com/search/%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%90%8D%E7%89%87) — 916.1万
-8. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 911.8万
-9. [维斯塔潘夺冠后嘲讽拉塞尔](https://www.douyin.com/search/%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0%E5%90%8E%E5%98%B2%E8%AE%BD%E6%8B%89%E5%A1%9E%E5%B0%94) — 910.5万
-10. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 896.5万
+8. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 913.5万
+9. [维斯塔潘夺冠后嘲讽拉塞尔](https://www.douyin.com/search/%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0%E5%90%8E%E5%98%B2%E8%AE%BD%E6%8B%89%E5%A1%9E%E5%B0%94) — 911.8万
+10. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 911.8万
 
 ### 小红书
 
