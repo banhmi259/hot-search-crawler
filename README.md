@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [图览APEC中国年75项主要成果](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C%23) — 87.6万
 5. [朱瞻基 扫黄](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84) — 85.9万 · 新
 6. [余文乐躯体化严重到不能开车](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%96%87%E4%B9%90%E8%BA%AF%E4%BD%93%E5%8C%96%E4%B8%A5%E9%87%8D%E5%88%B0%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6%23) — 73.9万 · 热
-7. [特朗普深圳不拉窗帘原因找到了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23) — 66.6万
-8. [外媒高度关注中俄美元首会晤](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23) — 59.3万
-9. [厉娜出场帅晕了](https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%87%BA%E5%9C%BA%E5%B8%85%E6%99%95%E4%BA%86%23) — 55.3万 · 热
-10. [白小纯粉丝群发言](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80%23) — 41.6万 · 新
+7. [从琼崖烽火到开放自贸港](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%90%BC%E5%B4%96%E7%83%BD%E7%81%AB%E5%88%B0%E5%BC%80%E6%94%BE%E8%87%AA%E8%B4%B8%E6%B8%AF%23) — 73.2万
+8. [特朗普深圳不拉窗帘原因找到了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23) — 66.6万
+9. [外媒高度关注中俄美元首会晤](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23) — 59.3万
+10. [厉娜出场帅晕了](https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%87%BA%E5%9C%BA%E5%B8%85%E6%99%95%E4%BA%86%23) — 55.3万 · 热
 
 ### 抖音
 
@@ -34,10 +34,10 @@
 4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1152.8万
 5. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1139.6万
 6. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1128.7万
-7. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
-8. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 1118.3万
-9. [哈登51分助骑士击败步行者](https://www.douyin.com/search/%E5%93%88%E7%99%BB51%E5%88%86%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%87%BB%E8%B4%A5%E6%AD%A5%E8%A1%8C%E8%80%85) — 1098.3万
-10. [乌解释打击克里米亚大桥行动缘由](https://www.douyin.com/search/%E4%B9%8C%E8%A7%A3%E9%87%8A%E6%89%93%E5%87%BB%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E8%A1%8C%E5%8A%A8%E7%BC%98%E7%94%B1) — 1093.3万
+7. [76人送雄鹿13连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E9%9B%84%E9%B9%BF13%E8%BF%9E%E8%B4%A5) — 1128.3万
+8. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
+9. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 1118.3万
+10. [淡季旅游“热”起来](https://www.douyin.com/search/%E6%B7%A1%E5%AD%A3%E6%97%85%E6%B8%B8%E2%80%9C%E7%83%AD%E2%80%9D%E8%B5%B7%E6%9D%A5) — 1105.1万
 
 ### 小红书
 
