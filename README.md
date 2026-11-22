@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 03:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 04:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,9 +35,9 @@
 5. [国内成品油价将迎调整](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4) — 1131.3万
 6. [伊美博弈加剧](https://www.douyin.com/search/%E4%BC%8A%E7%BE%8E%E5%8D%9A%E5%BC%88%E5%8A%A0%E5%89%A7) — 1054.9万
 7. [黄山迎客松为何成为中国名片](https://www.douyin.com/search/%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%90%8D%E7%89%87) — 932.6万
-8. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 924.8万
-9. [国际金价为何持续下跌](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C) — 924.5万
-10. [维斯塔潘夺冠后嘲讽拉塞尔](https://www.douyin.com/search/%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0%E5%90%8E%E5%98%B2%E8%AE%BD%E6%8B%89%E5%A1%9E%E5%B0%94) — 911.8万
+8. [国际金价为何持续下跌](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C) — 932.4万
+9. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 924.8万
+10. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 915.7万
 
 ### 小红书
 
