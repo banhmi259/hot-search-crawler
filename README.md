@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 11:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -30,7 +30,7 @@
 
 1. [国际金价为何持续下跌](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C) — 1210万
 2. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1209.2万
-3. [今日小雪](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA) — 1161.5万
+3. [今日小雪](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA) — 1203.5万
 4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1152.8万
 5. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1139.6万
 6. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1128.7万
