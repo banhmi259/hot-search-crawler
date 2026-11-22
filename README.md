@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 18:20**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 19:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [主播私闯果园带货糟蹋一千多斤苹果](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C%23) — 252.3万 · 新
 2. [羽绒服生意变天了](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86%23) — 207.7万 · 新
 3. [女博士卧底当主播称至今心理阴影](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E5%BD%93%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%87%B3%E4%BB%8A%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23) — 117.2万
-4. [再见老板真的要来了](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86) — 112.7万 · 新
-5. [央视揭秘网络女主播真实生态](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23) — 99.8万 · 热
-6. [方力申破世界纪录](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8A%9B%E7%94%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23) — 99.2万 · 新
-7. [2名在华日本人发生冲突1人死亡](https://s.weibo.com/weibo?q=%232%E5%90%8D%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%811%E4%BA%BA%E6%AD%BB%E4%BA%A1%23) — 90.7万 · 新
-8. [温差待消弭信心不可失](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%AE%E5%BE%85%E6%B6%88%E5%BC%AD%E4%BF%A1%E5%BF%83%E4%B8%8D%E5%8F%AF%E5%A4%B1%23) — 88.6万
-9. [图览APEC中国年75项主要成果](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C%23) — 87.6万
-10. [朱瞻基 扫黄](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84) — 85.9万 · 新
+4. [韩国网友感谢中国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23) — 117.1万 · 新
+5. [再见老板真的要来了](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86) — 112.7万 · 新
+6. [央视揭秘网络女主播真实生态](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23) — 99.8万 · 热
+7. [方力申破世界纪录](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8A%9B%E7%94%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23) — 99.2万 · 新
+8. [2名在华日本人发生冲突1人死亡](https://s.weibo.com/weibo?q=%232%E5%90%8D%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%811%E4%BA%BA%E6%AD%BB%E4%BA%A1%23) — 90.7万 · 新
+9. [温差待消弭信心不可失](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%AE%E5%BE%85%E6%B6%88%E5%BC%AD%E4%BF%A1%E5%BF%83%E4%B8%8D%E5%8F%AF%E5%A4%B1%23) — 88.6万
+10. [图览APEC中国年75项主要成果](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C%23) — 87.6万
 
 ### 抖音
 
@@ -32,12 +32,12 @@
 2. [终于懂李白走到哪都写诗了](https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%87%82%E6%9D%8E%E7%99%BD%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E5%86%99%E8%AF%97%E4%BA%86) — 1209.2万
 3. [今日小雪](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA) — 1203.5万
 4. [神舟二十四号发射准备就绪](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA) — 1152.8万
-5. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1139.6万
-6. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1128.7万
-7. [76人送雄鹿13连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E9%9B%84%E9%B9%BF13%E8%BF%9E%E8%B4%A5) — 1128.3万
-8. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
-9. [特朗普称将与伊朗达成永久性协议](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE) — 1118.3万
-10. [淡季旅游“热”起来](https://www.douyin.com/search/%E6%B7%A1%E5%AD%A3%E6%97%85%E6%B8%B8%E2%80%9C%E7%83%AD%E2%80%9D%E8%B5%B7%E6%9D%A5) — 1110.8万
+5. [AI是否已证明黎曼猜想](https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 1141万
+6. [从细节读懂中国带给亚太的确定性](https://www.douyin.com/search/%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7) — 1139.6万
+7. [德令哈市发生5.6级地震](https://www.douyin.com/search/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82%E5%8F%91%E7%94%9F5.6%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1128.7万
+8. [76人送雄鹿13连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E9%9B%84%E9%B9%BF13%E8%BF%9E%E8%B4%A5) — 1128.3万
+9. [贺炜长文鼓励U17中国队](https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E9%95%BF%E6%96%87%E9%BC%93%E5%8A%B1U17%E4%B8%AD%E5%9B%BD%E9%98%9F) — 1127.8万
+10. [来阳江嘴巴就没停过](https://www.douyin.com/search/%E6%9D%A5%E9%98%B3%E6%B1%9F%E5%98%B4%E5%B7%B4%E5%B0%B1%E6%B2%A1%E5%81%9C%E8%BF%87) — 1120.3万
 
 ### 小红书
 
