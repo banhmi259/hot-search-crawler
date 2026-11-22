@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-22 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-22 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [女博士卧底当主播称至今心理阴影](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E5%BD%93%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%87%B3%E4%BB%8A%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23) — 117.2万
 4. [央视揭秘网络女主播真实生态](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%23) — 99.8万 · 热
 5. [方力申破世界纪录](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8A%9B%E7%94%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23) — 99.2万 · 新
-6. [2名在华日本人发生冲突1人死亡](https://s.weibo.com/weibo?q=%232%E5%90%8D%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%811%E4%BA%BA%E6%AD%BB%E4%BA%A1%23) — 90.7万 · 新
-7. [图览APEC中国年75项主要成果](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C%23) — 87.6万
-8. [朱瞻基 扫黄](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84) — 85.9万 · 新
-9. [温差待消弭信心不可失](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%AE%E5%BE%85%E6%B6%88%E5%BC%AD%E4%BF%A1%E5%BF%83%E4%B8%8D%E5%8F%AF%E5%A4%B1%23) — 81.3万
-10. [怪不得王子璇要去做医美](https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E7%8E%8B%E5%AD%90%E7%92%87%E8%A6%81%E5%8E%BB%E5%81%9A%E5%8C%BB%E7%BE%8E) — 80.9万 · 热
+6. [再见老板真的要来了](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86) — 94.2万 · 新
+7. [2名在华日本人发生冲突1人死亡](https://s.weibo.com/weibo?q=%232%E5%90%8D%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%811%E4%BA%BA%E6%AD%BB%E4%BA%A1%23) — 90.7万 · 新
+8. [温差待消弭信心不可失](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%AE%E5%BE%85%E6%B6%88%E5%BC%AD%E4%BF%A1%E5%BF%83%E4%B8%8D%E5%8F%AF%E5%A4%B1%23) — 88.6万
+9. [图览APEC中国年75项主要成果](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C%23) — 87.6万
+10. [朱瞻基 扫黄](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84) — 85.9万 · 新
 
 ### 抖音
 
