@@ -11,30 +11,30 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 22:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 23:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1%23) — 1359.3万 · 爆
-2. [英伟达盘前暴涨](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%89%8D%E6%9A%B4%E6%B6%A8%23) — 221.8万 · 新
-3. [南方豆腐掉地上能弹起来](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5%23) — 169.4万 · 新
-4. [开放的中国促合作共成长](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%83%E5%90%88%E4%BD%9C%E5%85%B1%E6%88%90%E9%95%BF%23) — 162.6万 · 新
-5. [treetree炸鸡店老板最新发声](https://s.weibo.com/weibo?q=%23treetree%E7%82%B8%E9%B8%A1%E5%BA%97%E8%80%81%E6%9D%BF%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23) — 156.9万 · 新
-6. [许昌外卖小哥一句脆脆的带火炸鸡](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1) — 152.3万 · 热
-7. [韦东奕攻克百年难题获奖](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96%23) — 128.4万 · 新
-8. [私闯果园糟蹋水果主播下架所有视频](https://s.weibo.com/weibo?q=%23%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23) — 125.1万 · 新
-9. [00后不整顿职场来整顿婚礼了](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%8D%E6%95%B4%E9%A1%BF%E8%81%8C%E5%9C%BA%E6%9D%A5%E6%95%B4%E9%A1%BF%E5%A9%9A%E7%A4%BC%E4%BA%86%23) — 117.9万 · 新
-10. [脆脆炸鸡老板强调八百遍是做披萨的](https://s.weibo.com/weibo?q=%23%E8%84%86%E8%84%86%E7%82%B8%E9%B8%A1%E8%80%81%E6%9D%BF%E5%BC%BA%E8%B0%83%E5%85%AB%E7%99%BE%E9%81%8D%E6%98%AF%E5%81%9A%E6%8A%AB%E8%90%A8%E7%9A%84%23) — 116.4万 · 新
+2. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 226.2万 · 新
+3. [英伟达盘前暴涨](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%89%8D%E6%9A%B4%E6%B6%A8%23) — 221.8万 · 新
+4. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 172.5万 · 新
+5. [南方豆腐掉地上能弹起来](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5%23) — 169.4万 · 新
+6. [开放的中国促合作共成长](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%83%E5%90%88%E4%BD%9C%E5%85%B1%E6%88%90%E9%95%BF%23) — 162.6万 · 新
+7. [treetree炸鸡店老板最新发声](https://s.weibo.com/weibo?q=%23treetree%E7%82%B8%E9%B8%A1%E5%BA%97%E8%80%81%E6%9D%BF%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23) — 156.9万 · 新
+8. [许昌外卖小哥一句脆脆的带火炸鸡](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1) — 152.3万 · 热
+9. [韦东奕攻克百年难题获奖](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96%23) — 128.4万 · 新
+10. [私闯果园糟蹋水果主播下架所有视频](https://s.weibo.com/weibo?q=%23%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23) — 125.1万 · 新
 
 ### 抖音
 
-1. [现货黄金重返3600美元](https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83) — 1212.7万
-2. [2027国考今起可打印准考证](https://www.douyin.com/search/2027%E5%9B%BD%E8%80%83%E4%BB%8A%E8%B5%B7%E5%8F%AF%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81) — 1212.4万
-3. [金银价格双双上涨](https://www.douyin.com/search/%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E4%B8%8A%E6%B6%A8) — 1212.3万
-4. [国内成品油价将迎调整](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4) — 1210.6万
-5. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 1210.3万
-6. [AI是否已证明黎曼猜想](https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 1210.2万
-7. [英伟达恢复黄仁勋CEO职务](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1) — 1209.8万
+1. [英伟达恢复黄仁勋CEO职务](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1) — 1222.5万
+2. [现货黄金重返3600美元](https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83) — 1212.7万
+3. [2027国考今起可打印准考证](https://www.douyin.com/search/2027%E5%9B%BD%E8%80%83%E4%BB%8A%E8%B5%B7%E5%8F%AF%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81) — 1212.4万
+4. [金银价格双双上涨](https://www.douyin.com/search/%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E4%B8%8A%E6%B6%A8) — 1212.3万
+5. [国内成品油价将迎调整](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4) — 1210.6万
+6. [特朗普连发三十多张APEC会议照片](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E4%B8%89%E5%8D%81%E5%A4%9A%E5%BC%A0APEC%E4%BC%9A%E8%AE%AE%E7%85%A7%E7%89%87) — 1210.3万
+7. [AI是否已证明黎曼猜想](https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3) — 1210.2万
 8. [黄山迎客松为何成为中国名片](https://www.douyin.com/search/%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%90%8D%E7%89%87) — 1209.7万
 9. [勇士险胜凯尔特人](https://www.douyin.com/search/%E5%8B%87%E5%A3%AB%E9%99%A9%E8%83%9C%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA) — 1199.8万
 10. [湘超半决赛娄底1:0湘潭](https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%A8%84%E5%BA%951:0%E6%B9%98%E6%BD%AD) — 1193.3万
