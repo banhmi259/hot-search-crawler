@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,7 +23,7 @@
 6. [脆脆炸鸡老板强调八百遍是做披萨的](https://s.weibo.com/weibo?q=%23%E8%84%86%E8%84%86%E7%82%B8%E9%B8%A1%E8%80%81%E6%9D%BF%E5%BC%BA%E8%B0%83%E5%85%AB%E7%99%BE%E9%81%8D%E6%98%AF%E5%81%9A%E6%8A%AB%E8%90%A8%E7%9A%84%23) — 116.4万 · 新
 7. [某部委员工与间谍合作泄密被判死刑](https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23) — 115.2万 · 新
 8. [血压130到139不再是正常血压](https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8E%8B130%E5%88%B0139%E4%B8%8D%E5%86%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%23) — 114.1万 · 新
-9. [女子第一次坐飞机就在登机口扔硬币](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%B0%B1%E5%9C%A8%E7%99%BB%E6%9C%BA%E5%8F%A3%E6%89%94%E7%A1%AC%E5%B8%81%23) — 111.3万 · 新
+9. [女子第一次坐飞机就在登机口扔硬币](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%B0%B1%E5%9C%A8%E7%99%BB%E6%9C%BA%E5%8F%A3%E6%89%94%E7%A1%AC%E5%B8%81%23) — 114万 · 新
 10. [高兴夫受贿近2亿被判死缓](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%85%B4%E5%A4%AB%E5%8F%97%E8%B4%BF%E8%BF%912%E4%BA%BF%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23) — 110.2万
 
 ### 抖音
