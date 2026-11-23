@@ -12,6 +12,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read
 
 # 不要取消在途的 Pages 部署：被取消的 deploy-pages 会在 Pages 侧留下
 # in_progress 的部署，导致后续运行持续报 "in progress deployment"。
@@ -53,6 +54,26 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: dist
+
+      - name: Wait for Pages artifact to be visible
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.run_id }}
+          REPO: ${{ github.repository }}
+        run: |
+          # GitHub 的 artifact 列表 API 存在最终一致性延迟：upload 刚 finalized 时，
+          # 紧接着的 deploy-pages 可能查到 0 条 metadata 而直接失败。
+          # 轮询同一个 API，等 github-pages artifact 可见后再部署。
+          for attempt in $(seq 1 24); do
+            count=$(gh api "repos/$REPO/actions/runs/$RUN_ID/artifacts?name=github-pages" --jq '.total_count' 2>/dev/null || echo 0)
+            if [ "${count:-0}" -ge 1 ]; then
+              echo "github-pages artifact visible after $((attempt - 1)) retries"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::github-pages artifact still not visible after 120s; GitHub artifact API may be degraded"
+          exit 1
 
       - name: Deploy to GitHub Pages
         id: deploy
