@@ -11,26 +11,26 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 06:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 07:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
-2. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-3. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
-4. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
-5. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 103.2万 · 新
+2. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 178.1万 · 新
+3. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
+4. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
+5. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
 6. [野桃直播](https://s.weibo.com/weibo?q=%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD) — 92.1万 · 新
-7. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 63.6万 · 新
-8. [李雪琴居然这么瘦了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E7%98%A6%E4%BA%86%23) — 45万 · 热
-9. [舒淇得奖冯德伦反应](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%BE%97%E5%A5%96%E5%86%AF%E5%BE%B7%E4%BC%A6%E5%8F%8D%E5%BA%94%23) — 39.7万
-10. [刘恺威为小19岁女友黎纪君庆生](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E4%B8%BA%E5%B0%8F19%E5%B2%81%E5%A5%B3%E5%8F%8B%E9%BB%8E%E7%BA%AA%E5%90%9B%E5%BA%86%E7%94%9F) — 34.6万 · 热
+7. [U17国足第99分钟被绝平](https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%AC%AC99%E5%88%86%E9%92%9F%E8%A2%AB%E7%BB%9D%E5%B9%B3) — 70.3万 · 新
+8. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 63.6万 · 新
+9. [李雪琴居然这么瘦了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E7%98%A6%E4%BA%86%23) — 45万 · 热
+10. [舒淇得奖冯德伦反应](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%BE%97%E5%A5%96%E5%86%AF%E5%BE%B7%E4%BC%A6%E5%8F%8D%E5%BA%94%23) — 39.7万
 
 ### 抖音
 
 1. [英伟达恢复黄仁勋CEO职务](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1) — 1234万
-2. [甲亢哥百米能跑赢博尔特吗](https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97) — 1211.5万
-3. [CFM沙漠灰真的下雪了](https://www.douyin.com/search/CFM%E6%B2%99%E6%BC%A0%E7%81%B0%E7%9C%9F%E7%9A%84%E4%B8%8B%E9%9B%AA%E4%BA%86) — 1210.8万
+2. [甲亢哥百米能跑赢博尔特吗](https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97) — 1213.6万
+3. [CFM沙漠灰真的下雪了](https://www.douyin.com/search/CFM%E6%B2%99%E6%BC%A0%E7%81%B0%E7%9C%9F%E7%9A%84%E4%B8%8B%E9%9B%AA%E4%BA%86) — 1212万
 4. [雪假撬动冰雪经济点燃消费引擎](https://www.douyin.com/search/%E9%9B%AA%E5%81%87%E6%92%AC%E5%8A%A8%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%82%B9%E7%87%83%E6%B6%88%E8%B4%B9%E5%BC%95%E6%93%8E) — 1155万
 5. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 1139.7万
 6. [英伟达盘前大涨30%](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A830%25) — 1104.3万
