@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,12 +19,12 @@
 2. [许昌外卖小哥一句脆脆的带火炸鸡](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1) — 152.3万 · 热
 3. [韦东奕攻克百年难题获奖](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96%23) — 128.4万 · 新
 4. [私闯果园糟蹋水果主播下架所有视频](https://s.weibo.com/weibo?q=%23%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91%23) — 125.1万 · 新
-5. [脆脆炸鸡老板强调八百遍是做披萨的](https://s.weibo.com/weibo?q=%23%E8%84%86%E8%84%86%E7%82%B8%E9%B8%A1%E8%80%81%E6%9D%BF%E5%BC%BA%E8%B0%83%E5%85%AB%E7%99%BE%E9%81%8D%E6%98%AF%E5%81%9A%E6%8A%AB%E8%90%A8%E7%9A%84%23) — 116.4万 · 新
-6. [某部委员工与间谍合作泄密被判死刑](https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23) — 115.2万 · 新
-7. [血压130到139不再是正常血压](https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8E%8B130%E5%88%B0139%E4%B8%8D%E5%86%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%23) — 114.1万 · 新
-8. [青稚直播30万人](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%9B%B4%E6%92%AD30%E4%B8%87%E4%BA%BA%23) — 109.6万 · 新
-9. [优质网络主播中国行川渝行](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%B7%9D%E6%B8%9D%E8%A1%8C%23) — 102.9万
-10. [女子第一次坐飞机就在登机口扔硬币](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%B0%B1%E5%9C%A8%E7%99%BB%E6%9C%BA%E5%8F%A3%E6%89%94%E7%A1%AC%E5%B8%81%23) — 101.9万 · 新
+5. [00后不整顿职场来整顿婚礼了](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%8D%E6%95%B4%E9%A1%BF%E8%81%8C%E5%9C%BA%E6%9D%A5%E6%95%B4%E9%A1%BF%E5%A9%9A%E7%A4%BC%E4%BA%86%23) — 117.9万 · 新
+6. [脆脆炸鸡老板强调八百遍是做披萨的](https://s.weibo.com/weibo?q=%23%E8%84%86%E8%84%86%E7%82%B8%E9%B8%A1%E8%80%81%E6%9D%BF%E5%BC%BA%E8%B0%83%E5%85%AB%E7%99%BE%E9%81%8D%E6%98%AF%E5%81%9A%E6%8A%AB%E8%90%A8%E7%9A%84%23) — 116.4万 · 新
+7. [某部委员工与间谍合作泄密被判死刑](https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23) — 115.2万 · 新
+8. [血压130到139不再是正常血压](https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8E%8B130%E5%88%B0139%E4%B8%8D%E5%86%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%23) — 114.1万 · 新
+9. [青稚直播30万人](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%9B%B4%E6%92%AD30%E4%B8%87%E4%BA%BA%23) — 109.6万 · 新
+10. [优质网络主播中国行川渝行](https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%B7%9D%E6%B8%9D%E8%A1%8C%23) — 102.9万
 
 ### 抖音
 
