@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-23 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-23 11:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [主播糟蹋千斤苹果仅赔6000元](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E8%B5%946000%E5%85%83%23) — 92.7万
 5. [樊振东1比3约内斯库](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93) — 88.4万 · 新
 6. [官方通报百万粉丝主播被指私闯果园](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8C%87%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%23) — 83.2万
-7. [央视主持人录节目假牙丢了](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86%23) — 80.1万 · 新
-8. [主播私闯果园带货系找错地点](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%BB%E6%89%BE%E9%94%99%E5%9C%B0%E7%82%B9%23) — 78.2万 · 新
-9. [一图解读我国消费市场多元图景](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF%23) — 71.6万
-10. [许昌外卖小哥一句脆脆的带火炸鸡](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1) — 62.4万
+7. [许昌外卖小哥一句脆脆的带火炸鸡](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1) — 80.4万
+8. [央视主持人录节目假牙丢了](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86%23) — 80.1万 · 新
+9. [主播私闯果园带货系找错地点](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%BB%E6%89%BE%E9%94%99%E5%9C%B0%E7%82%B9%23) — 78.2万 · 新
+10. [一图解读我国消费市场多元图景](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF%23) — 71.6万
 
 ### 抖音
 
