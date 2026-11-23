@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-23T21:24:18.55945553+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-23T21:24:19.582796292+08:00",
+      "elapsed_ms": 1022,
+      "items": [
+        {
+          "rank": 1,
+          "title": "treetree炸鸡店老板最新发声",
+          "url": "https://s.weibo.com/weibo?q=%23treetree%E7%82%B8%E9%B8%A1%E5%BA%97%E8%80%81%E6%9D%BF%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23",
+          "hot": 1569350,
+          "tag": "热"
+        },
+        {
+          "rank": 2,
+          "title": "晚自习倒地猝死女教师多次说好累",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%9A%E8%87%AA%E4%B9%A0%E5%80%92%E5%9C%B0%E7%8C%9D%E6%AD%BB%E5%A5%B3%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E8%AF%B4%E5%A5%BD%E7%B4%AF%23",
+          "hot": 943853,
+          "tag": "新"
+        },
+        {
+          "rank": 3,
+          "title": "开放的中国促合作共成长",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%83%E5%90%88%E4%BD%9C%E5%85%B1%E6%88%90%E9%95%BF%23",
+          "hot": 716895,
+          "tag": "新"
+        },
+        {
+          "rank": 4,
+          "title": "treetree炸鸡一天出油三四桶",
+          "url": "https://s.weibo.com/weibo?q=%23treetree%E7%82%B8%E9%B8%A1%E4%B8%80%E5%A4%A9%E5%87%BA%E6%B2%B9%E4%B8%89%E5%9B%9B%E6%A1%B6%23",
+          "hot": 648546,
+          "tag": "新"
+        },
+        {
+          "rank": 5,
+          "title": "白小纯在青稚粉丝团里",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9C%A8%E9%9D%92%E7%A8%9A%E7%B2%89%E4%B8%9D%E5%9B%A2%E9%87%8C%23",
+          "hot": 570614
+        },
+        {
+          "rank": 6,
+          "title": "特朗普出席活动展示深圳接机画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E5%B1%95%E7%A4%BA%E6%B7%B1%E5%9C%B3%E6%8E%A5%E6%9C%BA%E7%94%BB%E9%9D%A2%23",
+          "hot": 518130,
+          "tag": "新"
+        },
+        {
+          "rank": 7,
+          "title": "30岁女教师晚自习时倒地猝死",
+          "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E6%99%9A%E8%87%AA%E4%B9%A0%E6%97%B6%E5%80%92%E5%9C%B0%E7%8C%9D%E6%AD%BB%23",
+          "hot": 452792,
+          "tag": "新"
+        },
+        {
+          "rank": 8,
+          "title": "女子第一次坐飞机就在登机口扔硬币",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%B0%B1%E5%9C%A8%E7%99%BB%E6%9C%BA%E5%8F%A3%E6%89%94%E7%A1%AC%E5%B8%81%23",
+          "hot": 363631
+        },
+        {
+          "rank": 9,
+          "title": "维嘉头也不回地去找王菲了",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E5%98%89%E5%A4%B4%E4%B9%9F%E4%B8%8D%E5%9B%9E%E5%9C%B0%E5%8E%BB%E6%89%BE%E7%8E%8B%E8%8F%B2%E4%BA%86",
+          "hot": 298864
+        },
+        {
+          "rank": 10,
+          "title": "两京十五日",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5",
+          "hot": 298861,
+          "tag": "新"
+        },
+        {
+          "rank": 11,
+          "title": "李雪琴居然这么瘦了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E7%98%A6%E4%BA%86%23",
+          "hot": 298848,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "刘恺威为小19岁女友黎纪君庆生",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E4%B8%BA%E5%B0%8F19%E5%B2%81%E5%A5%B3%E5%8F%8B%E9%BB%8E%E7%BA%AA%E5%90%9B%E5%BA%86%E7%94%9F",
+          "hot": 298835,
+          "tag": "新"
+        },
+        {
+          "rank": 13,
+          "title": "嫪毐可能不是男宠",
+          "url": "https://s.weibo.com/weibo?q=%E5%AB%AA%E6%AF%90%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E7%94%B7%E5%AE%A0",
+          "hot": 298813
+        },
+        {
+          "rank": 14,
+          "title": "马天宇给张萌偷偷递台阶",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%BB%99%E5%BC%A0%E8%90%8C%E5%81%B7%E5%81%B7%E9%80%92%E5%8F%B0%E9%98%B6%23",
+          "hot": 298812,
+          "tag": "新"
+        },
+        {
+          "rank": 15,
+          "title": "白小纯怎么帅成这样了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%80%8E%E4%B9%88%E5%B8%85%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23",
+          "hot": 262985
+        },
+        {
+          "rank": 16,
+          "title": "我的有罪之人",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA",
+          "hot": 247514
+        },
+        {
+          "rank": 17,
+          "title": "许飞演的坐月子",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%BC%94%E7%9A%84%E5%9D%90%E6%9C%88%E5%AD%90",
+          "hot": 245593,
+          "tag": "新"
+        },
+        {
+          "rank": 18,
+          "title": "白小纯今晚直播",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E4%BB%8A%E6%99%9A%E7%9B%B4%E6%92%AD%23",
+          "hot": 241248,
+          "tag": "新"
+        },
+        {
+          "rank": 19,
+          "title": "蔡磊悼念原京东首席战略官廖建文",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E6%82%BC%E5%BF%B5%E5%8E%9F%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%B8%AD%E6%88%98%E7%95%A5%E5%AE%98%E5%BB%96%E5%BB%BA%E6%96%87%23",
+          "hot": 241066,
+          "tag": "新"
+        },
+        {
+          "rank": 20,
+          "title": "工位毕业老板再见",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%8D%E6%AF%95%E4%B8%9A%E8%80%81%E6%9D%BF%E5%86%8D%E8%A7%81%23",
+          "hot": 239936,
+          "tag": "新"
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-23T21:24:19.802665779+08:00",
+      "elapsed_ms": 1242,
+      "items": [
+        {
+          "rank": 1,
+          "title": "严肃进入舒服过冬模式",
+          "url": "https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F",
+          "hot": 11537571,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795405254,
+            "sentence_id": "2759706",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 2,
+          "title": "万吨大驱将首次面向公众开放",
+          "url": "https://www.douyin.com/search/%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BC%80%E6%94%BE",
+          "hot": 11352595,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795403792,
+            "sentence_id": "2759659",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 3,
+          "title": "雪假撬动冰雪经济点燃消费引擎",
+          "url": "https://www.douyin.com/search/%E9%9B%AA%E5%81%87%E6%92%AC%E5%8A%A8%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%82%B9%E7%87%83%E6%B6%88%E8%B4%B9%E5%BC%95%E6%93%8E",
+          "hot": 11126008,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795436339,
+            "label": 1,
+            "sentence_id": "2760653",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
+          "title": "2027国考今起可打印准考证",
+          "url": "https://www.douyin.com/search/2027%E5%9B%BD%E8%80%83%E4%BB%8A%E8%B5%B7%E5%8F%AF%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81",
+          "hot": 10852718,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795392821,
+            "label": 3,
+            "sentence_id": "2759410",
+            "video_count": 7
+          }
+        },
+        {
+          "rank": 5,
+          "title": "斯塔德迈尔宣誓入职警局",
+          "url": "https://www.douyin.com/search/%E6%96%AF%E5%A1%94%E5%BE%B7%E8%BF%88%E5%B0%94%E5%AE%A3%E8%AA%93%E5%85%A5%E8%81%8C%E8%AD%A6%E5%B1%80",
+          "hot": 9801767,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795435307,
+            "label": 1,
+            "sentence_id": "2760630",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 6,
+          "title": "长江商学院原副院长廖建文离世",
+          "url": "https://www.douyin.com/search/%E9%95%BF%E6%B1%9F%E5%95%86%E5%AD%A6%E9%99%A2%E5%8E%9F%E5%89%AF%E9%99%A2%E9%95%BF%E5%BB%96%E5%BB%BA%E6%96%87%E7%A6%BB%E4%B8%96",
+          "hot": 9735597,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795407074,
+            "sentence_id": "2759772",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 7,
+          "title": "“一老一小”服务实施方案公布",
+          "url": "https://www.douyin.com/search/%E2%80%9C%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E2%80%9D%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E5%85%AC%E5%B8%83",
+          "hot": 8696810,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795400598,
+            "sentence_id": "2759574",
+            "video_count": 8
+          }
+        },
+        {
+          "rank": 8,
+          "title": "海军多型舰机将亮相珠海航展",
+          "url": "https://www.douyin.com/search/%E6%B5%B7%E5%86%9B%E5%A4%9A%E5%9E%8B%E8%88%B0%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95",
+          "hot": 8271161,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795399459,
+            "sentence_id": "2759522",
+            "video_count": 12
+          }
+        },
+        {
+          "rank": 9,
+          "title": "掘金加时胜公牛",
+          "url": "https://www.douyin.com/search/%E6%8E%98%E9%87%91%E5%8A%A0%E6%97%B6%E8%83%9C%E5%85%AC%E7%89%9B",
+          "hot": 7981755,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795402290,
+            "sentence_id": "2759629",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 10,
+          "title": "荥阳花80元吃八碗太顶了",
+          "url": "https://www.douyin.com/search/%E8%8D%A5%E9%98%B3%E8%8A%B180%E5%85%83%E5%90%83%E5%85%AB%E7%A2%97%E5%A4%AA%E9%A1%B6%E4%BA%86",
+          "hot": 7949477,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795421775,
+            "sentence_id": "2760245",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 11,
+          "title": "黄河源头一小步就能跨过",
+          "url": "https://www.douyin.com/search/%E9%BB%84%E6%B2%B3%E6%BA%90%E5%A4%B4%E4%B8%80%E5%B0%8F%E6%AD%A5%E5%B0%B1%E8%83%BD%E8%B7%A8%E8%BF%87",
+          "hot": 7829486,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795419269,
+            "sentence_id": "2760166",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 12,
+          "title": "黎曼猜想是什么",
+          "url": "https://www.douyin.com/search/%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%98%AF%E4%BB%80%E4%B9%88",
+          "hot": 7814560,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795349449,
+            "sentence_id": "2759213",
+            "video_count": 11
+          }
+        },
+        {
+          "rank": 13,
+          "title": "勇士险胜凯尔特人",
+          "url": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB%E9%99%A9%E8%83%9C%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA",
+          "hot": 7743457,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795407596,
+            "sentence_id": "2759784",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 14,
+          "title": "我和斗破的故事",
+          "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E6%96%97%E7%A0%B4%E7%9A%84%E6%95%85%E4%BA%8B",
+          "hot": 7739635,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795341514,
+            "label": 17,
+            "sentence_id": "2759066",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 15,
+          "title": "看ok了老铁们感性了",
+          "url": "https://www.douyin.com/search/%E7%9C%8Bok%E4%BA%86%E8%80%81%E9%93%81%E4%BB%AC%E6%84%9F%E6%80%A7%E4%BA%86",
+          "hot": 7732527,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795418771,
+            "label": 8,
+            "sentence_id": "2760141",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 16,
+          "title": "遍地都是小狐狸套装",
+          "url": "https://www.douyin.com/search/%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E5%B0%8F%E7%8B%90%E7%8B%B8%E5%A5%97%E8%A3%85",
+          "hot": 7727060,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795427062,
+            "label": 17,
+            "sentence_id": "2760480",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 17,
+          "title": "kissmysoul手势舞挑战",
+          "url": "https://www.douyin.com/search/kissmysoul%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98",
+          "hot": 7720767,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795318511,
+            "label": 9,
+            "sentence_id": "2758460",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 18,
+          "title": "18只主动ETF今日上市",
+          "url": "https://www.douyin.com/search/18%E5%8F%AA%E4%B8%BB%E5%8A%A8ETF%E4%BB%8A%E6%97%A5%E4%B8%8A%E5%B8%82",
+          "hot": 7718285,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795405786,
+            "sentence_id": "2759739",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 19,
+          "title": "跟随成毅看归京之路如何破局",
+          "url": "https://www.douyin.com/search/%E8%B7%9F%E9%9A%8F%E6%88%90%E6%AF%85%E7%9C%8B%E5%BD%92%E4%BA%AC%E4%B9%8B%E8%B7%AF%E5%A6%82%E4%BD%95%E7%A0%B4%E5%B1%80",
+          "hot": 7711931,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795425353,
+            "label": 8,
+            "sentence_id": "2760421",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 20,
+          "title": "两京十五日背后的历史背景",
+          "url": "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%83%8C%E6%99%AF",
+          "hot": 7711404,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795416826,
+            "sentence_id": "2760052",
+            "video_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-23T21:24:18.991067112+08:00",
+      "elapsed_ms": 431,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}
