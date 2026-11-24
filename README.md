@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
 5. [男主台词不带字幕一个字都听不清](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E5%8F%B0%E8%AF%8D%E4%B8%8D%E5%B8%A6%E5%AD%97%E5%B9%95%E4%B8%80%E4%B8%AA%E5%AD%97%E9%83%BD%E5%90%AC%E4%B8%8D%E6%B8%85%23) — 121.4万 · 新
 6. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-7. [深圳感谢市民全妆出街](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%84%9F%E8%B0%A2%E5%B8%82%E6%B0%91%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%23) — 112.9万 · 新
-8. [央视披露四川雅安无名女尸悬案](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E6%97%A0%E5%90%8D%E5%A5%B3%E5%B0%B8%E6%82%AC%E6%A1%88%23) — 111.5万 · 新
-9. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
-10. [白小纯真的交了很多好朋友](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E4%BA%A4%E4%BA%86%E5%BE%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%23) — 111.2万 · 新
+7. [上海地铁回应大爷抵脖子不放小伙倒地](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23) — 116.8万 · 新
+8. [深圳感谢市民全妆出街](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%84%9F%E8%B0%A2%E5%B8%82%E6%B0%91%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%23) — 112.9万 · 新
+9. [央视披露四川雅安无名女尸悬案](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E6%97%A0%E5%90%8D%E5%A5%B3%E5%B0%B8%E6%82%AC%E6%A1%88%23) — 111.5万 · 新
+10. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
 
 ### 抖音
 
