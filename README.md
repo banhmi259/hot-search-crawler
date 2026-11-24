@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
-2. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 264.2万 · 新
-3. [白小纯 我赚够了](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E6%88%91%E8%B5%9A%E5%A4%9F%E4%BA%86) — 183.4万 · 新
-4. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
-5. [男主台词不带字幕一个字都听不清](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E5%8F%B0%E8%AF%8D%E4%B8%8D%E5%B8%A6%E5%AD%97%E5%B9%95%E4%B8%80%E4%B8%AA%E5%AD%97%E9%83%BD%E5%90%AC%E4%B8%8D%E6%B8%85%23) — 121.4万 · 新
-6. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-7. [上海地铁回应大爷抵脖子不放小伙倒地](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23) — 116.8万 · 新
-8. [深圳感谢市民全妆出街](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%84%9F%E8%B0%A2%E5%B8%82%E6%B0%91%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%23) — 112.9万 · 新
-9. [央视披露四川雅安无名女尸悬案](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E6%97%A0%E5%90%8D%E5%A5%B3%E5%B0%B8%E6%82%AC%E6%A1%88%23) — 111.5万 · 新
-10. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
+1. [陈吉宁被查](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%23) — 969.5万 · 爆
+2. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
+3. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 264.2万 · 新
+4. [白小纯 我赚够了](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E6%88%91%E8%B5%9A%E5%A4%9F%E4%BA%86) — 183.4万 · 新
+5. [19楼落地窗底部装无限位外凸窗](https://s.weibo.com/weibo?q=%2319%E6%A5%BC%E8%90%BD%E5%9C%B0%E7%AA%97%E5%BA%95%E9%83%A8%E8%A3%85%E6%97%A0%E9%99%90%E4%BD%8D%E5%A4%96%E5%87%B8%E7%AA%97%23) — 171.9万 · 新
+6. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
+7. [绿色智引擎驱动低碳出海](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%89%B2%E6%99%BA%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E5%87%BA%E6%B5%B7%23) — 135.6万 · 新
+8. [男主台词不带字幕一个字都听不清](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E5%8F%B0%E8%AF%8D%E4%B8%8D%E5%B8%A6%E5%AD%97%E5%B9%95%E4%B8%80%E4%B8%AA%E5%AD%97%E9%83%BD%E5%90%AC%E4%B8%8D%E6%B8%85%23) — 121.4万 · 新
+9. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
+10. [上海地铁回应大爷抵脖子不放小伙倒地](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23) — 116.8万 · 新
 
 ### 抖音
 
 1. [英伟达恢复黄仁勋CEO职务](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1) — 1234万
-2. [U17中国男足2:2战平摩洛哥](https://www.douyin.com/search/U17%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B32:2%E6%88%98%E5%B9%B3%E6%91%A9%E6%B4%9B%E5%93%A5) — 1214.7万
-3. [英伟达暴涨超31%创纪录](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9A%B4%E6%B6%A8%E8%B6%8531%25%E5%88%9B%E7%BA%AA%E5%BD%95) — 1214万
-4. [甲亢哥百米能跑赢博尔特吗](https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97) — 1213.6万
-5. [CFM沙漠灰真的下雪了](https://www.douyin.com/search/CFM%E6%B2%99%E6%BC%A0%E7%81%B0%E7%9C%9F%E7%9A%84%E4%B8%8B%E9%9B%AA%E4%BA%86) — 1212万
-6. [雪假撬动冰雪经济点燃消费引擎](https://www.douyin.com/search/%E9%9B%AA%E5%81%87%E6%92%AC%E5%8A%A8%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%82%B9%E7%87%83%E6%B6%88%E8%B4%B9%E5%BC%95%E6%93%8E) — 1210.7万
-7. [神二十四乘组名单公布](https://www.douyin.com/search/%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83) — 1194.6万
-8. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1191.9万
-9. [各地优化住房公积金政策](https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E4%BC%98%E5%8C%96%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96) — 1177.7万
-10. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 1139.7万
+2. [上海市委书记陈吉宁被查](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5) — 1215万
+3. [U17中国男足2:2战平摩洛哥](https://www.douyin.com/search/U17%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B32:2%E6%88%98%E5%B9%B3%E6%91%A9%E6%B4%9B%E5%93%A5) — 1214.7万
+4. [英伟达暴涨超31%创纪录](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9A%B4%E6%B6%A8%E8%B6%8531%25%E5%88%9B%E7%BA%AA%E5%BD%95) — 1214万
+5. [甲亢哥百米能跑赢博尔特吗](https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97) — 1213.6万
+6. [CFM沙漠灰真的下雪了](https://www.douyin.com/search/CFM%E6%B2%99%E6%BC%A0%E7%81%B0%E7%9C%9F%E7%9A%84%E4%B8%8B%E9%9B%AA%E4%BA%86) — 1212万
+7. [雪假撬动冰雪经济点燃消费引擎](https://www.douyin.com/search/%E9%9B%AA%E5%81%87%E6%92%AC%E5%8A%A8%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%82%B9%E7%87%83%E6%B6%88%E8%B4%B9%E5%BC%95%E6%93%8E) — 1210.7万
+8. [神二十四乘组名单公布](https://www.douyin.com/search/%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83) — 1194.6万
+9. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1191.9万
+10. [各地优化住房公积金政策](https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E4%BC%98%E5%8C%96%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96) — 1177.7万
 
 ### 小红书
 
