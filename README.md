@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
 2. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 264.2万 · 新
 3. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-4. [白小纯真的交了很多好朋友](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E4%BA%A4%E4%BA%86%E5%BE%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%23) — 111.2万 · 新
-5. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
-6. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
-7. [白小纯直播的礼物](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9B%B4%E6%92%AD%E7%9A%84%E7%A4%BC%E7%89%A9%23) — 105.8万 · 新
-8. [黄仁勋重返公司没有穿黑色皮衣](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E6%B2%A1%E6%9C%89%E7%A9%BF%E9%BB%91%E8%89%B2%E7%9A%AE%E8%A1%A3%23) — 101.3万 · 新
-9. [野桃直播](https://s.weibo.com/weibo?q=%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD) — 92.1万 · 新
-10. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 84.9万 · 新
+4. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
+5. [白小纯真的交了很多好朋友](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E4%BA%A4%E4%BA%86%E5%BE%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%23) — 111.2万 · 新
+6. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
+7. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
+8. [白小纯直播的礼物](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9B%B4%E6%92%AD%E7%9A%84%E7%A4%BC%E7%89%A9%23) — 105.8万 · 新
+9. [黄仁勋重返公司没有穿黑色皮衣](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E6%B2%A1%E6%9C%89%E7%A9%BF%E9%BB%91%E8%89%B2%E7%9A%AE%E8%A1%A3%23) — 101.3万 · 新
+10. [野桃直播](https://s.weibo.com/weibo?q=%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD) — 92.1万 · 新
 
 ### 抖音
 
@@ -34,10 +34,10 @@
 4. [甲亢哥百米能跑赢博尔特吗](https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97) — 1213.6万
 5. [CFM沙漠灰真的下雪了](https://www.douyin.com/search/CFM%E6%B2%99%E6%BC%A0%E7%81%B0%E7%9C%9F%E7%9A%84%E4%B8%8B%E9%9B%AA%E4%BA%86) — 1212万
 6. [雪假撬动冰雪经济点燃消费引擎](https://www.douyin.com/search/%E9%9B%AA%E5%81%87%E6%92%AC%E5%8A%A8%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%82%B9%E7%87%83%E6%B6%88%E8%B4%B9%E5%BC%95%E6%93%8E) — 1210.7万
-7. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 1139.7万
-8. [英伟达盘前大涨30%](https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A830%25) — 1104.3万
-9. [长江商学院原副院长廖建文离世](https://www.douyin.com/search/%E9%95%BF%E6%B1%9F%E5%95%86%E5%AD%A6%E9%99%A2%E5%8E%9F%E5%89%AF%E9%99%A2%E9%95%BF%E5%BB%96%E5%BB%BA%E6%96%87%E7%A6%BB%E4%B8%96) — 1038.9万
-10. [霸王别姬糖葫芦版](https://www.douyin.com/search/%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E7%B3%96%E8%91%AB%E8%8A%A6%E7%89%88) — 1030.8万
+7. [神二十四乘组名单公布](https://www.douyin.com/search/%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83) — 1194.6万
+8. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1191.9万
+9. [各地优化住房公积金政策](https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E4%BC%98%E5%8C%96%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96) — 1177.7万
+10. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 1139.7万
 
 ### 小红书
 
