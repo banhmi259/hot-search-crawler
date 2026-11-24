@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-25 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-25 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,9 +20,9 @@
 3. [神24出征续写航天荣光](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E5%87%BA%E5%BE%81%E7%BB%AD%E5%86%99%E8%88%AA%E5%A4%A9%E8%8D%A3%E5%85%89%23) — 66.8万
 4. [旺仔牛奶更不好卖了](https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E7%89%9B%E5%A5%B6%E6%9B%B4%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86%23) — 64.2万
 5. [情侣包间求婚服务员推门打断要纸箱](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%8C%85%E9%97%B4%E6%B1%82%E5%A9%9A%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8E%A8%E9%97%A8%E6%89%93%E6%96%AD%E8%A6%81%E7%BA%B8%E7%AE%B1%23) — 52.5万 · 新
-6. [白小纯喊了青稚就回来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%96%8A%E4%BA%86%E9%9D%92%E7%A8%9A%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23) — 39.3万 · 新
-7. [女子被骗花1400万囤300件低价水晶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97%E8%8A%B11400%E4%B8%87%E5%9B%A4300%E4%BB%B6%E4%BD%8E%E4%BB%B7%E6%B0%B4%E6%99%B6%23) — 38.5万 · 新
-8. [王牌对王牌第十季阵容](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E7%AC%AC%E5%8D%81%E5%AD%A3%E9%98%B5%E5%AE%B9%23) — 30.7万 · 新
+6. [王牌对王牌第十季阵容](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E7%AC%AC%E5%8D%81%E5%AD%A3%E9%98%B5%E5%AE%B9%23) — 39.4万 · 新
+7. [白小纯喊了青稚就回来了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%96%8A%E4%BA%86%E9%9D%92%E7%A8%9A%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23) — 39.3万 · 新
+8. [女子被骗花1400万囤300件低价水晶](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97%E8%8A%B11400%E4%B8%87%E5%9B%A4300%E4%BB%B6%E4%BD%8E%E4%BB%B7%E6%B0%B4%E6%99%B6%23) — 38.5万 · 新
 9. [黄磊真空围裙](https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E7%9C%9F%E7%A9%BA%E5%9B%B4%E8%A3%99) — 29.2万 · 热
 10. [黄奕女儿说你都能当艺人为啥我不行](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%BD%A0%E9%83%BD%E8%83%BD%E5%BD%93%E8%89%BA%E4%BA%BA%E4%B8%BA%E5%95%A5%E6%88%91%E4%B8%8D%E8%A1%8C) — 28.1万 · 热
 
@@ -31,10 +31,10 @@
 1. [上海市委书记陈吉宁被查](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5) — 1181.3万
 2. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1135.9万
 3. [神二十四乘组名单公布](https://www.douyin.com/search/%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83) — 1120.3万
-4. [数字经济正成为用电增长新引擎](https://www.douyin.com/search/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%88%90%E4%B8%BA%E7%94%A8%E7%94%B5%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E) — 1103万
-5. [田秉毅出任国羽主教练](https://www.douyin.com/search/%E7%94%B0%E7%A7%89%E6%AF%85%E5%87%BA%E4%BB%BB%E5%9B%BD%E7%BE%BD%E4%B8%BB%E6%95%99%E7%BB%83) — 1030.5万
-6. [欧冠曼城vs那不勒斯](https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%9B%BC%E5%9F%8Evs%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF) — 1027.1万
-7. [上海海港3:1武里南联](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF3:1%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94) — 1018.4万
+4. [数字经济正成为用电增长新引擎](https://www.douyin.com/search/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%88%90%E4%B8%BA%E7%94%A8%E7%94%B5%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E) — 1115.4万
+5. [上海海港3:1武里南联](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF3:1%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94) — 1046.1万
+6. [欧冠曼城vs那不勒斯](https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E6%9B%BC%E5%9F%8Evs%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF) — 1035.8万
+7. [田秉毅出任国羽主教练](https://www.douyin.com/search/%E7%94%B0%E7%A7%89%E6%AF%85%E5%87%BA%E4%BB%BB%E5%9B%BD%E7%BE%BD%E4%B8%BB%E6%95%99%E7%BB%83) — 1030.5万
 8. [这个日常妆值得焊在脸上](https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E6%97%A5%E5%B8%B8%E5%A6%86%E5%80%BC%E5%BE%97%E7%84%8A%E5%9C%A8%E8%84%B8%E4%B8%8A) — 1004.6万
 9. [普通人秋冬有效穿搭](https://www.douyin.com/search/%E6%99%AE%E9%80%9A%E4%BA%BA%E7%A7%8B%E5%86%AC%E6%9C%89%E6%95%88%E7%A9%BF%E6%90%AD) — 918.8万
 10. [抖音正式进入光影氛围时代](https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%85%89%E5%BD%B1%E6%B0%9B%E5%9B%B4%E6%97%B6%E4%BB%A3) — 916.9万
