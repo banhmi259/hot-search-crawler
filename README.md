@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 11:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 12:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
 2. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 264.2万 · 新
 3. [白小纯 我赚够了](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E6%88%91%E8%B5%9A%E5%A4%9F%E4%BA%86) — 183.4万 · 新
-4. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-5. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
-6. [白小纯真的交了很多好朋友](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E4%BA%A4%E4%BA%86%E5%BE%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%23) — 111.2万 · 新
-7. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
-8. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
-9. [白小纯直播的礼物](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9B%B4%E6%92%AD%E7%9A%84%E7%A4%BC%E7%89%A9%23) — 105.8万 · 新
-10. [黄仁勋重返公司没有穿黑色皮衣](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E6%B2%A1%E6%9C%89%E7%A9%BF%E9%BB%91%E8%89%B2%E7%9A%AE%E8%A1%A3%23) — 101.3万 · 新
+4. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
+5. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
+6. [34米路仅12秒绿灯已调整为28秒](https://s.weibo.com/weibo?q=%2334%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92%23) — 111.4万 · 新
+7. [白小纯真的交了很多好朋友](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E4%BA%A4%E4%BA%86%E5%BE%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%23) — 111.2万 · 新
+8. [E法同行向上向海](https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23) — 109万
+9. [青稚一直道歉的原因](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E4%B8%80%E7%9B%B4%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23) — 108.1万 · 新
+10. [白小纯直播的礼物](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9B%B4%E6%92%AD%E7%9A%84%E7%A4%BC%E7%89%A9%23) — 105.8万 · 新
 
 ### 抖音
 
