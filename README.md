@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-24 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-24 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [陈吉宁被查](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%23) — 969.5万 · 爆
 2. [黄仁勋恢复英伟达CEO职务](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1) — 278.8万 · 沸
 3. [黄仁勋复职原因](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23) — 264.2万 · 新
-4. [白小纯 我赚够了](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E6%88%91%E8%B5%9A%E5%A4%9F%E4%BA%86) — 183.4万 · 新
-5. [19楼落地窗底部装无限位外凸窗](https://s.weibo.com/weibo?q=%2319%E6%A5%BC%E8%90%BD%E5%9C%B0%E7%AA%97%E5%BA%95%E9%83%A8%E8%A3%85%E6%97%A0%E9%99%90%E4%BD%8D%E5%A4%96%E5%87%B8%E7%AA%97%23) — 171.9万 · 新
-6. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
-7. [绿色智引擎驱动低碳出海](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%89%B2%E6%99%BA%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E5%87%BA%E6%B5%B7%23) — 135.6万 · 新
-8. [男主台词不带字幕一个字都听不清](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E5%8F%B0%E8%AF%8D%E4%B8%8D%E5%B8%A6%E5%AD%97%E5%B9%95%E4%B8%80%E4%B8%AA%E5%AD%97%E9%83%BD%E5%90%AC%E4%B8%8D%E6%B8%85%23) — 121.4万 · 新
-9. [特朗普把抵达深圳照片打印出来了](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23) — 116.9万 · 热
-10. [上海地铁回应大爷抵脖子不放小伙倒地](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0%23) — 116.8万 · 新
+4. [陈吉宁被查上海表态](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81%23) — 237.6万 · 新
+5. [白小纯 我赚够了](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E6%88%91%E8%B5%9A%E5%A4%9F%E4%BA%86) — 183.4万 · 新
+6. [19楼落地窗底部装无限位外凸窗](https://s.weibo.com/weibo?q=%2319%E6%A5%BC%E8%90%BD%E5%9C%B0%E7%AA%97%E5%BA%95%E9%83%A8%E8%A3%85%E6%97%A0%E9%99%90%E4%BD%8D%E5%A4%96%E5%87%B8%E7%AA%97%23) — 171.9万 · 新
+7. [巴基斯坦航天员普通话自我介绍](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) — 146.6万 · 新
+8. [绿色智引擎驱动低碳出海](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%89%B2%E6%99%BA%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E5%87%BA%E6%B5%B7%23) — 146.4万 · 新
+9. [男主台词不带字幕一个字都听不清](https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E5%8F%B0%E8%AF%8D%E4%B8%8D%E5%B8%A6%E5%AD%97%E5%B9%95%E4%B8%80%E4%B8%AA%E5%AD%97%E9%83%BD%E5%90%AC%E4%B8%8D%E6%B8%85%23) — 121.4万 · 新
+10. [特朗普对一道中国菜念念不忘](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23) — 118.3万 · 新
 
 ### 抖音
 
