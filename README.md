@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 03:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 04:13**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -36,8 +36,8 @@
 6. [熟悉的北京明白再次响起](https://www.douyin.com/search/%E7%86%9F%E6%82%89%E7%9A%84%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD%E5%86%8D%E6%AC%A1%E5%93%8D%E8%B5%B7) — 1038.1万
 7. [冰铲铲师傅有求必应](https://www.douyin.com/search/%E5%86%B0%E9%93%B2%E9%93%B2%E5%B8%88%E5%82%85%E6%9C%89%E6%B1%82%E5%BF%85%E5%BA%94) — 1034.2万
 8. [85秒回顾神24发射](https://www.douyin.com/search/85%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84) — 1033.4万
-9. [电竞明星选手为何火了](https://www.douyin.com/search/%E7%94%B5%E7%AB%9E%E6%98%8E%E6%98%9F%E9%80%89%E6%89%8B%E4%B8%BA%E4%BD%95%E7%81%AB%E4%BA%86) — 925.2万
-10. [同频朋友是最好的生日礼物](https://www.douyin.com/search/%E5%90%8C%E9%A2%91%E6%9C%8B%E5%8F%8B%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9) — 923.7万
+9. [真正好吃的小破店在民间](https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E5%A5%BD%E5%90%83%E7%9A%84%E5%B0%8F%E7%A0%B4%E5%BA%97%E5%9C%A8%E6%B0%91%E9%97%B4) — 1026.1万
+10. [电竞明星选手为何火了](https://www.douyin.com/search/%E7%94%B5%E7%AB%9E%E6%98%8E%E6%98%9F%E9%80%89%E6%89%8B%E4%B8%BA%E4%BD%95%E7%81%AB%E4%BA%86) — 925.2万
 
 ### 小红书
 
