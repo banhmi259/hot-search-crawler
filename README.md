@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-25 23:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 00:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [可口可乐不再标生产日期](https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%23) — 286.6万 · 新
-2. [天霸 体坛](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8+%E4%BD%93%E5%9D%9B) — 250.7万 · 新
-3. [巴基斯坦航天员手指国旗向镜头敬礼](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%89%8B%E6%8C%87%E5%9B%BD%E6%97%97%E5%90%91%E9%95%9C%E5%A4%B4%E6%95%AC%E7%A4%BC%23) — 199.7万 · 新
-4. [弟弟为独吞133万遗产翻脸不认姐姐](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90%23) — 185.1万 · 新
-5. [神舟24号发射](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F24%E5%8F%B7%E5%8F%91%E5%B0%84%23) — 176.1万 · 新
-6. [演员好像忘记自己中箭了](https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E5%A5%BD%E5%83%8F%E5%BF%98%E8%AE%B0%E8%87%AA%E5%B7%B1%E4%B8%AD%E7%AE%AD%E4%BA%86) — 170.8万 · 新
-7. [还有什么是红果短剧不敢编的](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E4%B8%8D%E6%95%A2%E7%BC%96%E7%9A%84%23) — 137.3万 · 新
-8. [巴基斯坦航天员舱内笔下不停](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%86%85%E7%AC%94%E4%B8%8B%E4%B8%8D%E5%81%9C%23) — 133万 · 新
-9. [青春有你3](https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A03) — 124.6万 · 新
-10. [亚太合作鹏程万里](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23) — 118.7万 · 新
+1. [华为自研HBM内存方案](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88) — 85.4万
+2. [最帅保洁大叔宣布辞职](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%B8%85%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23) — 61.3万
+3. [神24乘组进驻天宫](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23) — 61万
+4. [谷爱凌肩膀脱臼](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC%23) — 60.2万
+5. [朱亚文版朱瞻基](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA) — 59.3万 · 剧集
+6. [许飞乐意看厉娜哭还有后半句](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%B9%90%E6%84%8F%E7%9C%8B%E5%8E%89%E5%A8%9C%E5%93%AD%E8%BF%98%E6%9C%89%E5%90%8E%E5%8D%8A%E5%8F%A5) — 58.9万 · 新
+7. [当Bin听到Zeus回归T1](https://s.weibo.com/weibo?q=%23%E5%BD%93Bin%E5%90%AC%E5%88%B0Zeus%E5%9B%9E%E5%BD%92T1%23) — 58.5万 · 新
+8. [青龙奖](https://s.weibo.com/weibo?q=%E9%9D%92%E9%BE%99%E5%A5%96) — 57.4万 · 盛典
+9. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 56.7万
+10. [住3平米楼梯间女子称通勤10分钟](https://s.weibo.com/weibo?q=%23%E4%BD%8F3%E5%B9%B3%E7%B1%B3%E6%A5%BC%E6%A2%AF%E9%97%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%9A%E5%8B%A410%E5%88%86%E9%92%9F%23) — 56.3万
 
 ### 抖音
 
-1. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1217.5万
-2. [85秒回顾神24发射](https://www.douyin.com/search/85%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84) — 1211万
-3. [神舟二十四号发射升空](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA) — 1209.4万
-4. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1205.7万
-5. [这个日常妆值得焊在脸上](https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E6%97%A5%E5%B8%B8%E5%A6%86%E5%80%BC%E5%BE%97%E7%84%8A%E5%9C%A8%E8%84%B8%E4%B8%8A) — 1199.4万
-6. [田秉毅出任国羽主教练](https://www.douyin.com/search/%E7%94%B0%E7%A7%89%E6%AF%85%E5%87%BA%E4%BB%BB%E5%9B%BD%E7%BE%BD%E4%B8%BB%E6%95%99%E7%BB%83) — 1185.5万
-7. [上海市委书记陈吉宁被查](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5) — 1181.3万
-8. [数字经济正成为用电增长新引擎](https://www.douyin.com/search/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%88%90%E4%B8%BA%E7%94%A8%E7%94%B5%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E) — 1168.4万
-9. [上海海港3:1武里南联](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF3:1%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94) — 1164.1万
-10. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1158.5万
+1. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1194.6万
+2. [挖着吃的草莓桶蛋糕更好吃](https://www.douyin.com/search/%E6%8C%96%E7%9D%80%E5%90%83%E7%9A%84%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83) — 1103.8万
+3. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1099.1万
+4. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1098万
+5. [85秒回顾神24发射](https://www.douyin.com/search/85%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84) — 1033.4万
+6. [冷都女氛围感搭配技巧](https://www.douyin.com/search/%E5%86%B7%E9%83%BD%E5%A5%B3%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%90%AD%E9%85%8D%E6%8A%80%E5%B7%A7) — 1028.7万
+7. [冰铲铲师傅有求必应](https://www.douyin.com/search/%E5%86%B0%E9%93%B2%E9%93%B2%E5%B8%88%E5%82%85%E6%9C%89%E6%B1%82%E5%BF%85%E5%BA%94) — 919.8万
+8. [电竞明星选手为何火了](https://www.douyin.com/search/%E7%94%B5%E7%AB%9E%E6%98%8E%E6%98%9F%E9%80%89%E6%89%8B%E4%B8%BA%E4%BD%95%E7%81%AB%E4%BA%86) — 918.9万
+9. [魏建军谈学习胖东来感受](https://www.douyin.com/search/%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%B0%88%E5%AD%A6%E4%B9%A0%E8%83%96%E4%B8%9C%E6%9D%A5%E6%84%9F%E5%8F%97) — 918.5万
+10. [火影玩家的神临时刻](https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB) — 914.6万
 
 ### 小红书
 
@@ -52,7 +52,7 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-25.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-26.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
