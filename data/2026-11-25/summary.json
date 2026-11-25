@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-25T21:24:18.868900741+08:00",
+  "updated_at": "2026-11-25T22:24:17.610892098+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -115,8 +115,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
         },
         {
           "title": "体坛天霸离谱操作",
@@ -137,6 +137,16 @@
           "first_seen": "2026-11-25T16:24:20.458120628+08:00",
           "last_seen": "2026-11-25T20:24:17.632346041+08:00",
           "appearances": 5
+        },
+        {
+          "title": "高考667分高颜值学霸回应转行当演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83667%E5%88%86%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A6%E9%9C%B8%E5%9B%9E%E5%BA%94%E8%BD%AC%E8%A1%8C%E5%BD%93%E6%BC%94%E5%91%98%23",
+          "hot": 1131477,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
         },
         {
           "title": "孕妇血样走私或泄露我国遗传弱点",
@@ -165,8 +175,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-25T18:24:15.428345012+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 5
         },
         {
           "title": "特朗普对一道中国菜念念不忘",
@@ -195,8 +205,8 @@
           "tag": "新",
           "best_rank": 2,
           "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
         },
         {
           "title": "AG和平精英严正声明",
@@ -238,6 +248,16 @@
           "appearances": 5
         },
         {
+          "title": "青龙奖",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E9%BE%99%E5%A5%96",
+          "hot": 799059,
+          "tag": "新",
+          "best_rank": 2,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
+        },
+        {
           "title": "神24进舱顺序调整",
           "url": "https://s.weibo.com/weibo?q=%E7%A5%9E24%E8%BF%9B%E8%88%B1%E9%A1%BA%E5%BA%8F%E8%B0%83%E6%95%B4",
           "hot": 781318,
@@ -251,10 +271,11 @@
           "title": "特朗普惦记的那道菜全网猜疯了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%A6%E8%AE%B0%E7%9A%84%E9%82%A3%E9%81%93%E8%8F%9C%E5%85%A8%E7%BD%91%E7%8C%9C%E7%96%AF%E4%BA%86%23",
           "hot": 772365,
+          "tag": "热",
           "best_rank": 2,
           "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
         },
         {
           "title": "白小纯 体坛",
@@ -283,8 +304,8 @@
           "tag": "新",
           "best_rank": 3,
           "first_seen": "2026-11-25T17:24:15.977825355+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 4
         },
         {
           "title": "王牌对王牌第十季阵容",
@@ -472,8 +493,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-25T19:24:19.754555605+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 4
         },
         {
           "title": "两京十五日被吐槽是玄幻剧",
@@ -602,8 +623,8 @@
           "tag": "剧集",
           "best_rank": 4,
           "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
         },
         {
           "title": "黄奕女儿说你都能当艺人为啥我不行",
@@ -642,8 +663,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-25T17:24:15.977825355+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 6
         },
         {
           "title": "石川佳纯结婚",
@@ -785,6 +806,26 @@
           "appearances": 7
         },
         {
+          "title": "金价还要跌多少",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E8%A6%81%E8%B7%8C%E5%A4%9A%E5%B0%91%23",
+          "hot": 377186,
+          "tag": "新",
+          "best_rank": 5,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "印度晒航天员失重训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%99%92%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%B1%E9%87%8D%E8%AE%AD%E7%BB%83%23",
+          "hot": 374433,
+          "tag": "新",
+          "best_rank": 7,
+          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
+        },
+        {
           "title": "神23神24太空会师",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E23%E7%A5%9E24%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%23",
           "hot": 372935,
@@ -835,6 +876,16 @@
           "appearances": 1
         },
         {
+          "title": "网友抵制王玉雯代言皮草",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%BB%A3%E8%A8%80%E7%9A%AE%E8%8D%89%23",
+          "hot": 352871,
+          "tag": "新",
+          "best_rank": 11,
+          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
+        },
+        {
           "title": "神23神24航天员今天一起吃午饭",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E23%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8A%E5%A4%A9%E4%B8%80%E8%B5%B7%E5%90%83%E5%8D%88%E9%A5%AD%23",
           "hot": 352790,
@@ -875,6 +926,16 @@
           "appearances": 8
         },
         {
+          "title": "杨乐乐谈许飞还清300多万违约金",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E8%B0%88%E8%AE%B8%E9%A3%9E%E8%BF%98%E6%B8%85300%E5%A4%9A%E4%B8%87%E8%BF%9D%E7%BA%A6%E9%87%91%23",
+          "hot": 349543,
+          "tag": "新",
+          "best_rank": 12,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
+        },
+        {
           "title": "巴基斯坦",
           "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
           "hot": 348483,
@@ -895,6 +956,16 @@
           "appearances": 1
         },
         {
+          "title": "黄金跌破3500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B43500%E7%BE%8E%E5%85%83%23",
+          "hot": 344817,
+          "tag": "新",
+          "best_rank": 13,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
+        },
+        {
           "title": "原来明星在人群中这么显眼",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E5%9C%A8%E4%BA%BA%E7%BE%A4%E4%B8%AD%E8%BF%99%E4%B9%88%E6%98%BE%E7%9C%BC%23",
           "hot": 344547,
@@ -911,8 +982,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-25T18:24:15.428345012+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 5
         },
         {
           "title": "suk锐评青稚",
@@ -1123,13 +1194,23 @@
           "appearances": 1
         },
         {
-          "title": "高考667分高颜值学霸回应转行当演员",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83667%E5%88%86%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A6%E9%9C%B8%E5%9B%9E%E5%BA%94%E8%BD%AC%E8%A1%8C%E5%BD%93%E6%BC%94%E5%91%98%23",
-          "hot": 294061,
+          "title": "青稚看白小纯MVP结算画面的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%9C%8B%E7%99%BD%E5%B0%8F%E7%BA%AFMVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%E7%9A%84%E5%8F%8D%E5%BA%94%23",
+          "hot": 296695,
           "tag": "新",
-          "best_rank": 5,
+          "best_rank": 15,
           "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "王玉雯方回应代言皮草争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E7%9A%AE%E8%8D%89%E4%BA%89%E8%AE%AE%23",
+          "hot": 295005,
+          "tag": "新",
+          "best_rank": 16,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
           "appearances": 1
         },
         {
@@ -1140,16 +1221,6 @@
           "best_rank": 19,
           "first_seen": "2026-11-25T09:06:19.298028518+08:00",
           "last_seen": "2026-11-25T09:06:19.298028518+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "印度晒航天员失重训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%99%92%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%B1%E9%87%8D%E8%AE%AD%E7%BB%83%23",
-          "hot": 290760,
-          "tag": "新",
-          "best_rank": 9,
-          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
           "appearances": 1
         },
         {
@@ -1172,23 +1243,22 @@
           "appearances": 1
         },
         {
-          "title": "网友抵制王玉雯代言皮草",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%BB%A3%E8%A8%80%E7%9A%AE%E8%8D%89%23",
-          "hot": 288699,
-          "tag": "新",
-          "best_rank": 11,
-          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "title": "文吉儿 鼻子",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF+%E9%BC%BB%E5%AD%90",
+          "hot": 279834,
+          "best_rank": 17,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
           "appearances": 1
         },
         {
-          "title": "青稚看白小纯MVP结算画面的反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%9C%8B%E7%99%BD%E5%B0%8F%E7%BA%AFMVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%E7%9A%84%E5%8F%8D%E5%BA%94%23",
-          "hot": 284810,
+          "title": "谷爱凌肩膀脱臼",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC%23",
+          "hot": 279467,
           "tag": "新",
-          "best_rank": 15,
-          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "best_rank": 18,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
           "appearances": 1
         },
         {
@@ -1570,8 +1640,8 @@
           "hot": 12175036,
           "best_rank": 1,
           "first_seen": "2026-11-25T09:06:19.298028518+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 13
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 14
         },
         {
           "title": "85秒回顾神24发射",
@@ -1579,8 +1649,8 @@
           "hot": 12109588,
           "best_rank": 1,
           "first_seen": "2026-11-25T10:24:18.418941721+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 12
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 13
         },
         {
           "title": "神舟二十四号发射升空",
@@ -1590,6 +1660,15 @@
           "first_seen": "2026-11-25T08:24:17.644482063+08:00",
           "last_seen": "2026-11-25T08:24:17.644482063+08:00",
           "appearances": 1
+        },
+        {
+          "title": "T1官宣Zeus回归",
+          "url": "https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92",
+          "hot": 12056998,
+          "best_rank": 1,
+          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
         },
         {
           "title": "这个日常妆值得焊在脸上",
@@ -1655,6 +1734,15 @@
           "appearances": 7
         },
         {
+          "title": "挖着吃的草莓桶蛋糕更好吃",
+          "url": "https://www.douyin.com/search/%E6%8C%96%E7%9D%80%E5%90%83%E7%9A%84%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83",
+          "hot": 11163987,
+          "best_rank": 2,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
+        },
+        {
           "title": "持续深化“一带一路”经贸合作",
           "url": "https://www.douyin.com/search/%E6%8C%81%E7%BB%AD%E6%B7%B1%E5%8C%96%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C",
           "hot": 11104927,
@@ -1673,22 +1761,22 @@
           "appearances": 5
         },
         {
+          "title": "亚太合作鹏程万里",
+          "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C",
+          "hot": 11083868,
+          "best_rank": 3,
+          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
+        },
+        {
           "title": "魏建军谈学习胖东来感受",
           "url": "https://www.douyin.com/search/%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%B0%88%E5%AD%A6%E4%B9%A0%E8%83%96%E4%B8%9C%E6%9D%A5%E6%84%9F%E5%8F%97",
           "hot": 10986224,
           "best_rank": 4,
           "first_seen": "2026-11-25T13:24:17.972170664+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 9
-        },
-        {
-          "title": "亚太合作鹏程万里",
-          "url": "https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C",
-          "hot": 10974644,
-          "best_rank": 3,
-          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 10
         },
         {
           "title": "冰铲铲师傅有求必应",
@@ -1696,8 +1784,8 @@
           "hot": 10919849,
           "best_rank": 4,
           "first_seen": "2026-11-25T17:24:15.977825355+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 6
         },
         {
           "title": "真正好吃的小破店在民间",
@@ -1705,8 +1793,8 @@
           "hot": 10851083,
           "best_rank": 4,
           "first_seen": "2026-11-25T13:24:17.972170664+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 10
         },
         {
           "title": "欧冠曼城vs那不勒斯",
@@ -1732,8 +1820,8 @@
           "hot": 10301423,
           "best_rank": 5,
           "first_seen": "2026-11-25T18:24:15.428345012+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 5
         },
         {
           "title": "菲利克斯倒勾名场面太燃了",
@@ -1741,8 +1829,8 @@
           "hot": 10295924,
           "best_rank": 5,
           "first_seen": "2026-11-25T13:24:17.972170664+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 10
         },
         {
           "title": "啊 是丹东大草莓来了",
@@ -1750,17 +1838,35 @@
           "hot": 9997274,
           "best_rank": 6,
           "first_seen": "2026-11-25T00:24:22.418157676+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 19
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 20
+        },
+        {
+          "title": "哈尔滨冰雪大世界像童话世界",
+          "url": "https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C",
+          "hot": 9293211,
+          "best_rank": 7,
+          "first_seen": "2026-11-25T18:24:15.428345012+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 5
         },
         {
           "title": "火影玩家的神临时刻",
           "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
-          "hot": 9202913,
+          "hot": 9217232,
           "best_rank": 6,
           "first_seen": "2026-11-25T13:24:17.972170664+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 10
+        },
+        {
+          "title": "康康舞曲乐器对弹挑战",
+          "url": "https://www.douyin.com/search/%E5%BA%B7%E5%BA%B7%E8%88%9E%E6%9B%B2%E4%B9%90%E5%99%A8%E5%AF%B9%E5%BC%B9%E6%8C%91%E6%88%98",
+          "hot": 9198077,
+          "best_rank": 10,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
         },
         {
           "title": "欧冠曼城2:2那不勒斯",
@@ -1790,15 +1896,6 @@
           "appearances": 15
         },
         {
-          "title": "哈尔滨冰雪大世界像童话世界",
-          "url": "https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C",
-          "hot": 9165897,
-          "best_rank": 9,
-          "first_seen": "2026-11-25T18:24:15.428345012+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 4
-        },
-        {
           "title": "羽绒服你喜欢浅色还是黑色",
           "url": "https://www.douyin.com/search/%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BD%A0%E5%96%9C%E6%AC%A2%E6%B5%85%E8%89%B2%E8%BF%98%E6%98%AF%E9%BB%91%E8%89%B2",
           "hot": 9136803,
@@ -1806,6 +1903,15 @@
           "first_seen": "2026-11-25T00:24:22.418157676+08:00",
           "last_seen": "2026-11-25T07:24:15.928366225+08:00",
           "appearances": 8
+        },
+        {
+          "title": "OK了老铁 大山的孩子",
+          "url": "https://www.douyin.com/search/OK%E4%BA%86%E8%80%81%E9%93%81%20%E5%A4%A7%E5%B1%B1%E7%9A%84%E5%AD%A9%E5%AD%90",
+          "hot": 9097839,
+          "best_rank": 13,
+          "first_seen": "2026-11-25T16:24:20.458120628+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 7
         },
         {
           "title": "此刻舞台上的我光芒万丈",
@@ -1831,8 +1937,8 @@
           "hot": 9076061,
           "best_rank": 10,
           "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 2
         },
         {
           "title": "巴基斯坦航天员训练到忘记生日",
@@ -1853,6 +1959,15 @@
           "appearances": 5
         },
         {
+          "title": "可以吃的脆皮捏捏怎么做",
+          "url": "https://www.douyin.com/search/%E5%8F%AF%E4%BB%A5%E5%90%83%E7%9A%84%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F%E6%80%8E%E4%B9%88%E5%81%9A",
+          "hot": 9060319,
+          "best_rank": 13,
+          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
+        },
+        {
           "title": "俄乌在顿巴斯多方向激烈交战",
           "url": "https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%A1%BF%E5%B7%B4%E6%96%AF%E5%A4%9A%E6%96%B9%E5%90%91%E6%BF%80%E7%83%88%E4%BA%A4%E6%88%98",
           "hot": 9057050,
@@ -1869,6 +1984,15 @@
           "first_seen": "2026-11-25T02:24:17.147622774+08:00",
           "last_seen": "2026-11-25T12:24:15.662403241+08:00",
           "appearances": 10
+        },
+        {
+          "title": "朱亚文大明风华再次迎来宣发期",
+          "url": "https://www.douyin.com/search/%E6%9C%B1%E4%BA%9A%E6%96%87%E5%A4%A7%E6%98%8E%E9%A3%8E%E5%8D%8E%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E5%AE%A3%E5%8F%91%E6%9C%9F",
+          "hot": 9044962,
+          "best_rank": 16,
+          "first_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 1
         },
         {
           "title": "天赐天选之子杯开启报名",
@@ -1889,6 +2013,15 @@
           "appearances": 5
         },
         {
+          "title": "特朗普赦免感恩节幸运火鸡",
+          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%E6%84%9F%E6%81%A9%E8%8A%82%E5%B9%B8%E8%BF%90%E7%81%AB%E9%B8%A1",
+          "hot": 8828762,
+          "best_rank": 17,
+          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 3
+        },
+        {
           "title": "这一年抖音里的我是怎么样的人",
           "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%80%E5%B9%B4%E6%8A%96%E9%9F%B3%E9%87%8C%E7%9A%84%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA",
           "hot": 8775012,
@@ -1896,24 +2029,6 @@
           "first_seen": "2026-11-25T00:24:22.418157676+08:00",
           "last_seen": "2026-11-25T14:24:17.023281022+08:00",
           "appearances": 15
-        },
-        {
-          "title": "可以吃的脆皮捏捏怎么做",
-          "url": "https://www.douyin.com/search/%E5%8F%AF%E4%BB%A5%E5%90%83%E7%9A%84%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F%E6%80%8E%E4%B9%88%E5%81%9A",
-          "hot": 8762388,
-          "best_rank": 13,
-          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
-        },
-        {
-          "title": "OK了老铁 大山的孩子",
-          "url": "https://www.douyin.com/search/OK%E4%BA%86%E8%80%81%E9%93%81%20%E5%A4%A7%E5%B1%B1%E7%9A%84%E5%AD%A9%E5%AD%90",
-          "hot": 8579427,
-          "best_rank": 13,
-          "first_seen": "2026-11-25T16:24:20.458120628+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 6
         },
         {
           "title": "英国小哥在中国学京绣练地书",
@@ -1945,20 +2060,11 @@
         {
           "title": "来一份DJ炒饭",
           "url": "https://www.douyin.com/search/%E6%9D%A5%E4%B8%80%E4%BB%BDDJ%E7%82%92%E9%A5%AD",
-          "hot": 8424252,
+          "hot": 8459076,
           "best_rank": 12,
           "first_seen": "2026-11-25T00:24:22.418157676+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 12
-        },
-        {
-          "title": "特朗普赦免感恩节幸运火鸡",
-          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%E6%84%9F%E6%81%A9%E8%8A%82%E5%B9%B8%E8%BF%90%E7%81%AB%E9%B8%A1",
-          "hot": 8411319,
-          "best_rank": 17,
-          "first_seen": "2026-11-25T20:24:17.632346041+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-25T22:24:16.171433502+08:00",
+          "appearances": 13
         },
         {
           "title": "上海市委就陈吉宁被查表态",
@@ -2039,15 +2145,6 @@
           "best_rank": 16,
           "first_seen": "2026-11-25T18:24:15.428345012+08:00",
           "last_seen": "2026-11-25T18:24:15.428345012+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "T1官宣Zeus回归",
-          "url": "https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92",
-          "hot": 7786252,
-          "best_rank": 19,
-          "first_seen": "2026-11-25T21:24:17.357463715+08:00",
-          "last_seen": "2026-11-25T21:24:17.357463715+08:00",
           "appearances": 1
         },
         {

@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-25 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-25 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -31,13 +31,13 @@
 1. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1217.5万
 2. [85秒回顾神24发射](https://www.douyin.com/search/85%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84) — 1211万
 3. [神舟二十四号发射升空](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA) — 1209.4万
-4. [这个日常妆值得焊在脸上](https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E6%97%A5%E5%B8%B8%E5%A6%86%E5%80%BC%E5%BE%97%E7%84%8A%E5%9C%A8%E8%84%B8%E4%B8%8A) — 1199.4万
-5. [田秉毅出任国羽主教练](https://www.douyin.com/search/%E7%94%B0%E7%A7%89%E6%AF%85%E5%87%BA%E4%BB%BB%E5%9B%BD%E7%BE%BD%E4%B8%BB%E6%95%99%E7%BB%83) — 1185.5万
-6. [上海市委书记陈吉宁被查](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5) — 1181.3万
-7. [数字经济正成为用电增长新引擎](https://www.douyin.com/search/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%88%90%E4%B8%BA%E7%94%A8%E7%94%B5%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E) — 1168.4万
-8. [上海海港3:1武里南联](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF3:1%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94) — 1164.1万
-9. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1158.5万
-10. [神二十四乘组名单公布](https://www.douyin.com/search/%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83) — 1120.3万
+4. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1205.7万
+5. [这个日常妆值得焊在脸上](https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E6%97%A5%E5%B8%B8%E5%A6%86%E5%80%BC%E5%BE%97%E7%84%8A%E5%9C%A8%E8%84%B8%E4%B8%8A) — 1199.4万
+6. [田秉毅出任国羽主教练](https://www.douyin.com/search/%E7%94%B0%E7%A7%89%E6%AF%85%E5%87%BA%E4%BB%BB%E5%9B%BD%E7%BE%BD%E4%B8%BB%E6%95%99%E7%BB%83) — 1185.5万
+7. [上海市委书记陈吉宁被查](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5) — 1181.3万
+8. [数字经济正成为用电增长新引擎](https://www.douyin.com/search/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%88%90%E4%B8%BA%E7%94%A8%E7%94%B5%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E) — 1168.4万
+9. [上海海港3:1武里南联](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF3:1%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94) — 1164.1万
+10. [草莓桶蛋糕一吃一个不吱声](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0) — 1158.5万
 
 ### 小红书
 
