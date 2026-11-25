@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-25 12:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-25 13:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [巴基斯坦航天员舱内笔下不停](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%86%85%E7%AC%94%E4%B8%8B%E4%B8%8D%E5%81%9C%23) — 133万 · 新
 7. [神舟24发射圆满成功](https://s.weibo.com/weibo?q=%E7%A5%9E%E8%88%9F24%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 107.7万 · 新
 8. [特朗普对一道中国菜念念不忘](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23) — 95.2万 · 热
-9. [陈吉宁被查上海表态](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81%23) — 81.4万 · 热
-10. [一张网背后的中国经济底气](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BD%91%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BA%95%E6%B0%94%23) — 80.3万
+9. [亚太合作鹏程万里](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23) — 89.8万 · 新
+10. [巴基斯坦人齐唱国歌见证神舟发射](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E9%BD%90%E5%94%B1%E5%9B%BD%E6%AD%8C%E8%A7%81%E8%AF%81%E7%A5%9E%E8%88%9F%E5%8F%91%E5%B0%84%23) — 89.1万 · 新
 
 ### 抖音
 
