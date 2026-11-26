@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 08:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 09:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [蔡磊已进渐冻症终末期](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23) — 159万 · 新
+1. [蔡磊已进渐冻症终末期](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23) — 327.5万 · 新
 2. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
-3. [梁文锋成全球最富AI模型创始人](https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8CAI%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA) — 90.2万 · 新
-4. [华为自研HBM内存方案](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88) — 85.4万
-5. [神24乘组进驻天宫](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23) — 71.2万
-6. [最帅保洁大叔宣布辞职](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%B8%85%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23) — 61.3万
-7. [谷爱凌肩膀脱臼](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC%23) — 60.2万
-8. [朱亚文版朱瞻基](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA) — 59.3万 · 剧集
-9. [许飞乐意看厉娜哭还有后半句](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%B9%90%E6%84%8F%E7%9C%8B%E5%8E%89%E5%A8%9C%E5%93%AD%E8%BF%98%E6%9C%89%E5%90%8E%E5%8D%8A%E5%8F%A5) — 58.9万 · 新
-10. [当Bin听到Zeus回归T1](https://s.weibo.com/weibo?q=%23%E5%BD%93Bin%E5%90%AC%E5%88%B0Zeus%E5%9B%9E%E5%BD%92T1%23) — 58.5万 · 新
+3. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
+4. [神24乘组进驻天宫](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23) — 100.2万
+5. [妻子与蔡磊见面全程没说话](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%8E%E8%94%A1%E7%A3%8A%E8%A7%81%E9%9D%A2%E5%85%A8%E7%A8%8B%E6%B2%A1%E8%AF%B4%E8%AF%9D%23) — 94.4万 · 新
+6. [梁文锋成全球最富AI模型创始人](https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8CAI%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA) — 90.2万 · 新
+7. [华为自研HBM内存方案](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88) — 85.4万
+8. [最帅保洁大叔宣布辞职](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%B8%85%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C%23) — 61.3万
+9. [谷爱凌肩膀脱臼](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC%23) — 60.2万
+10. [朱亚文版朱瞻基](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA) — 59.3万 · 剧集
 
 ### 抖音
 
 1. [85秒回顾神24发射](https://www.douyin.com/search/85%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84) — 1210.2万
-2. [挖着吃的草莓桶蛋糕更好吃](https://www.douyin.com/search/%E6%8C%96%E7%9D%80%E5%90%83%E7%9A%84%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83) — 1199.7万
-3. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1197.5万
-4. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
-5. [哈尔滨冰雪大世界像童话世界](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C) — 1147.5万
-6. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1142.5万
-7. [熟悉的北京明白再次响起](https://www.douyin.com/search/%E7%86%9F%E6%82%89%E7%9A%84%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD%E5%86%8D%E6%AC%A1%E5%93%8D%E8%B5%B7) — 1054.6万
-8. [巴基斯坦民众彻夜等候欢呼唱国歌](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B0%91%E4%BC%97%E5%BD%BB%E5%A4%9C%E7%AD%89%E5%80%99%E6%AC%A2%E5%91%BC%E5%94%B1%E5%9B%BD%E6%AD%8C) — 1053.2万
-9. [实测华为Mate X8折痕表现](https://www.douyin.com/search/%E5%AE%9E%E6%B5%8B%E5%8D%8E%E4%B8%BAMate%20X8%E6%8A%98%E7%97%95%E8%A1%A8%E7%8E%B0) — 1048.4万
-10. [冷都女氛围感搭配技巧](https://www.douyin.com/search/%E5%86%B7%E9%83%BD%E5%A5%B3%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%90%AD%E9%85%8D%E6%8A%80%E5%B7%A7) — 1042.9万
+2. [76人111:104热火](https://www.douyin.com/search/76%E4%BA%BA111:104%E7%83%AD%E7%81%AB) — 1201.7万
+3. [挖着吃的草莓桶蛋糕更好吃](https://www.douyin.com/search/%E6%8C%96%E7%9D%80%E5%90%83%E7%9A%84%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83) — 1199.7万
+4. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1197.5万
+5. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
+6. [哈尔滨冰雪大世界像童话世界](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C) — 1147.5万
+7. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1142.5万
+8. [曼联客场2:2战平葡萄牙体育](https://www.douyin.com/search/%E6%9B%BC%E8%81%94%E5%AE%A2%E5%9C%BA2:2%E6%88%98%E5%B9%B3%E8%91%A1%E8%90%84%E7%89%99%E4%BD%93%E8%82%B2) — 1140.1万
+9. [熟悉的北京明白再次响起](https://www.douyin.com/search/%E7%86%9F%E6%82%89%E7%9A%84%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD%E5%86%8D%E6%AC%A1%E5%93%8D%E8%B5%B7) — 1054.6万
+10. [巴基斯坦民众彻夜等候欢呼唱国歌](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B0%91%E4%BC%97%E5%BD%BB%E5%A4%9C%E7%AD%89%E5%80%99%E6%AC%A2%E5%91%BC%E5%94%B1%E5%9B%BD%E6%AD%8C) — 1053.2万
 
 ### 小红书
 
