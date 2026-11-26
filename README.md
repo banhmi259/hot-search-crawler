@@ -11,30 +11,30 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 16:40**（Asia/Shanghai），展示今日榜单前 20。
+> 数据更新于 **2026-11-26 18:16**（Asia/Shanghai），展示今日榜单前 20。
 
 ### 微博
 
 1. [蔡磊已进渐冻症终末期](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23) — 327.5万 · 新
 2. [普京打包深圳炒菜上飞机](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA%23) — 181.2万 · 新
 3. [画地为牢终于来了](https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86) — 164万 · 新
-4. [新一代通信网建设实施方案来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23) — 126.6万 · 新
-5. [厉娜给许飞擦眼泪说我陪着你](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0) — 124.6万 · 新
-6. [天霸管理层再次离间青稚白小纯](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%AE%A1%E7%90%86%E5%B1%82%E5%86%8D%E6%AC%A1%E7%A6%BB%E9%97%B4%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF) — 123.2万 · 新
-7. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
-8. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
-9. [业主搜到咒自家小孩WiFi名后续](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD%23) — 117.2万
-10. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
-11. [蔡磊融资失败妻子放弃事业全职直播](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%9E%8D%E8%B5%84%E5%A4%B1%E8%B4%A5%E5%A6%BB%E5%AD%90%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E5%85%A8%E8%81%8C%E7%9B%B4%E6%92%AD%23) — 109.8万 · 新
-12. [让特朗普念念不忘的帽子菜破案了](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E7%9A%84%E5%B8%BD%E5%AD%90%E8%8F%9C%E7%A0%B4%E6%A1%88%E4%BA%86%23) — 108.5万 · 新
-13. [从5到24看载人航天之路](https://s.weibo.com/weibo?q=%23%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF%23) — 102.3万 · 新
-14. [男子花700万买房搜到诅咒孩子WiFi名](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D%23) — 101.9万 · 新
-15. [后会友期 天娱高层](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E5%A4%A9%E5%A8%B1%E9%AB%98%E5%B1%82) — 101.1万 · 新
-16. [神24乘组进驻天宫](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23) — 100.2万
-17. [妻子与蔡磊见面全程没说话](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%8E%E8%94%A1%E7%A3%8A%E8%A7%81%E9%9D%A2%E5%85%A8%E7%A8%8B%E6%B2%A1%E8%AF%B4%E8%AF%9D%23) — 94.4万 · 新
-18. [后会友期才播到第8天](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%89%8D%E6%92%AD%E5%88%B0%E7%AC%AC8%E5%A4%A9) — 94万 · 新
-19. [梁文锋成全球最富AI模型创始人](https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8CAI%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA) — 90.2万 · 新
-20. [田淼直播说徐若晗演戏不用心](https://s.weibo.com/weibo?q=%E7%94%B0%E6%B7%BC%E7%9B%B4%E6%92%AD%E8%AF%B4%E5%BE%90%E8%8B%A5%E6%99%97%E6%BC%94%E6%88%8F%E4%B8%8D%E7%94%A8%E5%BF%83) — 88万 · 新
+4. [生父出轨女友踢死幼童求生母谅解](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%88%B6%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%8F%8B%E8%B8%A2%E6%AD%BB%E5%B9%BC%E7%AB%A5%E6%B1%82%E7%94%9F%E6%AF%8D%E8%B0%85%E8%A7%A3%23) — 132.7万 · 新
+5. [新一代通信网建设实施方案来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23) — 126.6万 · 新
+6. [厉娜给许飞擦眼泪说我陪着你](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0) — 124.6万 · 新
+7. [天霸管理层再次离间青稚白小纯](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%AE%A1%E7%90%86%E5%B1%82%E5%86%8D%E6%AC%A1%E7%A6%BB%E9%97%B4%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF) — 123.2万 · 新
+8. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
+9. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
+10. [业主搜到咒自家小孩WiFi名后续](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD%23) — 117.2万
+11. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
+12. [蔡磊融资失败妻子放弃事业全职直播](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%9E%8D%E8%B5%84%E5%A4%B1%E8%B4%A5%E5%A6%BB%E5%AD%90%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E5%85%A8%E8%81%8C%E7%9B%B4%E6%92%AD%23) — 109.8万 · 新
+13. [让特朗普念念不忘的帽子菜破案了](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%E7%9A%84%E5%B8%BD%E5%AD%90%E8%8F%9C%E7%A0%B4%E6%A1%88%E4%BA%86%23) — 108.5万 · 新
+14. [从5到24看载人航天之路](https://s.weibo.com/weibo?q=%23%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF%23) — 102.3万 · 新
+15. [男子花700万买房搜到诅咒孩子WiFi名](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D%23) — 101.9万 · 新
+16. [后会友期 天娱高层](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E5%A4%A9%E5%A8%B1%E9%AB%98%E5%B1%82) — 101.1万 · 新
+17. [神24乘组进驻天宫](https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23) — 100.2万
+18. [妻子与蔡磊见面全程没说话](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%8E%E8%94%A1%E7%A3%8A%E8%A7%81%E9%9D%A2%E5%85%A8%E7%A8%8B%E6%B2%A1%E8%AF%B4%E8%AF%9D%23) — 94.4万 · 新
+19. [后会友期才播到第8天](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%89%8D%E6%92%AD%E5%88%B0%E7%AC%AC8%E5%A4%A9) — 94万 · 新
+20. [被AI融脸后永远删不干净](https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%90%8E%E6%B0%B8%E8%BF%9C%E5%88%A0%E4%B8%8D%E5%B9%B2%E5%87%80%23) — 90.6万
 
 ### 抖音
 
@@ -54,10 +54,10 @@
 14. [深圳奇迹属于奋斗者](https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E5%A5%87%E8%BF%B9%E5%B1%9E%E4%BA%8E%E5%A5%8B%E6%96%97%E8%80%85) — 1131.5万
 15. [我国已建成超10亿亩高标准农田](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E8%B6%8510%E4%BA%BF%E4%BA%A9%E9%AB%98%E6%A0%87%E5%87%86%E5%86%9C%E7%94%B0) — 1125.6万
 16. [冰封玫瑰是哈尔滨冬日独有的浪漫](https://www.douyin.com/search/%E5%86%B0%E5%B0%81%E7%8E%AB%E7%91%B0%E6%98%AF%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%AC%E6%97%A5%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB) — 1124.4万
-17. [清迈的天灯节也太美了吧](https://www.douyin.com/search/%E6%B8%85%E8%BF%88%E7%9A%84%E5%A4%A9%E7%81%AF%E8%8A%82%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86%E5%90%A7) — 1115.7万
-18. [康康舞曲乐器对弹挑战](https://www.douyin.com/search/%E5%BA%B7%E5%BA%B7%E8%88%9E%E6%9B%B2%E4%B9%90%E5%99%A8%E5%AF%B9%E5%BC%B9%E6%8C%91%E6%88%98) — 1094.8万
-19. [同频朋友是最好的生日礼物](https://www.douyin.com/search/%E5%90%8C%E9%A2%91%E6%9C%8B%E5%8F%8B%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9) — 1065.5万
-20. [熟悉的北京明白再次响起](https://www.douyin.com/search/%E7%86%9F%E6%82%89%E7%9A%84%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD%E5%86%8D%E6%AC%A1%E5%93%8D%E8%B5%B7) — 1054.6万
+17. [已被这届烟火榜美食选中](https://www.douyin.com/search/%E5%B7%B2%E8%A2%AB%E8%BF%99%E5%B1%8A%E7%83%9F%E7%81%AB%E6%A6%9C%E7%BE%8E%E9%A3%9F%E9%80%89%E4%B8%AD) — 1116.5万
+18. [清迈的天灯节也太美了吧](https://www.douyin.com/search/%E6%B8%85%E8%BF%88%E7%9A%84%E5%A4%A9%E7%81%AF%E8%8A%82%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86%E5%90%A7) — 1115.7万
+19. [康康舞曲乐器对弹挑战](https://www.douyin.com/search/%E5%BA%B7%E5%BA%B7%E8%88%9E%E6%9B%B2%E4%B9%90%E5%99%A8%E5%AF%B9%E5%BC%B9%E6%8C%91%E6%88%98) — 1094.8万
+20. [同频朋友是最好的生日礼物](https://www.douyin.com/search/%E5%90%8C%E9%A2%91%E6%9C%8B%E5%8F%8B%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9) — 1065.5万
 
 ### 小红书
 
