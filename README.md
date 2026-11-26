@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,9 +22,9 @@
 5. [厉娜给许飞擦眼泪说我陪着你](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0) — 124.6万 · 新
 6. [天霸管理层再次离间青稚白小纯](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%AE%A1%E7%90%86%E5%B1%82%E5%86%8D%E6%AC%A1%E7%A6%BB%E9%97%B4%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF) — 123.2万 · 新
 7. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
-8. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
-9. [蔡磊融资失败妻子放弃事业全职直播](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%9E%8D%E8%B5%84%E5%A4%B1%E8%B4%A5%E5%A6%BB%E5%AD%90%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E5%85%A8%E8%81%8C%E7%9B%B4%E6%92%AD%23) — 109.8万 · 新
-10. [男子花700万买房搜到诅咒孩子WiFi名](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D%23) — 101.9万 · 新
+8. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
+9. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
+10. [蔡磊融资失败妻子放弃事业全职直播](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%9E%8D%E8%B5%84%E5%A4%B1%E8%B4%A5%E5%A6%BB%E5%AD%90%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E5%85%A8%E8%81%8C%E7%9B%B4%E6%92%AD%23) — 109.8万 · 新
 
 ### 抖音
 
@@ -33,11 +33,11 @@
 3. [挖着吃的草莓桶蛋糕更好吃](https://www.douyin.com/search/%E6%8C%96%E7%9D%80%E5%90%83%E7%9A%84%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83) — 1199.7万
 4. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1197.5万
 5. [拜仁欧冠不敌里尔遭遇首败](https://www.douyin.com/search/%E6%8B%9C%E4%BB%81%E6%AC%A7%E5%86%A0%E4%B8%8D%E6%95%8C%E9%87%8C%E5%B0%94%E9%81%AD%E9%81%87%E9%A6%96%E8%B4%A5) — 1188.8万
-6. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
-7. [今晚24时油价预计下调](https://www.douyin.com/search/%E4%BB%8A%E6%99%9A24%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83) — 1166.5万
-8. [哈尔滨冰雪大世界像童话世界](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C) — 1147.5万
-9. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1142.5万
-10. [曼联客场2:2战平葡萄牙体育](https://www.douyin.com/search/%E6%9B%BC%E8%81%94%E5%AE%A2%E5%9C%BA2:2%E6%88%98%E5%B9%B3%E8%91%A1%E8%90%84%E7%89%99%E4%BD%93%E8%82%B2) — 1140.1万
+6. [今晚24时油价预计下调](https://www.douyin.com/search/%E4%BB%8A%E6%99%9A24%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83) — 1186.8万
+7. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
+8. [杜兰特狄龙场上对喷](https://www.douyin.com/search/%E6%9D%9C%E5%85%B0%E7%89%B9%E7%8B%84%E9%BE%99%E5%9C%BA%E4%B8%8A%E5%AF%B9%E5%96%B7) — 1170.7万
+9. [哈尔滨冰雪大世界像童话世界](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%83%8F%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C) — 1147.5万
+10. [T1官宣Zeus回归](https://www.douyin.com/search/T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92) — 1142.5万
 
 ### 小红书
 
