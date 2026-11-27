@@ -12,7 +12,7 @@ const (
 	beginMarker = "<!-- BEGIN HOTSEARCH -->"
 	endMarker   = "<!-- END HOTSEARCH -->"
 
-	readmeTopN  = 20
+	readmeTopN  = 50
 	archiveTopN = 100
 )
 

@@ -40,7 +40,7 @@ jobs:
           cache: true
 
       - name: Crawl live snapshot
-        run: go run ./cmd/hot-search-crawler crawl --live --data dist
+        run: go run ./cmd/hot-search-crawler crawl --live --top 50 --data dist
 
       - name: Add index redirect
         run: |

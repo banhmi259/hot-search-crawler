@@ -53,7 +53,7 @@ jobs:
 
       - name: Crawl
         if: steps.check.outputs.skip != 'true'
-        run: go run ./cmd/hot-search-crawler crawl --update-readme
+        run: go run ./cmd/hot-search-crawler crawl --top 50 --update-readme
 
       - name: Commit data
         if: steps.check.outputs.skip != 'true'
