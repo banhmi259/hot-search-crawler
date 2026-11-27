@@ -1,5 +1,5 @@
 # 热搜爬虫
-- cào top 50 lượt tim kiếm hop nhất , weibo, douyin, tiểu hồng thư 
+- cào top 50 lượt tim kiếm hót nhất , weibo, douyin, tiểu hồng thư 
 
 抓取**微博、抖音、小红书**热榜，输出统一结构的 JSON 快照。仓库自带两条发布链路：
 
