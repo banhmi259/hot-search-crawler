@@ -12,60 +12,60 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-28 13:03**（Asia/Shanghai），展示今日榜单前 50。
+> 数据更新于 **2026-11-28 20:25**（Asia/Shanghai），展示今日榜单前 50。
 
 ### 微博
 
 1. [董明珠让拿手机员工没动她急了](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E8%AE%A9%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%91%98%E5%B7%A5%E6%B2%A1%E5%8A%A8%E5%A5%B9%E6%80%A5%E4%BA%86%23) — 118.5万 · 新
 2. [178万卖房次日得知拆迁房主反悔](https://s.weibo.com/weibo?q=%23178%E4%B8%87%E5%8D%96%E6%88%BF%E6%AC%A1%E6%97%A5%E5%BE%97%E7%9F%A5%E6%8B%86%E8%BF%81%E6%88%BF%E4%B8%BB%E5%8F%8D%E6%82%94%23) — 113.6万 · 热
-3. [董明珠现场发火魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 88.3万 · 新
-4. [梁靖崑加盟俄罗斯联赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%8A%A0%E7%9B%9F%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E8%B5%9B%23) — 81.5万 · 新
-5. [三只松鼠一夜整改反而让人唏嘘](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98%23) — 78.2万 · 热
-6. [工业经济新动能澎湃](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23) — 72.9万 · 新
-7. [马天宇说后会友期和某人起争执了](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%92%8C%E6%9F%90%E4%BA%BA%E8%B5%B7%E4%BA%89%E6%89%A7%E4%BA%86) — 70.5万 · 新
-8. [女子身高153难买衣服怒而自己做](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98153%E9%9A%BE%E4%B9%B0%E8%A1%A3%E6%9C%8D%E6%80%92%E8%80%8C%E8%87%AA%E5%B7%B1%E5%81%9A%23) — 62.2万 · 新
-9. [于东来现身深圳迪厅舞姿火辣](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%8E%B0%E8%BA%AB%E6%B7%B1%E5%9C%B3%E8%BF%AA%E5%8E%85%E8%88%9E%E5%A7%BF%E7%81%AB%E8%BE%A3%23) — 59.3万 · 新
-10. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 58万 · 新
-11. [新质生产力大咖说AI季](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23) — 46.8万
-12. [多平台已下架纸质短剧](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7%23) — 44万 · 热
-13. [白小纯把兄弟的经济状况梭哈了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%8A%8A%E5%85%84%E5%BC%9F%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E6%A2%AD%E5%93%88%E4%BA%86%23) — 39.5万 · 新
-14. [陆翊称拒绝调解文吉儿王子璇](https://s.weibo.com/weibo?q=%E9%99%86%E7%BF%8A%E7%A7%B0%E6%8B%92%E7%BB%9D%E8%B0%83%E8%A7%A3%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87) — 39.3万
-15. [男子被自家猫咬了一口后截指](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%8C%AB%E5%92%AC%E4%BA%86%E4%B8%80%E5%8F%A3%E5%90%8E%E6%88%AA%E6%8C%87%23) — 34.7万 · 新
-16. [牧民遇4只雪豹五方都愣住了](https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E9%81%874%E5%8F%AA%E9%9B%AA%E8%B1%B9%E4%BA%94%E6%96%B9%E9%83%BD%E6%84%A3%E4%BD%8F%E4%BA%86%23) — 34.1万 · 新
-17. [后会友期剪辑bug](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%89%AA%E8%BE%91bug%23) — 33.3万 · 新
-18. [曝徐嘉余王冰冰结婚了](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%90%E5%98%89%E4%BD%99%E7%8E%8B%E5%86%B0%E5%86%B0%E7%BB%93%E5%A9%9A%E4%BA%86%23) — 32.8万 · 新
-19. [湖人 马刺](https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA+%E9%A9%AC%E5%88%BA) — 31.2万 · 新
-20. [网友扒出厉娜雪藏期间行程图](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%89%92%E5%87%BA%E5%8E%89%E5%A8%9C%E9%9B%AA%E8%97%8F%E6%9C%9F%E9%97%B4%E8%A1%8C%E7%A8%8B%E5%9B%BE%23) — 30.5万 · 热
-21. [天霸 体坛](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8+%E4%BD%93%E5%9D%9B) — 30.1万 · 新
-22. [后会友期给文吉儿美颜了](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E7%BE%8E%E9%A2%9C%E4%BA%86%23) — 29万 · 新
-23. [印度人呼吁禁播议员女儿婚礼视频](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%91%BC%E5%90%81%E7%A6%81%E6%92%AD%E8%AE%AE%E5%91%98%E5%A5%B3%E5%84%BF%E5%A9%9A%E7%A4%BC%E8%A7%86%E9%A2%91) — 28.1万 · 新
-24. [王星越说自己北京有四个家](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8C%97%E4%BA%AC%E6%9C%89%E5%9B%9B%E4%B8%AA%E5%AE%B6%23) — 28.1万 · 新
-25. [东风日产NX7首批车主火热提车](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7NX7%E9%A6%96%E6%89%B9%E8%BD%A6%E4%B8%BB%E7%81%AB%E7%83%AD%E6%8F%90%E8%BD%A6%23) — 27.7万 · 新
-26. [董明珠直播数次训斥员工](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%9B%B4%E6%92%AD%E6%95%B0%E6%AC%A1%E8%AE%AD%E6%96%A5%E5%91%98%E5%B7%A5%23) — 27.1万 · 新
-27. [厉娜 龙丹妮](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C+%E9%BE%99%E4%B8%B9%E5%A6%AE) — 26万
-28. [曝苹果器重iPhone20Pro系列](https://s.weibo.com/weibo?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%99%A8%E9%87%8DiPhone20Pro%E7%B3%BB%E5%88%97) — 25.3万 · 新
-29. [金饰克价涨到1093元](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E5%88%B01093%E5%85%83%23) — 24.9万 · 新
-30. [厉娜重新跟你做朋友原话被删](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E9%87%8D%E6%96%B0%E8%B7%9F%E4%BD%A0%E5%81%9A%E6%9C%8B%E5%8F%8B%E5%8E%9F%E8%AF%9D%E8%A2%AB%E5%88%A0) — 24.6万 · 综艺
-31. [冯骥后AI时代最重要的问题](https://s.weibo.com/weibo?q=%E5%86%AF%E9%AA%A5%E5%90%8EAI%E6%97%B6%E4%BB%A3%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%97%AE%E9%A2%98) — 24.5万
-32. [吴磊 大哥摆拍被全国人民知道了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A+%E5%A4%A7%E5%93%A5%E6%91%86%E6%8B%8D%E8%A2%AB%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9F%A5%E9%81%93%E4%BA%86) — 24.2万 · 新
-33. [曾经大胃王如今吃一口都奢侈](https://s.weibo.com/weibo?q=%E6%9B%BE%E7%BB%8F%E5%A4%A7%E8%83%83%E7%8E%8B%E5%A6%82%E4%BB%8A%E5%90%83%E4%B8%80%E5%8F%A3%E9%83%BD%E5%A5%A2%E4%BE%88) — 23.9万
-34. [王兴称外卖行业已走到拐点](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%85%B4%E7%A7%B0%E5%A4%96%E5%8D%96%E8%A1%8C%E4%B8%9A%E5%B7%B2%E8%B5%B0%E5%88%B0%E6%8B%90%E7%82%B9%23) — 23.8万
-35. [外网评价肖战研讨会背头造型](https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E8%AF%84%E4%BB%B7%E8%82%96%E6%88%98%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%83%8C%E5%A4%B4%E9%80%A0%E5%9E%8B) — 23.6万 · 剧集
-36. [王一博新歌海报](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E6%AD%8C%E6%B5%B7%E6%8A%A5) — 22万 · 新
-37. [教育系统内鬼出卖3.5万学生信息](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E5%86%85%E9%AC%BC%E5%87%BA%E5%8D%963.5%E4%B8%87%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%23) — 20.9万 · 新
-38. [看后会友期吵架报警](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%90%B5%E6%9E%B6%E6%8A%A5%E8%AD%A6%23) — 20.2万 · 新
-39. [现在就出发](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91) — 19.4万 · 新
-40. [央行新规取消贷款罚息利率上下限](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90%23) — 19.2万
-41. [国考公共科目笔试](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95) — 18万
-42. [汪顺 陈慧佳](https://s.weibo.com/weibo?q=%E6%B1%AA%E9%A1%BA+%E9%99%88%E6%85%A7%E4%BD%B3) — 17.9万 · 热
-43. [两京十五日拉闸停电式结尾](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E6%8B%89%E9%97%B8%E5%81%9C%E7%94%B5%E5%BC%8F%E7%BB%93%E5%B0%BE) — 17.8万 · 剧集
-44. [369和Knight谈BLG新AD](https://s.weibo.com/weibo?q=%23369%E5%92%8CKnight%E8%B0%88BLG%E6%96%B0AD%23) — 17.7万
-45. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 17.7万 · 新
-46. [厉娜前经纪人张阿瞳发文](https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87%23) — 17.7万 · 新
-47. [马天宇 我都40了肯定有过亲密关系啊](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%88%91%E9%83%BD40%E4%BA%86%E8%82%AF%E5%AE%9A%E6%9C%89%E8%BF%87%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%95%8A) — 17.7万 · 热
-48. [第一次听说吃雪蛤直接抵制](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E8%AF%B4%E5%90%83%E9%9B%AA%E8%9B%A4%E7%9B%B4%E6%8E%A5%E6%8A%B5%E5%88%B6) — 17.6万
-49. [KPL选手直播禁玩三角洲](https://s.weibo.com/weibo?q=%23KPL%E9%80%89%E6%89%8B%E7%9B%B4%E6%92%AD%E7%A6%81%E7%8E%A9%E4%B8%89%E8%A7%92%E6%B4%B2%23) — 17.6万
-50. [赖冠霖对赵昭仪说自己剧组随便坐](https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E5%AF%B9%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%89%A7%E7%BB%84%E9%9A%8F%E4%BE%BF%E5%9D%90%23) — 17.6万
+3. [后会友期未播路透](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%AA%E6%92%AD%E8%B7%AF%E9%80%8F) — 109万 · 新
+4. [董明珠现场发火魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 88.3万 · 新
+5. [梁靖崑加盟俄罗斯联赛](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%8A%A0%E7%9B%9F%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E8%B5%9B%23) — 81.5万 · 新
+6. [原来孔子不姓孔](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AD%94%E5%AD%90%E4%B8%8D%E5%A7%93%E5%AD%94%23) — 78.7万 · 新
+7. [三只松鼠一夜整改反而让人唏嘘](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98%23) — 78.2万 · 热
+8. [工业经济新动能澎湃](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23) — 72.9万 · 新
+9. [马天宇说后会友期和某人起争执了](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%92%8C%E6%9F%90%E4%BA%BA%E8%B5%B7%E4%BA%89%E6%89%A7%E4%BA%86) — 70.5万 · 新
+10. [女子身高153难买衣服怒而自己做](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98153%E9%9A%BE%E4%B9%B0%E8%A1%A3%E6%9C%8D%E6%80%92%E8%80%8C%E8%87%AA%E5%B7%B1%E5%81%9A%23) — 62.2万 · 新
+11. [物流网络持续织密夯实高质量发展根基](https://s.weibo.com/weibo?q=%23%E7%89%A9%E6%B5%81%E7%BD%91%E7%BB%9C%E6%8C%81%E7%BB%AD%E7%BB%87%E5%AF%86%E5%A4%AF%E5%AE%9E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%A0%B9%E5%9F%BA%23) — 61.5万
+12. [于东来现身深圳迪厅舞姿火辣](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%8E%B0%E8%BA%AB%E6%B7%B1%E5%9C%B3%E8%BF%AA%E5%8E%85%E8%88%9E%E5%A7%BF%E7%81%AB%E8%BE%A3%23) — 59.3万 · 新
+13. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 58万 · 新
+14. [白小纯的19岁好苦](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9A%8419%E5%B2%81%E5%A5%BD%E8%8B%A6%23) — 57.3万 · 新
+15. [中国首位太空常住户](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E5%B8%B8%E4%BD%8F%E6%88%B7%23) — 47.1万 · 新
+16. [新质生产力大咖说AI季](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23) — 46.8万
+17. [多平台已下架纸质短剧](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7%23) — 44万 · 热
+18. [白小纯把兄弟的经济状况梭哈了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%8A%8A%E5%85%84%E5%BC%9F%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E6%A2%AD%E5%93%88%E4%BA%86%23) — 39.5万 · 新
+19. [陆翊称拒绝调解文吉儿王子璇](https://s.weibo.com/weibo?q=%E9%99%86%E7%BF%8A%E7%A7%B0%E6%8B%92%E7%BB%9D%E8%B0%83%E8%A7%A3%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87) — 39.3万
+20. [大额存单10万元就能买了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%9510%E4%B8%87%E5%85%83%E5%B0%B1%E8%83%BD%E4%B9%B0%E4%BA%86%23) — 36.6万
+21. [男子被自家猫咬了一口后截指](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%8C%AB%E5%92%AC%E4%BA%86%E4%B8%80%E5%8F%A3%E5%90%8E%E6%88%AA%E6%8C%87%23) — 34.7万 · 新
+22. [牧民遇4只雪豹五方都愣住了](https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E9%81%874%E5%8F%AA%E9%9B%AA%E8%B1%B9%E4%BA%94%E6%96%B9%E9%83%BD%E6%84%A3%E4%BD%8F%E4%BA%86%23) — 34.1万 · 新
+23. [后会友期剪辑bug](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%89%AA%E8%BE%91bug%23) — 33.3万 · 新
+24. [杨紫刘涛同框梦回欢乐颂](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%88%98%E6%B6%9B%E5%90%8C%E6%A1%86%E6%A2%A6%E5%9B%9E%E6%AC%A2%E4%B9%90%E9%A2%82%23) — 33.2万 · 新
+25. [曝徐嘉余王冰冰结婚了](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%90%E5%98%89%E4%BD%99%E7%8E%8B%E5%86%B0%E5%86%B0%E7%BB%93%E5%A9%9A%E4%BA%86%23) — 32.8万 · 新
+26. [湖人 马刺](https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA+%E9%A9%AC%E5%88%BA) — 31.2万 · 新
+27. [网友扒出厉娜雪藏期间行程图](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%89%92%E5%87%BA%E5%8E%89%E5%A8%9C%E9%9B%AA%E8%97%8F%E6%9C%9F%E9%97%B4%E8%A1%8C%E7%A8%8B%E5%9B%BE%23) — 30.5万 · 热
+28. [天霸 体坛](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8+%E4%BD%93%E5%9D%9B) — 30.1万 · 新
+29. [后会友期给文吉儿美颜了](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E7%BE%8E%E9%A2%9C%E4%BA%86%23) — 29万 · 新
+30. [印度人呼吁禁播议员女儿婚礼视频](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%91%BC%E5%90%81%E7%A6%81%E6%92%AD%E8%AE%AE%E5%91%98%E5%A5%B3%E5%84%BF%E5%A9%9A%E7%A4%BC%E8%A7%86%E9%A2%91) — 28.1万 · 新
+31. [王星越说自己北京有四个家](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%8C%97%E4%BA%AC%E6%9C%89%E5%9B%9B%E4%B8%AA%E5%AE%B6%23) — 28.1万 · 新
+32. [东风日产NX7首批车主火热提车](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7NX7%E9%A6%96%E6%89%B9%E8%BD%A6%E4%B8%BB%E7%81%AB%E7%83%AD%E6%8F%90%E8%BD%A6%23) — 27.7万 · 新
+33. [微博国际文化交流之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E4%B9%8B%E5%A4%9C) — 27.7万 · 演出
+34. [董明珠直播数次训斥员工](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%9B%B4%E6%92%AD%E6%95%B0%E6%AC%A1%E8%AE%AD%E6%96%A5%E5%91%98%E5%B7%A5%23) — 27.1万 · 新
+35. [Tarzan AL](https://s.weibo.com/weibo?q=Tarzan+AL) — 26.2万 · 新
+36. [全国电视开机率已降至30%](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E5%B7%B2%E9%99%8D%E8%87%B330%25%23) — 26.2万
+37. [易烊千玺回复了王俊凯王源](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%A4%8D%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%23) — 26.1万 · 热
+38. [芒果要做浪妹了](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E8%A6%81%E5%81%9A%E6%B5%AA%E5%A6%B9%E4%BA%86%23) — 26万 · 新
+39. [厉娜 龙丹妮](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C+%E9%BE%99%E4%B8%B9%E5%A6%AE) — 26万
+40. [张凯丽辟谣母亲92岁接受肾移植](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E8%BE%9F%E8%B0%A3%E6%AF%8D%E4%BA%B292%E5%B2%81%E6%8E%A5%E5%8F%97%E8%82%BE%E7%A7%BB%E6%A4%8D%23) — 25.9万 · 新
+41. [小米回应电视开机仍有广告](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E4%BB%8D%E6%9C%89%E5%B9%BF%E5%91%8A%23) — 25.8万 · 新
+42. [戚薇林子君 短剧](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9E%97%E5%AD%90%E5%90%9B+%E7%9F%AD%E5%89%A7) — 25.8万 · 热
+43. [许飞朋友和厉娜朋友发言对比](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%8E%89%E5%A8%9C%E6%9C%8B%E5%8F%8B%E5%8F%91%E8%A8%80%E5%AF%B9%E6%AF%94) — 25.6万
+44. [网传人工智能倒查贪腐](https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%80%92%E6%9F%A5%E8%B4%AA%E8%85%90) — 25.6万
+45. [国际文化交流之夜天猫解锁明星大片](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E4%B9%8B%E5%A4%9C%E5%A4%A9%E7%8C%AB%E8%A7%A3%E9%94%81%E6%98%8E%E6%98%9F%E5%A4%A7%E7%89%87%23) — 25.6万 · 新
+46. [178万买房次日得知拆迁买方发声](https://s.weibo.com/weibo?q=%23178%E4%B8%87%E4%B9%B0%E6%88%BF%E6%AC%A1%E6%97%A5%E5%BE%97%E7%9F%A5%E6%8B%86%E8%BF%81%E4%B9%B0%E6%96%B9%E5%8F%91%E5%A3%B0%23) — 25.5万
+47. [混团世界杯](https://s.weibo.com/weibo?q=%23%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%23) — 25.4万 · 新
+48. [厉娜大哭 惊恐发作](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%A4%A7%E5%93%AD+%E6%83%8A%E6%81%90%E5%8F%91%E4%BD%9C) — 25.4万 · 热
+49. [结婚千万不能找同村的](https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E6%89%BE%E5%90%8C%E6%9D%91%E7%9A%84) — 25.3万
+50. [曝苹果器重iPhone20Pro系列](https://s.weibo.com/weibo?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%99%A8%E9%87%8DiPhone20Pro%E7%B3%BB%E5%88%97) — 25.3万 · 新
 
 ### 抖音
 
@@ -76,49 +76,49 @@
 5. [淡人穿出时髦感的冬季穿搭](https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD) — 1117.8万
 6. [驻日使馆提醒中国公民防范地震](https://www.douyin.com/search/%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E5%9C%B0%E9%9C%87) — 1112.6万
 7. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1110.8万
-8. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 1107.9万
-9. [草莓桶蛋糕已经进化成XXXL号了](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86) — 1107万
-10. [养老托育两头难有了国家级解法](https://www.douyin.com/search/%E5%85%BB%E8%80%81%E6%89%98%E8%82%B2%E4%B8%A4%E5%A4%B4%E9%9A%BE%E6%9C%89%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%A3%E6%B3%95) — 1106.4万
-11. [MotoGP八冠王马奎斯宣布退役](https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9) — 1105.1万
-12. [坐火车的正确打开方式](https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) — 1049.7万
-13. [詹姆斯开场三分3连中](https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%80%E5%9C%BA%E4%B8%89%E5%88%863%E8%BF%9E%E4%B8%AD) — 1047.8万
-14. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 1045.3万
-15. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1034.5万
-16. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1025.6万
-17. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 934.1万
-18. [U17世界杯16强对阵正式出炉](https://www.douyin.com/search/U17%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%87%BA%E7%82%89) — 933.7万
-19. [歼20A运20B将首次亮相航展](https://www.douyin.com/search/%E6%AD%BC20A%E8%BF%9020B%E5%B0%86%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E8%88%AA%E5%B1%95) — 930.6万
-20. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 926.5万
-21. [国常会：加力发挥国家队稳市作用](https://www.douyin.com/search/%E5%9B%BD%E5%B8%B8%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%8A%9B%E5%8F%91%E6%8C%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%A8%B3%E5%B8%82%E4%BD%9C%E7%94%A8) — 923.4万
-22. [崇左麦那湖百万垂钓赛来了](https://www.douyin.com/search/%E5%B4%87%E5%B7%A6%E9%BA%A6%E9%82%A3%E6%B9%96%E7%99%BE%E4%B8%87%E5%9E%82%E9%92%93%E8%B5%9B%E6%9D%A5%E4%BA%86) — 918.3万
-23. [上汽MG官宣燃油车停产时间](https://www.douyin.com/search/%E4%B8%8A%E6%B1%BDMG%E5%AE%98%E5%AE%A3%E7%87%83%E6%B2%B9%E8%BD%A6%E5%81%9C%E4%BA%A7%E6%97%B6%E9%97%B4) — 917.3万
-24. [我爱上一张脸失去所有底线](https://www.douyin.com/search/%E6%88%91%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BC%A0%E8%84%B8%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E5%BA%95%E7%BA%BF) — 910.5万
-25. [U17国少在抖音庆祝世少赛出线](https://www.douyin.com/search/U17%E5%9B%BD%E5%B0%91%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E4%B8%96%E5%B0%91%E8%B5%9B%E5%87%BA%E7%BA%BF) — 910万
-26. [梁靖崑将赴俄超打球](https://www.douyin.com/search/%E6%A2%81%E9%9D%96%E5%B4%91%E5%B0%86%E8%B5%B4%E4%BF%84%E8%B6%85%E6%89%93%E7%90%83) — 907.7万
-27. [火旺动画定档](https://www.douyin.com/search/%E7%81%AB%E6%97%BA%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3) — 904.5万
-28. [严苛的训练迎来了专业选手](https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E8%BF%8E%E6%9D%A5%E4%BA%86%E4%B8%93%E4%B8%9A%E9%80%89%E6%89%8B) — 896.6万
-29. [中国男篮回应不敌沙特男篮](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE) — 889.9万
-30. [切尔西2:3不敌诺丁汉森林](https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF2:3%E4%B8%8D%E6%95%8C%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97) — 887.3万
-31. [你看世间朗朗有光照](https://www.douyin.com/search/%E4%BD%A0%E7%9C%8B%E4%B8%96%E9%97%B4%E6%9C%97%E6%9C%97%E6%9C%89%E5%85%89%E7%85%A7) — 884.6万
-32. [用小火人的方式打开甄嬛传](https://www.douyin.com/search/%E7%94%A8%E5%B0%8F%E7%81%AB%E4%BA%BA%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E7%94%84%E5%AC%9B%E4%BC%A0) — 883.9万
-33. [侯明昊北京演唱会](https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A) — 876.3万
-34. [coke赔小朋友自行车](https://www.douyin.com/search/coke%E8%B5%94%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%87%AA%E8%A1%8C%E8%BD%A6) — 871.7万
-35. [WBG官宣Elk离队](https://www.douyin.com/search/WBG%E5%AE%98%E5%AE%A3Elk%E7%A6%BB%E9%98%9F) — 871.1万
-36. [赵昭仪曝在剧组遭言语骚扰](https://www.douyin.com/search/%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E5%9C%A8%E5%89%A7%E7%BB%84%E9%81%AD%E8%A8%80%E8%AF%AD%E9%AA%9A%E6%89%B0) — 857.3万
-37. [我懵懵懂懂过了一年](https://www.douyin.com/search/%E6%88%91%E6%87%B5%E6%87%B5%E6%87%82%E6%87%82%E8%BF%87%E4%BA%86%E4%B8%80%E5%B9%B4) — 852.5万
-38. [官方辟谣新版教材存在多处错误](https://www.douyin.com/search/%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%89%88%E6%95%99%E6%9D%90%E5%AD%98%E5%9C%A8%E5%A4%9A%E5%A4%84%E9%94%99%E8%AF%AF) — 843.7万
-39. [二档大姨模仿申请出战](https://www.douyin.com/search/%E4%BA%8C%E6%A1%A3%E5%A4%A7%E5%A7%A8%E6%A8%A1%E4%BB%BF%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98) — 838.5万
-40. [绝区零FES](https://www.douyin.com/search/%E7%BB%9D%E5%8C%BA%E9%9B%B6FES) — 830.4万
-41. [王一博时隔2年要在汽水发新歌了](https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%B6%E9%9A%942%E5%B9%B4%E8%A6%81%E5%9C%A8%E6%B1%BD%E6%B0%B4%E5%8F%91%E6%96%B0%E6%AD%8C%E4%BA%86) — 829.5万
-42. [看海BO3挑战](https://www.douyin.com/search/%E7%9C%8B%E6%B5%B7BO3%E6%8C%91%E6%88%98) — 816.4万
-43. [易烊千玺生日单曲MV预告上线](https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%9F%E6%97%A5%E5%8D%95%E6%9B%B2MV%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF) — 813.9万
-44. [盘点那些第五人格神操作](https://www.douyin.com/search/%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%A5%9E%E6%93%8D%E4%BD%9C) — 806.5万
-45. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 798.7万
-46. [任贤齐陈楚生合唱祝你一路顺风](https://www.douyin.com/search/%E4%BB%BB%E8%B4%A4%E9%BD%90%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%88%E5%94%B1%E7%A5%9D%E4%BD%A0%E4%B8%80%E8%B7%AF%E9%A1%BA%E9%A3%8E) — 784.5万
-47. [华为Mate X8深度评测](https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20X8%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B) — 784.3万
-48. [两京十五日难得的明君直臣](https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E9%9A%BE%E5%BE%97%E7%9A%84%E6%98%8E%E5%90%9B%E7%9B%B4%E8%87%A3) — 783.3万
-49. [解析马天宇张萌矛盾缘由](https://www.douyin.com/search/%E8%A7%A3%E6%9E%90%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%E7%9F%9B%E7%9B%BE%E7%BC%98%E7%94%B1) — 783.1万
-50. [红发白敬亭帅到风扇摇头](https://www.douyin.com/search/%E7%BA%A2%E5%8F%91%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B8%85%E5%88%B0%E9%A3%8E%E6%89%87%E6%91%87%E5%A4%B4) — 782.7万
+8. [巴方官员同巴基斯坦航天员通话](https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D) — 1108.5万
+9. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 1107.9万
+10. [草莓桶蛋糕已经进化成XXXL号了](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86) — 1107万
+11. [养老托育两头难有了国家级解法](https://www.douyin.com/search/%E5%85%BB%E8%80%81%E6%89%98%E8%82%B2%E4%B8%A4%E5%A4%B4%E9%9A%BE%E6%9C%89%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%A3%E6%B3%95) — 1106.4万
+12. [MotoGP八冠王马奎斯宣布退役](https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9) — 1105.1万
+13. [坐火车的正确打开方式](https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) — 1049.7万
+14. [詹姆斯开场三分3连中](https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%80%E5%9C%BA%E4%B8%89%E5%88%863%E8%BF%9E%E4%B8%AD) — 1047.8万
+15. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 1045.3万
+16. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1034.5万
+17. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1025.6万
+18. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 934.1万
+19. [U17世界杯16强对阵正式出炉](https://www.douyin.com/search/U17%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%87%BA%E7%82%89) — 933.7万
+20. [歼20A运20B将首次亮相航展](https://www.douyin.com/search/%E6%AD%BC20A%E8%BF%9020B%E5%B0%86%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E8%88%AA%E5%B1%95) — 930.6万
+21. [马刺逆转湖人](https://www.douyin.com/search/%E9%A9%AC%E5%88%BA%E9%80%86%E8%BD%AC%E6%B9%96%E4%BA%BA) — 929.3万
+22. [独牙200万代勇vs柯秉中](https://www.douyin.com/search/%E7%8B%AC%E7%89%99200%E4%B8%87%E4%BB%A3%E5%8B%87vs%E6%9F%AF%E7%A7%89%E4%B8%AD) — 928.9万
+23. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 926.5万
+24. [国常会：加力发挥国家队稳市作用](https://www.douyin.com/search/%E5%9B%BD%E5%B8%B8%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%8A%9B%E5%8F%91%E6%8C%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%A8%B3%E5%B8%82%E4%BD%9C%E7%94%A8) — 923.4万
+25. [崇左麦那湖百万垂钓赛来了](https://www.douyin.com/search/%E5%B4%87%E5%B7%A6%E9%BA%A6%E9%82%A3%E6%B9%96%E7%99%BE%E4%B8%87%E5%9E%82%E9%92%93%E8%B5%9B%E6%9D%A5%E4%BA%86) — 918.3万
+26. [上汽MG官宣燃油车停产时间](https://www.douyin.com/search/%E4%B8%8A%E6%B1%BDMG%E5%AE%98%E5%AE%A3%E7%87%83%E6%B2%B9%E8%BD%A6%E5%81%9C%E4%BA%A7%E6%97%B6%E9%97%B4) — 917.3万
+27. [美国人也爱上了喝茶N件套](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B9%9F%E7%88%B1%E4%B8%8A%E4%BA%86%E5%96%9D%E8%8C%B6N%E4%BB%B6%E5%A5%97) — 912.6万
+28. [我爱上一张脸失去所有底线](https://www.douyin.com/search/%E6%88%91%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BC%A0%E8%84%B8%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E5%BA%95%E7%BA%BF) — 910.5万
+29. [U17国少在抖音庆祝世少赛出线](https://www.douyin.com/search/U17%E5%9B%BD%E5%B0%91%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E4%B8%96%E5%B0%91%E8%B5%9B%E5%87%BA%E7%BA%BF) — 910万
+30. [梁靖崑将赴俄超打球](https://www.douyin.com/search/%E6%A2%81%E9%9D%96%E5%B4%91%E5%B0%86%E8%B5%B4%E4%BF%84%E8%B6%85%E6%89%93%E7%90%83) — 907.7万
+31. [火旺动画定档](https://www.douyin.com/search/%E7%81%AB%E6%97%BA%E5%8A%A8%E7%94%BB%E5%AE%9A%E6%A1%A3) — 904.5万
+32. [严苛的训练迎来了专业选手](https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E8%BF%8E%E6%9D%A5%E4%BA%86%E4%B8%93%E4%B8%9A%E9%80%89%E6%89%8B) — 896.6万
+33. [中国男篮回应不敌沙特男篮](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE) — 889.9万
+34. [切尔西2:3不敌诺丁汉森林](https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF2:3%E4%B8%8D%E6%95%8C%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97) — 887.3万
+35. [你看世间朗朗有光照](https://www.douyin.com/search/%E4%BD%A0%E7%9C%8B%E4%B8%96%E9%97%B4%E6%9C%97%E6%9C%97%E6%9C%89%E5%85%89%E7%85%A7) — 884.6万
+36. [用小火人的方式打开甄嬛传](https://www.douyin.com/search/%E7%94%A8%E5%B0%8F%E7%81%AB%E4%BA%BA%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E7%94%84%E5%AC%9B%E4%BC%A0) — 883.9万
+37. [侯明昊北京演唱会](https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A) — 876.3万
+38. [coke赔小朋友自行车](https://www.douyin.com/search/coke%E8%B5%94%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%87%AA%E8%A1%8C%E8%BD%A6) — 871.7万
+39. [WBG官宣Elk离队](https://www.douyin.com/search/WBG%E5%AE%98%E5%AE%A3Elk%E7%A6%BB%E9%98%9F) — 871.1万
+40. [赵昭仪曝在剧组遭言语骚扰](https://www.douyin.com/search/%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%9B%9D%E5%9C%A8%E5%89%A7%E7%BB%84%E9%81%AD%E8%A8%80%E8%AF%AD%E9%AA%9A%E6%89%B0) — 857.3万
+41. [我懵懵懂懂过了一年](https://www.douyin.com/search/%E6%88%91%E6%87%B5%E6%87%B5%E6%87%82%E6%87%82%E8%BF%87%E4%BA%86%E4%B8%80%E5%B9%B4) — 852.5万
+42. [官方辟谣新版教材存在多处错误](https://www.douyin.com/search/%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%89%88%E6%95%99%E6%9D%90%E5%AD%98%E5%9C%A8%E5%A4%9A%E5%A4%84%E9%94%99%E8%AF%AF) — 843.7万
+43. [二档大姨模仿申请出战](https://www.douyin.com/search/%E4%BA%8C%E6%A1%A3%E5%A4%A7%E5%A7%A8%E6%A8%A1%E4%BB%BF%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98) — 838.5万
+44. [绝区零FES](https://www.douyin.com/search/%E7%BB%9D%E5%8C%BA%E9%9B%B6FES) — 830.4万
+45. [王一博时隔2年要在汽水发新歌了](https://www.douyin.com/search/%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%B6%E9%9A%942%E5%B9%B4%E8%A6%81%E5%9C%A8%E6%B1%BD%E6%B0%B4%E5%8F%91%E6%96%B0%E6%AD%8C%E4%BA%86) — 829.5万
+46. [俄乌两军冬季战前补给成重中之重](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E5%86%AC%E5%AD%A3%E6%88%98%E5%89%8D%E8%A1%A5%E7%BB%99%E6%88%90%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D) — 817.6万
+47. [看海BO3挑战](https://www.douyin.com/search/%E7%9C%8B%E6%B5%B7BO3%E6%8C%91%E6%88%98) — 816.4万
+48. [易烊千玺生日单曲MV预告上线](https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%9F%E6%97%A5%E5%8D%95%E6%9B%B2MV%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF) — 813.9万
+49. [盘点那些第五人格神操作](https://www.douyin.com/search/%E7%9B%98%E7%82%B9%E9%82%A3%E4%BA%9B%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%A5%9E%E6%93%8D%E4%BD%9C) — 806.5万
+50. [严肃进入舒服过冬模式](https://www.douyin.com/search/%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E8%88%92%E6%9C%8D%E8%BF%87%E5%86%AC%E6%A8%A1%E5%BC%8F) — 798.7万
 
 ### 小红书
 
